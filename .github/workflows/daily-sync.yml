@@ -1,0 +1,41 @@
+name: Daily Data Refinery Sync
+
+on:
+  schedule:
+    # Run at 11:30 PM IST (18:00 UTC) every day
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+
+jobs:
+  run-refinery:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Needed to commit JSON files back to the repo
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+          cache: "npm"
+
+      - name: Install Dependencies
+        run: npm ci
+
+      - name: Build Scraper
+        run: npm run build --workspace=@repo/scraper
+
+      - name: Execute Master Scraper (Data Refinery)
+        run: npm run start --workspace=@repo/scraper
+
+      - name: Commit and Push Data to CDN
+        run: |
+          git config --global user.name "MF Atlas Bot"
+          git config --global user.email "bot@mfatlas.local"
+          git add data/
+          git commit -m "data(auto): daily NAV sync [skip ci]" || echo "No changes to commit"
+          git push
