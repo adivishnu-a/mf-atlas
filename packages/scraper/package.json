@@ -1,0 +1,25 @@
+{
+  "name": "@mf-atlas/scraper",
+  "version": "1.0.0",
+  "description": "ETL pipeline for fetching AMFI NAV data and Kuvera metadata",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "lint": "eslint \"src/**/*.ts*\"",
+    "start": "node dist/index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "cheerio": "^1.0.0-rc.12",
+    "csv-parse": "^5.5.0",
+    "zod": "^3.22.4"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0"
+  }
+}

@@ -19,14 +19,14 @@ Build an Indian Mutual Fund Discovery and Analysis Platform as described in `MF 
 
 - [x] Read PRD
 - [x] Create planning files
-- [ ] Initialize Monorepo (Turborepo/npm workspaces)
-- [ ] Scaffold Next.js Web App
-- [ ] Scaffold Expo Mobile App
+- [x] Initialize Monorepo (Turborepo/npm workspaces)
+- [x] Scaffold Next.js Web App
+- [x] Scaffold Expo Mobile App
 
 ### Phase 1: The Data Refinery (The Foundation)
 
 - [ ] Set up GitHub Storage & Pages (CDN)
-- [ ] Implement Master Scraper (mfapi.in, Kuvera)
+- [/] Implement Master Scraper (mfapi.in, Kuvera)
 - [ ] Configure GitHub Actions for Daily Sync
 - [ ] Run Initial Seed
 
@@ -65,4 +65,4 @@ Build an Indian Mutual Fund Discovery and Analysis Platform as described in `MF 
 
 ## Current Focus
 
-Phase 0: Project Setup - Initializing the monorepo.
+Phase 1: The Data Refinery - Setting up GitHub repository for data CDN and implementing the Master Scraper.

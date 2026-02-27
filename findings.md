@@ -15,3 +15,13 @@
 
 - Best CLI approach to generate a modern Next.js + Expo monorepo (e.g. `create-t3-turbo` or manual `npm workspaces`).
 - Turso CLI local setup requirements.
+
+## API Integration Details
+
+- **AMFI NAV List**: `https://portal.amfiindia.com/spages/NAVAll.txt`
+- **mfapi.in Detail API**: `https://api.mfapi.in/mf/{scheme_code}`
+- **Kuvera List API**: `https://api.kuvera.in/mf/api/v4/fund_schemes/list.json`
+  - Needs headers to avoid blocking if heavily used.
+  - Structure: `data[AssetClass][Category][FundHouse]` arrays.
+  - Fund structure: `c` (code), `n` (name), `re` (reinvestment 'Y'/'Z'), `v` (NAV).
+- **Kuvera Details API**: `https://api.kuvera.in/mf/api/v5/fund_schemes/{code}.json`
