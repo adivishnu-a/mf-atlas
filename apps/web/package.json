@@ -11,9 +11,11 @@
     "check-types": "next typegen && tsc --noEmit"
   },
   "dependencies": {
+    "@auth/drizzle-adapter": "^1.11.1",
     "@mf-atlas/db": "^1.0.0",
     "@repo/ui": "*",
     "next": "16.1.5",
+    "next-auth": "^5.0.0-beta.30",
     "react": "^19.2.0",
     "react-dom": "^19.2.0"
   },
