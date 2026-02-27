@@ -3,2088 +3,2436 @@
     "name": "Taurus Largecap Equity Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "TAURUSMUTUALFUND_MF",
-    "isin": "INF044D01BX3"
+    "isin": "INF044D01BX3",
+    "schemeCode": 118870
   },
   "419-GR": {
     "name": "Franklin India Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01FN7"
+    "isin": "INF090I01FN7",
+    "schemeCode": 118531
   },
   "8042-GR": {
     "name": "ICICI Prudential Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K016L0"
+    "isin": "INF109K016L0",
+    "schemeCode": 120586
   },
   "KO13D-GR": {
     "name": "Kotak Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174K01KW6"
+    "isin": "INF174K01KW6",
+    "schemeCode": 120152
   },
   "44T-GR": {
     "name": "HDFC Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179K01YV8"
+    "isin": "INF179K01YV8",
+    "schemeCode": 119018
   },
   "JMEFDG-GR": {
     "name": "JM Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01BZ0"
+    "isin": "INF192K01BZ0",
+    "schemeCode": 120490
   },
   "D207-GR": {
     "name": "Bandhan Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194K01Z44"
+    "isin": "INF194K01Z44",
+    "schemeCode": 118479
   },
   "SBD103G-GR": {
     "name": "SBI Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01QX4"
+    "isin": "INF200K01QX4",
+    "schemeCode": 119598
   },
   "EAAB-GR": {
     "name": "Nippon India Large Cap Bonus Bonus Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01D30"
+    "isin": "INF204K01D30",
+    "schemeCode": 118633
   },
   "EAAG-GR": {
     "name": "Nippon India Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01XI3"
+    "isin": "INF204K01XI3",
+    "schemeCode": 118632
   },
   "RGBLD1-GR": {
     "name": "Invesco India Largecap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K01LB0"
+    "isin": "INF205K01LB0",
+    "schemeCode": 120392
   },
   "BS92Z-GR": {
     "name": "Aditya Birla Sun Life Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209K01YY7"
+    "isin": "INF209K01YY7",
+    "schemeCode": 119528
   },
   "BPLCDG-GR": {
     "name": "Baroda BNP Paribas Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF251K01HN7"
+    "isin": "INF251K01HN7",
+    "schemeCode": 150187
   },
   "TAPEFZ-GR": {
     "name": "Tata Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K01QZ7"
+    "isin": "INF277K01QZ7",
+    "schemeCode": 119160
   },
   "HEFG-GR": {
     "name": "HSBC Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01CM7"
+    "isin": "INF336L01CM7",
+    "schemeCode": 120030
   },
   "UNFLFGD-GR": {
     "name": "Union Largecap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01CU7"
+    "isin": "INF582M01CU7",
+    "schemeCode": 141248
   },
   "UNFLFRD-GR": {
     "name": "Union Largecap IDCW Reinvest Direct Plan",
     "category": "Large Cap Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01CW3"
+    "isin": "INF582M01CW3",
+    "schemeCode": null
   },
   "PRFED1-GR": {
     "name": "PGIM India Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01GR4"
+    "isin": "INF663L01GR4",
+    "schemeCode": 138312
   },
   "INBCG1-GR": {
     "name": "Groww Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "GROWWMUTUALFUND_MF",
-    "isin": "INF666M01600"
+    "isin": "INF666M01600",
+    "schemeCode": 119133
   },
   "DS776-GR": {
     "name": "DSP Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "DSP_MF",
-    "isin": "INF740K01PR3"
+    "isin": "INF740K01PR3",
+    "schemeCode": 119250
   },
   "EGDG-GR": {
     "name": "Edelweiss Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF754K01BW4"
+    "isin": "INF754K01BW4",
+    "schemeCode": 118617
   },
   "CALCDG-GR": {
     "name": "Canara Robeco Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01FR2"
+    "isin": "INF760K01FR2",
+    "schemeCode": 118269
   },
   "MAFIOD1-GR": {
     "name": "Mirae Asset Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01AX2"
+    "isin": "INF769K01AX2",
+    "schemeCode": 118825
   },
   "UTMRD2-GR": {
     "name": "UTI Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F01US8"
+    "isin": "INF789F01US8",
+    "schemeCode": 120656
   },
   "AXEFDG-GR": {
     "name": "Axis Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01DP8"
+    "isin": "INF846K01DP8",
+    "schemeCode": 120465
   },
   "MHMPBDG-GR": {
     "name": "Mahindra Manulife Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01721"
+    "isin": "INF174V01721",
+    "schemeCode": 146549
   },
   "SUBCDG-GR": {
     "name": "Sundaram Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF903JA1JC0"
+    "isin": "INF903JA1JC0",
+    "schemeCode": 148507
   },
   "ITLCG1-GR": {
     "name": "ITI Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01804"
+    "isin": "INF00XX01804",
+    "schemeCode": 148353
   },
   "BABCDG-GR": {
     "name": "Bank Of India Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01FL3"
+    "isin": "INF761K01FL3",
+    "schemeCode": 148980
   },
   "QULCDG-GR": {
     "name": "Quant Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01AT0"
+    "isin": "INF966L01AT0",
+    "schemeCode": 150440
   },
   "YED103G-GR": {
     "name": "Whiteoak Capital Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "WHITEOAKCAPITALMUTUALFUND_MF",
-    "isin": "INF03VN01696"
+    "isin": "INF03VN01696",
+    "schemeCode": 150797
   },
   "MOLCGD-GR": {
     "name": "Motilal Oswal Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01CE3"
+    "isin": "INF247L01CE3",
+    "schemeCode": 152354
   },
   "BJLCDG-GR": {
     "name": "Bajaj Finserv Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "BAJAJ FINSERV_MF",
-    "isin": "INF0QA701896"
+    "isin": "INF0QA701896",
+    "schemeCode": 152783
   },
   "SALCDG-GR": {
     "name": "Samco Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01255"
+    "isin": "INF0K1H01255",
+    "schemeCode": 153239
   },
   "QUSF3DG-GR": {
     "name": "Qsif Equity Ex Top 100 Long Short Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "QUANTMUTUALFUND_MF_SIF",
-    "isin": "INF966L30159"
+    "isin": "INF966L30159",
+    "schemeCode": null
   },
   "PPLCFGZ-GR": {
     "name": "Parag Parikh Large Cap Growth Direct Plan",
     "category": "Large Cap Fund",
     "amc": "PPFAS_MF",
-    "isin": "INF879O01332"
+    "isin": "INF879O01332",
+    "schemeCode": 154155
   },
   "TUDSG1G-GR": {
     "name": "Taurus Discovery Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "TAURUSMUTUALFUND_MF",
-    "isin": "INF044D01CA9"
+    "isin": "INF044D01CA9",
+    "schemeCode": 118872
   },
   "417-GR": {
     "name": "Franklin India Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01FH9"
+    "isin": "INF090I01FH9",
+    "schemeCode": 118533
   },
   "8182-GR": {
     "name": "ICICI Prudential Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K011N7"
+    "isin": "INF109K011N7",
+    "schemeCode": 120381
   },
   "KO123D-GR": {
     "name": "Kotak Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174K01LT0"
+    "isin": "INF174K01LT0",
+    "schemeCode": 119775
   },
   "MHEBYDG-GR": {
     "name": "Mahindra Manulife Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01507"
+    "isin": "INF174V01507",
+    "schemeCode": 142110
   },
   "MCOGT-GR": {
     "name": "HDFC Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179K01XQ0"
+    "isin": "INF179K01XQ0",
+    "schemeCode": 118989
   },
   "SBD091G-GR": {
     "name": "SBI Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01TP4"
+    "isin": "INF200K01TP4",
+    "schemeCode": 119716
   },
   "GFAB-GR": {
     "name": "Nippon India Mid Cap Bonus Bonus Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01E21"
+    "isin": "INF204K01E21",
+    "schemeCode": 118665
   },
   "GFAG-GR": {
     "name": "Nippon India Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01E54"
+    "isin": "INF204K01E54",
+    "schemeCode": 118668
   },
   "RGMCD1-GR": {
     "name": "Invesco India Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K01MV6"
+    "isin": "INF205K01MV6",
+    "schemeCode": 120403
   },
   "BS251GZ-GR": {
     "name": "Aditya Birla Sun Life Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209K01Q30"
+    "isin": "INF209K01Q30",
+    "schemeCode": 119620
   },
   "MOFMGD-GR": {
     "name": "Motilal Oswal Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01445"
+    "isin": "INF247L01445",
+    "schemeCode": 127042
   },
   "BPMCDG-GR": {
     "name": "Baroda BNP Paribas Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF251K01HQ0"
+    "isin": "INF251K01HQ0",
+    "schemeCode": 150212
   },
   "TAGROGZ-GR": {
     "name": "Tata Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K01PY2"
+    "isin": "INF277K01PY2",
+    "schemeCode": 119178
   },
   "LCIMG1-GR": {
     "name": "LIC Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF397L01JK8"
+    "isin": "INF397L01JK8",
+    "schemeCode": 152002
   },
   "PRMOG1-GR": {
     "name": "PGIM India Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01DV3"
+    "isin": "INF663L01DV3",
+    "schemeCode": 125307
   },
   "DS782-GR": {
     "name": "DSP Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "DSP_MF",
-    "isin": "INF740K01PX1"
+    "isin": "INF740K01PX1",
+    "schemeCode": 119071
   },
   "UTMCD2-GR": {
     "name": "UTI Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F01UA6"
+    "isin": "INF789F01UA6",
+    "schemeCode": 120726
   },
   "EDMSD1-GR": {
     "name": "Edelweiss Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF843K01AO4"
+    "isin": "INF843K01AO4",
+    "schemeCode": 140228
   },
   "MCDG-GR": {
     "name": "Axis Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01EH3"
+    "isin": "INF846K01EH3",
+    "schemeCode": 120505
   },
   "SU04PD-GR": {
     "name": "Sundaram Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF903J01MJ3"
+    "isin": "INF903J01MJ3",
+    "schemeCode": 119581
   },
   "HS17D-GR": {
     "name": "HSBC Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF917K01FZ1"
+    "isin": "INF917K01FZ1",
+    "schemeCode": 151036
   },
   "HSHMFG-GR": {
     "name": "HSBC Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01QB0"
+    "isin": "INF336L01QB0",
+    "schemeCode": null
   },
   "MAMCD1-GR": {
     "name": "Mirae Asset Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01FA9"
+    "isin": "INF769K01FA9",
+    "schemeCode": 147445
   },
   "QUOFDG-GR": {
     "name": "Quant Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01887"
+    "isin": "INF966L01887",
+    "schemeCode": 120841
   },
   "UNMFDG-GR": {
     "name": "Union Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01GI3"
+    "isin": "INF582M01GI3",
+    "schemeCode": 148073
   },
   "ITMDG1-GR": {
     "name": "ITI Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01929"
+    "isin": "INF00XX01929",
+    "schemeCode": 148733
   },
   "IDD361-GR": {
     "name": "Bandhan Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194KB1DJ2"
+    "isin": "INF194KB1DJ2",
+    "schemeCode": 150404
   },
   "YED101G-GR": {
     "name": "Whiteoak Capital Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "WHITEOAKCAPITALMUTUALFUND_MF",
-    "isin": "INF03VN01597"
+    "isin": "INF03VN01597",
+    "schemeCode": 150584
   },
   "JMMDDG-GR": {
     "name": "JM Midcap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01MV6"
+    "isin": "INF192K01MV6",
+    "schemeCode": 150815
   },
   "CAMDDG-GR": {
     "name": "Canara Robeco Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01KI1"
+    "isin": "INF760K01KI1",
+    "schemeCode": 150817
   },
   "HOHMCDG-GR": {
     "name": "Helios Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "HELIOSMUTUALFUND_MF",
-    "isin": "INF0R8701327"
+    "isin": "INF0R8701327",
+    "schemeCode": 153326
   },
   "BAMDDG-GR": {
     "name": "Bank Of India Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01GY4"
+    "isin": "INF761K01GY4",
+    "schemeCode": 153728
   },
   "SAMIDG-GR": {
     "name": "Samco Mid Cap Growth Direct Plan",
     "category": "Mid Cap Fund",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01313"
+    "isin": "INF0K1H01313",
+    "schemeCode": 154114
   },
   "478-GR": {
     "name": "Franklin India Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01IQ4"
+    "isin": "INF090I01IQ4",
+    "schemeCode": 118525
   },
   "8034-GR": {
     "name": "ICICI Prudential Smallcap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K015M0"
+    "isin": "INF109K015M0",
+    "schemeCode": 120591
   },
   "KO104D-GR": {
     "name": "Kotak Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174K01KT2"
+    "isin": "INF174K01KT2",
+    "schemeCode": 120164
   },
   "HDACG1G-GR": {
     "name": "HDFC Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179KA1RW5"
+    "isin": "INF179KA1RW5",
+    "schemeCode": 130503
   },
   "SBD346G-GR": {
     "name": "SBI Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01T51"
+    "isin": "INF200K01T51",
+    "schemeCode": 125497
   },
   "SCAB-GR": {
     "name": "Nippon India Small Cap Bonus Bonus Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01J83"
+    "isin": "INF204K01J83",
+    "schemeCode": 118777
   },
   "SCAG-GR": {
     "name": "Nippon India Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01K15"
+    "isin": "INF204K01K15",
+    "schemeCode": 118778
   },
   "RGSCD1-GR": {
     "name": "Invesco India Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K013T3"
+    "isin": "INF205K013T3",
+    "schemeCode": 145137
   },
   "BS295GZ-GR": {
     "name": "Aditya Birla Sun Life Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209K01WN4"
+    "isin": "INF209K01WN4",
+    "schemeCode": 119556
   },
   "TASCFGZ-GR": {
     "name": "Tata Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K011O1"
+    "isin": "INF277K011O1",
+    "schemeCode": 145206
   },
   "HMEG-GR": {
     "name": "HSBC Small Cap Equity Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01DQ6"
+    "isin": "INF336L01DQ6",
+    "schemeCode": null
   },
   "HSLEBDG-GR": {
     "name": "HSBC Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF917K01QA1"
+    "isin": "INF917K01QA1",
+    "schemeCode": 151130
   },
   "LCSCG1-GR": {
     "name": "LIC Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF397L01JS1"
+    "isin": "INF397L01JS1",
+    "schemeCode": 152004
   },
   "UNSMFGD-GR": {
     "name": "Union Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01BU9"
+    "isin": "INF582M01BU9",
+    "schemeCode": 129649
   },
   "DS788-GR": {
     "name": "DSP Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "DSP_MF",
-    "isin": "INF740K01QD1"
+    "isin": "INF740K01QD1",
+    "schemeCode": 119212
   },
   "SU72PD-GR": {
     "name": "Sundaram Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF903J01NK9"
+    "isin": "INF903J01NK9",
+    "schemeCode": 119589
   },
   "BASCDG-GR": {
     "name": "Bank Of India Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01EP7"
+    "isin": "INF761K01EP7",
+    "schemeCode": 145678
   },
   "AXSCDG-GR": {
     "name": "Axis Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01K35"
+    "isin": "INF846K01K35",
+    "schemeCode": 125354
   },
   "EDSCD1-GR": {
     "name": "Edelweiss Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF754K01JN6"
+    "isin": "INF754K01JN6",
+    "schemeCode": 146196
   },
   "CASCDG-GR": {
     "name": "Canara Robeco Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01JC6"
+    "isin": "INF760K01JC6",
+    "schemeCode": 146130
   },
   "QUIBDG-GR": {
     "name": "Quant Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01689"
+    "isin": "INF966L01689",
+    "schemeCode": 120828
   },
   "ITSCG1-GR": {
     "name": "ITI Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01747"
+    "isin": "INF00XX01747",
+    "schemeCode": 147919
   },
   "IDD340-GR": {
     "name": "Bandhan Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194KB1AL4"
+    "isin": "INF194KB1AL4",
+    "schemeCode": 147946
   },
   "UTSPG1-GR": {
     "name": "UTI Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F1AUQ1"
+    "isin": "INF789F1AUQ1",
+    "schemeCode": 148618
   },
   "PRSCG1-GR": {
     "name": "PGIM India Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01W06"
+    "isin": "INF663L01W06",
+    "schemeCode": 149019
   },
   "MHMSCDG-GR": {
     "name": "Mahindra Manulife Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01BK7"
+    "isin": "INF174V01BK7",
+    "schemeCode": 150915
   },
   "BPSCDG-GR": {
     "name": "Baroda BNP Paribas Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF251K01SR5"
+    "isin": "INF251K01SR5",
+    "schemeCode": 152128
   },
   "QTSCGP-GR": {
     "name": "Quantum Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "QUANTUMMUTUALFUND_MF",
-    "isin": "INF082J01432"
+    "isin": "INF082J01432",
+    "schemeCode": 152107
   },
   "MOSCGD-GR": {
     "name": "Motilal Oswal Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01BY3"
+    "isin": "INF247L01BY3",
+    "schemeCode": 152237
   },
   "JMSCDG-GR": {
     "name": "JM Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01NH3"
+    "isin": "INF192K01NH3",
+    "schemeCode": 152614
   },
   "TSSCDG-GR": {
     "name": "TrustMF Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "TRUSTMUTUALFUND_MF",
-    "isin": "INF0GCD01800"
+    "isin": "INF0GCD01800",
+    "schemeCode": 152939
   },
   "MASCD1-GR": {
     "name": "Mirae Asset Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01NJ4"
+    "isin": "INF769K01NJ4",
+    "schemeCode": 153196
   },
   "BJSCDG-GR": {
     "name": "Bajaj Finserv Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "BAJAJ FINSERV_MF",
-    "isin": "INF0QA701BN2"
+    "isin": "INF0QA701BN2",
+    "schemeCode": 153612
   },
   "HOHSCDG-GR": {
     "name": "Helios Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "HELIOSMUTUALFUND_MF",
-    "isin": "INF0R8701384"
+    "isin": "INF0R8701384",
+    "schemeCode": 153912
   },
   "SASCDG-GR": {
     "name": "Samco Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01297"
+    "isin": "INF0K1H01297",
+    "schemeCode": 153868
   },
   "INSCG1-GR": {
     "name": "Groww Small Cap Growth Direct Plan",
     "category": "Small Cap Fund",
     "amc": "GROWWMUTUALFUND_MF",
-    "isin": "INF666M01NJ8"
+    "isin": "INF666M01NJ8",
+    "schemeCode": 154063
   },
   "TUSSG1G-GR": {
     "name": "Taurus Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "TAURUSMUTUALFUND_MF",
-    "isin": "INF044D01BU9"
+    "isin": "INF044D01BU9",
+    "schemeCode": 118883
   },
   "418-GR": {
     "name": "Franklin India Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01FK3"
+    "isin": "INF090I01FK3",
+    "schemeCode": 118535
   },
   "FR1006-GR": {
     "name": "Franklin India Multi Factor Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01YQ1"
+    "isin": "INF090I01YQ1",
+    "schemeCode": 153942
   },
   "KO168D-GR": {
     "name": "Kotak Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174K01LS2"
+    "isin": "INF174K01LS2",
+    "schemeCode": 120166
   },
   "02T-GR": {
     "name": "HDFC Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179K01UT0"
+    "isin": "INF179K01UT0",
+    "schemeCode": 118955
   },
   "MSDG-GR": {
     "name": "JM Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01CC7"
+    "isin": "INF192K01CC7",
+    "schemeCode": 120492
   },
   "D203-GR": {
     "name": "Bandhan Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194K01W62"
+    "isin": "INF194K01W62",
+    "schemeCode": 118424
   },
   "SBD099G-GR": {
     "name": "SBI Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01UG1"
+    "isin": "INF200K01UG1",
+    "schemeCode": 119718
   },
   "BS51Z-GR": {
     "name": "Aditya Birla Sun Life Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209K01XX1"
+    "isin": "INF209K01XX1",
+    "schemeCode": 120564
   },
   "CPGD-GR": {
     "name": "Motilal Oswal Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01502"
+    "isin": "INF247L01502",
+    "schemeCode": 129046
   },
   "MOFPGD-GR": {
     "name": "Motilal Oswal Diversified Equity Flexicap Passive FoF Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01GL9"
+    "isin": "INF247L01GL9",
+    "schemeCode": 154112
   },
   "TAMTCGZ-GR": {
     "name": "Tata Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K015K0"
+    "isin": "INF277K015K0",
+    "schemeCode": 144546
   },
   "HEOIG-GR": {
     "name": "HSBC Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01DH5"
+    "isin": "INF336L01DH5",
+    "schemeCode": 120046
   },
   "UNEFGD-GR": {
     "name": "Union Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01633"
+    "isin": "INF582M01633",
+    "schemeCode": 119292
   },
   "PRDEG1-GR": {
     "name": "PGIM India Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01FF1"
+    "isin": "INF663L01FF1",
+    "schemeCode": 133839
   },
   "SH103D-GR": {
     "name": "Shriram Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "SHRIRAMMUTUALFUND_MF",
-    "isin": "INF680P01109"
+    "isin": "INF680P01109",
+    "schemeCode": 144905
   },
   "DS767-GR": {
     "name": "DSP Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "DSP_MF",
-    "isin": "INF740K01PI2"
+    "isin": "INF740K01PI2",
+    "schemeCode": 119076
   },
   "CADVDG-GR": {
     "name": "Canara Robeco Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01EF0"
+    "isin": "INF760K01EF0",
+    "schemeCode": 118275
   },
   "UTEQD2-GR": {
     "name": "UTI Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F01TC4"
+    "isin": "INF789F01TC4",
+    "schemeCode": 120662
   },
   "EDERD1-GR": {
     "name": "Edelweiss Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF843K01KK1"
+    "isin": "INF843K01KK1",
+    "schemeCode": 140353
   },
   "AXMLDG-GR": {
     "name": "Axis Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01B28"
+    "isin": "INF846K01B28",
+    "schemeCode": 141925
   },
   "PP001ZG-GR": {
     "name": "Parag Parikh Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "PPFAS_MF",
-    "isin": "INF879O01027"
+    "isin": "INF879O01027",
+    "schemeCode": 122639
   },
   "ESMFGD-GR": {
     "name": "Navi Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "NAVIMUTUALFUND_MF",
-    "isin": "INF959L01DT9"
+    "isin": "INF959L01DT9",
+    "schemeCode": 143793
   },
   "QUPEDG-GR": {
     "name": "Quant Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01911"
+    "isin": "INF966L01911",
+    "schemeCode": 120843
   },
   "BAMPDG-GR": {
     "name": "Bank Of India Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01FF5"
+    "isin": "INF761K01FF5",
+    "schemeCode": 148404
   },
   "IC9645-GR": {
     "name": "ICICI Prudential Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109KC1R14"
+    "isin": "INF109KC1R14",
+    "schemeCode": 148990
   },
   "RLLCAG-GR": {
     "name": "Nippon India Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204KC1121"
+    "isin": "INF204KC1121",
+    "schemeCode": 149094
   },
   "MHMFCDG-GR": {
     "name": "Mahindra Manulife Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01AS2"
+    "isin": "INF174V01AS2",
+    "schemeCode": 149104
   },
   "SAFCDG-GR": {
     "name": "Samco Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01024"
+    "isin": "INF0K1H01024",
+    "schemeCode": 149450
   },
   "RGF9D1-GR": {
     "name": "Invesco India Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205KA1494"
+    "isin": "INF205KA1494",
+    "schemeCode": 149763
   },
   "YE1038-GR": {
     "name": "Whiteoak Capital Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "WHITEOAKCAPITALMUTUALFUND_MF",
-    "isin": "INF03VN01530"
+    "isin": "INF03VN01530",
+    "schemeCode": 150346
   },
   "BPFXDG-GR": {
     "name": "Baroda BNP Paribas Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF251K01QZ2"
+    "isin": "INF251K01QZ2",
+    "schemeCode": 150387
   },
   "SUFCDG-GR": {
     "name": "Sundaram Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF903JA1LE2"
+    "isin": "INF903JA1LE2",
+    "schemeCode": 150571
   },
   "ITFCG1-GR": {
     "name": "ITI Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01CO7"
+    "isin": "INF00XX01CO7",
+    "schemeCode": 151379
   },
   "MAFCD1-GR": {
     "name": "Mirae Asset Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01JJ2"
+    "isin": "INF769K01JJ2",
+    "schemeCode": 151412
   },
   "IIIFCDG-GR": {
     "name": "360 One Flexicap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "360_ONE_MUTUALFUND_MF",
-    "isin": "INF579M01AS1"
+    "isin": "INF579M01AS1",
+    "schemeCode": 151796
   },
   "BJFXDG-GR": {
     "name": "Bajaj Finserv Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "BAJAJ FINSERV_MF",
-    "isin": "INF0QA701342"
+    "isin": "INF0QA701342",
+    "schemeCode": 151895
   },
   "NJFCDG-GR": {
     "name": "NJ Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "NJMUTUALFUND_MF",
-    "isin": "INF0J8L01156"
+    "isin": "INF0J8L01156",
+    "schemeCode": 151917
   },
   "HOHFCDG-GR": {
     "name": "Helios Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "HELIOSMUTUALFUND_MF",
-    "isin": "INF0R8701046"
+    "isin": "INF0R8701046",
+    "schemeCode": 152135
   },
   "TSFCDG-GR": {
     "name": "TrustMF Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "TRUSTMUTUALFUND_MF",
-    "isin": "INF0GCD01743"
+    "isin": "INF0GCD01743",
+    "schemeCode": 152584
   },
   "UFFCFDG-GR": {
     "name": "Unifi Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "UNIFIMUTUALFUND_MF",
-    "isin": "INF1MIY01031"
+    "isin": "INF1MIY01031",
+    "schemeCode": 153543
   },
   "CMFCDG-GR": {
     "name": "Capitalmind Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "CAPITALMINDMUTUALFUND_MF",
-    "isin": "INF226401018"
+    "isin": "INF226401018",
+    "schemeCode": 153738
   },
   "JI180-GR": {
     "name": "Jioblackrock Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "JIOBLACKROCKMUTUALFUND_MF",
-    "isin": "INF22M001093"
+    "isin": "INF22M001093",
+    "schemeCode": 153859
   },
   "WEFCDG-GR": {
     "name": "The Wealth Company Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "THEWEALTHCOMPANYMUTUALFUND_MF",
-    "isin": "INF2F0001040"
+    "isin": "INF2F0001040",
+    "schemeCode": 153872
   },
   "AKFCDG-GR": {
     "name": "Abakkus Flexi Cap Growth Direct Plan",
     "category": "Flexi Cap Fund",
     "amc": "ABAKKUSMUTUALFUND_MF",
-    "isin": "INF2JJD01136"
+    "isin": "INF2JJD01136",
+    "schemeCode": 154043
   },
   "8030-GR": {
     "name": "ICICI Prudential Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K014O9"
+    "isin": "INF109K014O9",
+    "schemeCode": 120599
   },
   "SUMGZG-GR": {
     "name": "Sundaram Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF173K01FQ0"
+    "isin": "INF173K01FQ0",
+    "schemeCode": 149669
   },
   "MHMBYDG-GR": {
     "name": "Mahindra Manulife Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01341"
+    "isin": "INF174V01341",
+    "schemeCode": 141226
   },
   "EOAB-GR": {
     "name": "Nippon India Multi Cap Bonus Bonus Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01D55"
+    "isin": "INF204K01D55",
+    "schemeCode": 118651
   },
   "EOAG-GR": {
     "name": "Nippon India Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01XF9"
+    "isin": "INF204K01XF9",
+    "schemeCode": 118650
   },
   "RGMSD1-GR": {
     "name": "Invesco India Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K01MS2"
+    "isin": "INF205K01MS2",
+    "schemeCode": 120413
   },
   "BO107-GR": {
     "name": "Baroda BNP Paribas Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF955L01AG0"
+    "isin": "INF955L01AG0",
+    "schemeCode": 119354
   },
   "ITMCD1-GR": {
     "name": "ITI Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01168"
+    "isin": "INF00XX01168",
+    "schemeCode": 147183
   },
   "QUGFDG-GR": {
     "name": "Quant Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01614"
+    "isin": "INF966L01614",
+    "schemeCode": 120823
   },
   "BS71Y-GR": {
     "name": "Aditya Birla Sun Life Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209KB1Y49"
+    "isin": "INF209KB1Y49",
+    "schemeCode": 148921
   },
   "KO1155D-GR": {
     "name": "Kotak Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174KA1HV3"
+    "isin": "INF174KA1HV3",
+    "schemeCode": 149185
   },
   "IDD357-GR": {
     "name": "Bandhan Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194KB1CL0"
+    "isin": "INF194KB1CL0",
+    "schemeCode": 149303
   },
   "HDHMCDG-GR": {
     "name": "HDFC Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179KC1BS5"
+    "isin": "INF179KC1BS5",
+    "schemeCode": 149368
   },
   "AXMTDG-GR": {
     "name": "Axis Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K013E0"
+    "isin": "INF846K013E0",
+    "schemeCode": 149383
   },
   "SBD652G-GR": {
     "name": "SBI Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200KA18E2"
+    "isin": "INF200KA18E2",
+    "schemeCode": 149882
   },
   "LCMKG1-GR": {
     "name": "LIC MF Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF767K01RK7"
+    "isin": "INF767K01RK7",
+    "schemeCode": 150659
   },
   "UNMCDG-GR": {
     "name": "Union Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01IO7"
+    "isin": "INF582M01IO7",
+    "schemeCode": 150858
   },
   "HSHMCDG-GR": {
     "name": "HSBC Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01QN5"
+    "isin": "INF336L01QN5",
+    "schemeCode": 151290
   },
   "TAMLGZ-GR": {
     "name": "Tata Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277KA1679"
+    "isin": "INF277KA1679",
+    "schemeCode": 151232
   },
   "BAMLDG-GR": {
     "name": "Bank Of India Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01FR0"
+    "isin": "INF761K01FR0",
+    "schemeCode": 151443
   },
   "CAMFDG-GR": {
     "name": "Canara Robeco Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01KO9"
+    "isin": "INF760K01KO9",
+    "schemeCode": 151824
   },
   "MAMPD1-GR": {
     "name": "Mirae Asset Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01KK8"
+    "isin": "INF769K01KK8",
+    "schemeCode": 151810
   },
   "YED106G-GR": {
     "name": "Whiteoak Capital Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "WHITEOAKCAPITALMUTUALFUND_MF",
-    "isin": "INF03VN01803"
+    "isin": "INF03VN01803",
+    "schemeCode": 152071
   },
   "EDMUD1-GR": {
     "name": "Edelweiss Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF754K01SD8"
+    "isin": "INF754K01SD8",
+    "schemeCode": 152094
   },
   "DS908-GR": {
     "name": "DSP Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "DSP_MF",
-    "isin": "INF740KA1UC1"
+    "isin": "INF740KA1UC1",
+    "schemeCode": 152310
   },
   "MOMMGD-GR": {
     "name": "Motilal Oswal Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01CL8"
+    "isin": "INF247L01CL8",
+    "schemeCode": 152651
   },
   "FR978-GR": {
     "name": "Franklin India Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01XA7"
+    "isin": "INF090I01XA7",
+    "schemeCode": 152739
   },
   "PRMCG1-GR": {
     "name": "PGIM India Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01Z03"
+    "isin": "INF663L01Z03",
+    "schemeCode": 152815
   },
   "SAMCDG-GR": {
     "name": "Samco Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01198"
+    "isin": "INF0K1H01198",
+    "schemeCode": 152847
   },
   "INMUG1-GR": {
     "name": "Groww Multicap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "GROWWMUTUALFUND_MF",
-    "isin": "INF666M01JD9"
+    "isin": "INF666M01JD9",
+    "schemeCode": 153034
   },
   "BJMCDG-GR": {
     "name": "Bajaj Finserv Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "BAJAJ FINSERV_MF",
-    "isin": "INF0QA701AV7"
+    "isin": "INF0QA701AV7",
+    "schemeCode": 153309
   },
   "UTMAG1-GR": {
     "name": "UTI Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F1AB89"
+    "isin": "INF789F1AB89",
+    "schemeCode": 153515
   },
   "UTMCDG-GR": {
     "name": "TrustMF Multi Cap Growth Direct Plan",
     "category": "Multi Cap Fund",
     "amc": "TRUSTMUTUALFUND_MF",
-    "isin": "INF0GCD01834"
+    "isin": "INF0GCD01834",
+    "schemeCode": 153644
   },
   "473-GR": {
     "name": "Franklin India Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01IN1"
+    "isin": "INF090I01IN1",
+    "schemeCode": 118510
   },
   "8002-GR": {
     "name": "ICICI Prudential Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K011O5"
+    "isin": "INF109K011O5",
+    "schemeCode": 120596
   },
   "KO108D-GR": {
     "name": "Kotak Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174K01LF9"
+    "isin": "INF174K01LF9",
+    "schemeCode": 120158
   },
   "HDGFG1G-GR": {
     "name": "HDFC Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179KA1RQ7"
+    "isin": "INF179KA1RQ7",
+    "schemeCode": 130498
   },
   "D201-GR": {
     "name": "Bandhan Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194K01V89"
+    "isin": "INF194K01V89",
+    "schemeCode": 118419
   },
   "SBD017G-GR": {
     "name": "SBI Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01UJ5"
+    "isin": "INF200K01UJ5",
+    "schemeCode": 119721
   },
   "GSAB-GR": {
     "name": "Nippon India Vision Large & Mid Cap Bonus Bonus Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01E96"
+    "isin": "INF204K01E96",
+    "schemeCode": 118675
   },
   "GSAG-GR": {
     "name": "Nippon India Vision Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01F20"
+    "isin": "INF204K01F20",
+    "schemeCode": 118678
   },
   "RGGFD1-GR": {
     "name": "Invesco India Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K01MA0"
+    "isin": "INF205K01MA0",
+    "schemeCode": 120357
   },
   "BS201GZ-GR": {
     "name": "Aditya Birla Sun Life Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209K01VH8"
+    "isin": "INF209K01VH8",
+    "schemeCode": 119436
   },
   "TAEOGZ-GR": {
     "name": "Tata Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K01MK8"
+    "isin": "INF277K01MK8",
+    "schemeCode": 119202
   },
   "DS770-GR": {
     "name": "DSP Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "DSP_MF",
-    "isin": "INF740K01PL6"
+    "isin": "INF740K01PL6",
+    "schemeCode": 119218
   },
   "CAEQDG-GR": {
     "name": "Canara Robeco Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01EI4"
+    "isin": "INF760K01EI4",
+    "schemeCode": 118278
   },
   "BXBA061-GR": {
     "name": "BOI AXA Large & Mid Cap Equity Bonus Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01629"
+    "isin": "INF761K01629",
+    "schemeCode": 119300
   },
   "BXBA063-GR": {
     "name": "Bank Of India Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01652"
+    "isin": "INF761K01652",
+    "schemeCode": 119350
   },
   "LCMCG1-GR": {
     "name": "LIC MF Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF767K01NE9"
+    "isin": "INF767K01NE9",
+    "schemeCode": 133710
   },
   "MAFEBD1-GR": {
     "name": "Mirae Asset Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01BI1"
+    "isin": "INF769K01BI1",
+    "schemeCode": 118834
   },
   "UTMGD2-GR": {
     "name": "UTI Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F01UG3"
+    "isin": "INF789F01UG3",
+    "schemeCode": 120665
   },
   "EDEFD1-GR": {
     "name": "Edelweiss Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF843K01AL0"
+    "isin": "INF843K01AL0",
+    "schemeCode": 140175
   },
   "AXOGDG-GR": {
     "name": "Axis Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01J46"
+    "isin": "INF846K01J46",
+    "schemeCode": 145110
   },
   "SUEMGPD-GR": {
     "name": "Sundaram Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF903J01PR9"
+    "isin": "INF903J01PR9",
+    "schemeCode": 119566
   },
   "PLMCGDG-GR": {
     "name": "Navi Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "NAVIMUTUALFUND_MF",
-    "isin": "INF959L01CH6"
+    "isin": "INF959L01CH6",
+    "schemeCode": 135677
   },
   "HSHLEG-GR": {
     "name": "HSBC Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01NV5"
+    "isin": "INF336L01NV5",
+    "schemeCode": 146772
   },
   "MOLMGD-GR": {
     "name": "Motilal Oswal Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01999"
+    "isin": "INF247L01999",
+    "schemeCode": 147704
   },
   "QUHYDB-GR": {
     "name": "Quant Large & Mid Cap Bonus Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01655"
+    "isin": "INF966L01655",
+    "schemeCode": 120824
   },
   "QUHYDG-GR": {
     "name": "Quant Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01648"
+    "isin": "INF966L01648",
+    "schemeCode": 120826
   },
   "UNLMDG-GR": {
     "name": "Union Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01GA0"
+    "isin": "INF582M01GA0",
+    "schemeCode": 147750
   },
   "MHMNYDG-GR": {
     "name": "Mahindra Manulife Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01945"
+    "isin": "INF174V01945",
+    "schemeCode": 147840
   },
   "BPLMD2-GR": {
     "name": "Baroda BNP Paribas Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF955L01JU2"
+    "isin": "INF955L01JU2",
+    "schemeCode": 148474
   },
   "YED108G-GR": {
     "name": "Whiteoak Capital Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "WHITEOAKCAPITALMUTUALFUND_MF",
-    "isin": "INF03VN01845"
+    "isin": "INF03VN01845",
+    "schemeCode": 152226
   },
   "PRLMG1-GR": {
     "name": "PGIM India Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01Y12"
+    "isin": "INF663L01Y12",
+    "schemeCode": 152382
   },
   "BJLMDG-GR": {
     "name": "Bajaj Finserv Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "BAJAJ FINSERV_MF",
-    "isin": "INF0QA701763"
+    "isin": "INF0QA701763",
+    "schemeCode": 152408
   },
   "ITLMG1-GR": {
     "name": "ITI Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01DA4"
+    "isin": "INF00XX01DA4",
+    "schemeCode": 152821
   },
   "HOHLMDG-GR": {
     "name": "Helios Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "HELIOSMUTUALFUND_MF",
-    "isin": "INF0R8701269"
+    "isin": "INF0R8701269",
+    "schemeCode": 152941
   },
   "SALMDG-GR": {
     "name": "Samco Large & Mid Cap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01271"
+    "isin": "INF0K1H01271",
+    "schemeCode": 153534
   },
   "JMLMDG-GR": {
     "name": "JM Large & Midcap Growth Direct Plan",
     "category": "Large & Mid Cap fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01NK7"
+    "isin": "INF192K01NK7",
+    "schemeCode": 153629
   },
   "452-GR": {
     "name": "Templeton India Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01GY2"
+    "isin": "INF090I01GY2",
+    "schemeCode": 118494
   },
   "8176-GR": {
     "name": "ICICI Prudential Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K012K1"
+    "isin": "INF109K012K1",
+    "schemeCode": 120323
   },
   "62T-GR": {
     "name": "HDFC Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179K01VC4"
+    "isin": "INF179K01VC4",
+    "schemeCode": 118935
   },
   "BADG-GR": {
     "name": "JM Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01BT3"
+    "isin": "INF192K01BT3",
+    "schemeCode": 120486
   },
   "D215-GR": {
     "name": "Bandhan Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194K01Z85"
+    "isin": "INF194K01Z85",
+    "schemeCode": 118481
   },
   "SEAG-GR": {
     "name": "Nippon India Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01K49"
+    "isin": "INF204K01K49",
+    "schemeCode": 118784
   },
   "BS296GZ-GR": {
     "name": "Aditya Birla Sun Life Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209K01WQ7"
+    "isin": "INF209K01WQ7",
+    "schemeCode": 119659
   },
   "TAEPEGZ-GR": {
     "name": "Tata Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K01ND1"
+    "isin": "INF277K01ND1",
+    "schemeCode": 119231
   },
   "LCLVG1-GR": {
     "name": "LIC MF Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF397L01KU5"
+    "isin": "INF397L01KU5",
+    "schemeCode": 152018
   },
   "INVDDG-GR": {
     "name": "Groww Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "GROWWMUTUALFUND_MF",
-    "isin": "INF666M01BE4"
+    "isin": "INF666M01BE4",
+    "schemeCode": 135341
   },
   "UTOPD2-GR": {
     "name": "UTI Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F01VB2"
+    "isin": "INF789F01VB2",
+    "schemeCode": 120751
   },
   "HSFIVGD-GR": {
     "name": "HSBC Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF917K01HD4"
+    "isin": "INF917K01HD4",
+    "schemeCode": 151113
   },
   "UNVDGD-GR": {
     "name": "Union Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01EK4"
+    "isin": "INF582M01EK4",
+    "schemeCode": 145473
   },
   "DS875-GR": {
     "name": "DSP Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "DSP_MF",
-    "isin": "INF740KA1PP3"
+    "isin": "INF740KA1PP3",
+    "schemeCode": 148595
   },
   "ITVFG1-GR": {
     "name": "ITI Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01AQ6"
+    "isin": "INF00XX01AQ6",
+    "schemeCode": 148972
   },
   "CAVFDG-GR": {
     "name": "Canara Robeco Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01JW4"
+    "isin": "INF760K01JW4",
+    "schemeCode": 149085
   },
   "AXVFDG-GR": {
     "name": "Axis Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K010C0"
+    "isin": "INF846K010C0",
+    "schemeCode": 149166
   },
   "AXNVDG-GR": {
     "name": "Axis Nifty500 Value 50 Index Growth Direct Plan",
     "category": "Value Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K013Y8"
+    "isin": "INF846K013Y8",
+    "schemeCode": 152949
   },
   "QUVFDG-GR": {
     "name": "Quant Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01AN3"
+    "isin": "INF966L01AN3",
+    "schemeCode": 149335
   },
   "BPVFDG-GR": {
     "name": "Baroda BNP Paribas Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF251K01SD5"
+    "isin": "INF251K01SD5",
+    "schemeCode": 151755
   },
   "MHMVFDG-GR": {
     "name": "Mahindra Manulife Value Growth Direct Plan",
     "category": "Value Fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01CI9"
+    "isin": "INF174V01CI9",
+    "schemeCode": 153303
   },
   "KO124D-GR": {
     "name": "Kotak Contra Growth Direct Plan",
     "category": "Contra Fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174K01KZ9"
+    "isin": "INF174K01KZ9",
+    "schemeCode": 119769
   },
   "SBD036G-GR": {
     "name": "SBI Contra Growth Direct Plan",
     "category": "Contra Fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01RA0"
+    "isin": "INF200K01RA0",
+    "schemeCode": 119835
   },
   "RGCFD1-GR": {
     "name": "Invesco India Contra Growth Direct Plan",
     "category": "Contra Fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K01LE4"
+    "isin": "INF205K01LE4",
+    "schemeCode": 120348
   },
   "423-GR": {
     "name": "Franklin India Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01FZ1"
+    "isin": "INF090I01FZ1",
+    "schemeCode": 118546
   },
   "8017-GR": {
     "name": "ICICI Prudential Equity & Debt Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K01Y07"
+    "isin": "INF109K01Y07",
+    "schemeCode": 120251
   },
   "SUSBZG-GR": {
     "name": "Sundaram Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF173K01FE6"
+    "isin": "INF173K01FE6",
+    "schemeCode": 149601
   },
   "KO04GD-GR": {
     "name": "Kotak Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174K01F00"
+    "isin": "INF174K01F00",
+    "schemeCode": 133035
   },
   "PREGT-GR": {
     "name": "HDFC Hybrid Equity Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179K01XZ1"
+    "isin": "INF179K01XZ1",
+    "schemeCode": 119062
   },
   "BFDG-GR": {
     "name": "JM Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01BQ9"
+    "isin": "INF192K01BQ9",
+    "schemeCode": 120484
   },
   "JMBFDA-GR": {
     "name": "JM Aggressive Hybrid Annual Bonus Principal Units Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "JM FINANCIAL MUTUAL FUND_MF",
-    "isin": "INF192K01HB8"
+    "isin": "INF192K01HB8",
+    "schemeCode": 130904
   },
   "IDD311-GR": {
     "name": "Bandhan Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194KA1U56"
+    "isin": "INF194KA1U56",
+    "schemeCode": 140382
   },
   "SBD24G-GR": {
     "name": "SBI Equity Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01RY0"
+    "isin": "INF200K01RY0",
+    "schemeCode": 119609
   },
   "SHAG-GR": {
     "name": "Nippon India Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01B08"
+    "isin": "INF204K01B08",
+    "schemeCode": 118794
   },
   "RGEBD1-GR": {
     "name": "Invesco India Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K014Q7"
+    "isin": "INF205K014Q7",
+    "schemeCode": 143537
   },
   "BSAGZ-GR": {
     "name": "Aditya Birla Sun Life Equity Hybrid 95 Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209K01ZC0"
+    "isin": "INF209K01ZC0",
+    "schemeCode": 120517
   },
   "BPSEDG-GR": {
     "name": "Baroda BNP Paribas Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF251K01OZ7"
+    "isin": "INF251K01OZ7",
+    "schemeCode": 150260
   },
   "TABFGZ-GR": {
     "name": "Tata Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K01MN2"
+    "isin": "INF277K01MN2",
+    "schemeCode": 119053
   },
   "HSHEHG-GR": {
     "name": "HSBC Equity Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01NH4"
+    "isin": "INF336L01NH4",
+    "schemeCode": null
   },
   "HSFCEGD-GR": {
     "name": "HSBC Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF917K01LE4"
+    "isin": "INF917K01LE4",
+    "schemeCode": 151122
   },
   "PRIOD1-GR": {
     "name": "PGIM India Aggressive Hybrid Equity Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01GX2"
+    "isin": "INF663L01GX2",
+    "schemeCode": 138386
   },
   "101D-GR": {
     "name": "Shriram Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "SHRIRAMMUTUALFUND_MF",
-    "isin": "INF680P01042"
+    "isin": "INF680P01042",
+    "schemeCode": 125711
   },
   "DS727-GR": {
     "name": "DSP Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "DSP_MF",
-    "isin": "INF740K01NY4"
+    "isin": "INF740K01NY4",
+    "schemeCode": 119019
   },
   "ENDG-GR": {
     "name": "Edelweiss Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF754K01CE0"
+    "isin": "INF754K01CE0",
+    "schemeCode": 118624
   },
   "CAGBDG-GR": {
     "name": "Canara Robeco Equity Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01EZ8"
+    "isin": "INF760K01EZ8",
+    "schemeCode": 118272
   },
   "BAMCDG-GR": {
     "name": "Bank Of India Mid & Small Cap Equity & Debt Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01DM6"
+    "isin": "INF761K01DM6",
+    "schemeCode": 139527
   },
   "LCBLG1-GR": {
     "name": "LIC Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF767K01ED0"
+    "isin": "INF767K01ED0",
+    "schemeCode": 120261
   },
   "MAFPFD1-GR": {
     "name": "Mirae Asset Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01DH9"
+    "isin": "INF769K01DH9",
+    "schemeCode": 134813
   },
   "UTBAD2-GR": {
     "name": "UTI Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F01SK9"
+    "isin": "INF789F01SK9",
+    "schemeCode": 120674
   },
   "AXEHDG-GR": {
     "name": "Axis Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01E25"
+    "isin": "INF846K01E25",
+    "schemeCode": 144394
   },
   "ESEHGDG-GR": {
     "name": "Navi Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "NAVIMUTUALFUND_MF",
-    "isin": "INF959L01CX3"
+    "isin": "INF959L01CX3",
+    "schemeCode": 143163
   },
   "INEHG1-GR": {
     "name": "Groww Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "GROWWMUTUALFUND_MF",
-    "isin": "INF666M01FA3"
+    "isin": "INF666M01FA3",
+    "schemeCode": 145599
   },
   "MHMHEDG-GR": {
     "name": "Mahindra Manulife Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01788"
+    "isin": "INF174V01788",
+    "schemeCode": 147446
   },
   "QUBFDG-GR": {
     "name": "Quant Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01556"
+    "isin": "INF966L01556",
+    "schemeCode": 120819
   },
   "UNHEDG-GR": {
     "name": "Union Aggressive Hybrid Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01GY0"
+    "isin": "INF582M01GY0",
+    "schemeCode": 148592
   },
   "TTSTHGZ-GR": {
     "name": "Titanium Hybrid Long Short Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "TATAMUTUALFUND_MF_SIF",
-    "isin": "INF277K30047"
+    "isin": "INF277K30047",
+    "schemeCode": null
   },
   "BNSDA01-GR": {
     "name": "Arudha Hybrid Long Short Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "BANDHANMUTUALFUND_MF_SIF",
-    "isin": "INF194K30184"
+    "isin": "INF194K30184",
+    "schemeCode": null
   },
   "IPS6002-GR": {
     "name": "Isif Hybrid Long Short Growth Direct Plan",
     "category": "Aggressive Hybrid Fund",
     "amc": "ICICIPRUDENTIALMUTUALFUND_MF_SIF",
-    "isin": "INF109K30026"
+    "isin": "INF109K30026",
+    "schemeCode": null
   },
   "BSD105-GR": {
     "name": "Aditya Birla Sun Life Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF084M01DJ5"
+    "isin": "INF084M01DJ5",
+    "schemeCode": 131670
   },
   "8180-GR": {
     "name": "ICICI Prudential Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K012B0"
+    "isin": "INF109K012B0",
+    "schemeCode": 120377
   },
   "SUSAZG-GR": {
     "name": "Sundaram Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF173K01FI7"
+    "isin": "INF173K01FI7",
+    "schemeCode": 149717
   },
   "KO477D-GR": {
     "name": "Kotak Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174KA1210"
+    "isin": "INF174KA1210",
+    "schemeCode": 144335
   },
   "GFGT-GR": {
     "name": "HDFC Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179K01WA6"
+    "isin": "INF179K01WA6",
+    "schemeCode": 118968
   },
   "IDD299-GR": {
     "name": "Bandhan Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194KA1UH1"
+    "isin": "INF194KA1UH1",
+    "schemeCode": 131355
   },
   "NEAG-GR": {
     "name": "Nippon India Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204K01G94"
+    "isin": "INF204K01G94",
+    "schemeCode": 118736
   },
   "RGEFD1-GR": {
     "name": "Invesco India Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205K01LN5"
+    "isin": "INF205K01LN5",
+    "schemeCode": 120333
   },
   "MODEGD-GR": {
     "name": "Motilal Oswal Balance Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "MOTILALOSWAL_MF",
-    "isin": "INF247L01635"
+    "isin": "INF247L01635",
+    "schemeCode": 139872
   },
   "HDFG-GR": {
     "name": "HSBC Dynamic Asset Allocation Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01CG9"
+    "isin": "INF336L01CG9",
+    "schemeCode": null
   },
   "HSFCMGD-GR": {
     "name": "HSBC Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF917K01IN1"
+    "isin": "INF917K01IN1",
+    "schemeCode": 151129
   },
   "UNPFGD-GR": {
     "name": "Union Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01DE9"
+    "isin": "INF582M01DE9",
+    "schemeCode": 142038
   },
   "DS812-GR": {
     "name": "DSP Dynamic Asset Allocation Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "DSP_MF",
-    "isin": "INF740K01K81"
+    "isin": "INF740K01K81",
+    "schemeCode": 126393
   },
   "ARDG-GR": {
     "name": "Edelweiss Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF754K01BS2"
+    "isin": "INF754K01BS2",
+    "schemeCode": 118615
   },
   "BXBA141-GR": {
     "name": "Bank Of India Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01BO6"
+    "isin": "INF761K01BO6",
+    "schemeCode": 127850
   },
   "AXDEDG-GR": {
     "name": "Axis Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01A29"
+    "isin": "INF846K01A29",
+    "schemeCode": 141642
   },
   "BPDED2-GR": {
     "name": "Baroda BNP Paribas Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF955L01HF7"
+    "isin": "INF955L01HF7",
+    "schemeCode": 145396
   },
   "TABAFGZ-GR": {
     "name": "Tata Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K013S8"
+    "isin": "INF277K013S8",
+    "schemeCode": 146010
   },
   "SH107D-GR": {
     "name": "Shriram Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "SHRIRAMMUTUALFUND_MF",
-    "isin": "INF680P01208"
+    "isin": "INF680P01208",
+    "schemeCode": 147406
   },
   "ITBFG1-GR": {
     "name": "ITI Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "ITI MUTUAL FUND_MF",
-    "isin": "INF00XX01689"
+    "isin": "INF00XX01689",
+    "schemeCode": 147789
   },
   "PRBLG1-GR": {
     "name": "PGIM India Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L01V49"
+    "isin": "INF663L01V49",
+    "schemeCode": 148658
   },
   "SBD638G-GR": {
     "name": "SBI Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200KA1Y73"
+    "isin": "INF200KA1Y73",
+    "schemeCode": 149134
   },
   "NJBADG-GR": {
     "name": "NJ Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "NJMUTUALFUND_MF",
-    "isin": "INF0J8L01040"
+    "isin": "INF0J8L01040",
+    "schemeCode": 149264
   },
   "LCBAG1-GR": {
     "name": "LIC MF Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF767K01QY0"
+    "isin": "INF767K01QY0",
+    "schemeCode": 149261
   },
   "MHMBADG-GR": {
     "name": "Mahindra Manulife Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01BE0"
+    "isin": "INF174V01BE0",
+    "schemeCode": 149406
   },
   "MABAD1-GR": {
     "name": "Mirae Asset Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01IN6"
+    "isin": "INF769K01IN6",
+    "schemeCode": 150470
   },
   "FR972-GR": {
     "name": "Franklin India Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01WQ5"
+    "isin": "INF090I01WQ5",
+    "schemeCode": 150481
   },
   "YED104G-GR": {
     "name": "Whiteoak Capital Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "WHITEOAKCAPITALMUTUALFUND_MF",
-    "isin": "INF03VN01738"
+    "isin": "INF03VN01738",
+    "schemeCode": 151267
   },
   "QUDADG-GR": {
     "name": "Quant Dynamic Asset Allocation Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01BL5"
+    "isin": "INF966L01BL5",
+    "schemeCode": 151713
   },
   "UTFBG1-GR": {
     "name": "UTI Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F1AYV3"
+    "isin": "INF789F1AYV3",
+    "schemeCode": 151885
   },
   "BJBFDG-GR": {
     "name": "Bajaj Finserv Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "BAJAJ FINSERV_MF",
-    "isin": "INF0QA701656"
+    "isin": "INF0QA701656",
+    "schemeCode": 152194
   },
   "SADADG-GR": {
     "name": "Samco Dynamic Asset Allocation Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01131"
+    "isin": "INF0K1H01131",
+    "schemeCode": 152188
   },
   "PPDAFGZ-GR": {
     "name": "Parag Parikh Dynamic Asset Allocation Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "PPFAS_MF",
-    "isin": "INF879O01266"
+    "isin": "INF879O01266",
+    "schemeCode": 152468
   },
   "HOHBADG-GR": {
     "name": "Helios Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "HELIOSMUTUALFUND_MF",
-    "isin": "INF0R8701145"
+    "isin": "INF0R8701145",
+    "schemeCode": 152509
   },
   "CABADG-GR": {
     "name": "Canara Robeco Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01LD0"
+    "isin": "INF760K01LD0",
+    "schemeCode": 152688
   },
   "UFDAFDG-GR": {
     "name": "Unifi Dynamic Asset Allocation Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "UNIFIMUTUALFUND_MF",
-    "isin": "INF1MIY01015"
+    "isin": "INF1MIY01015",
+    "schemeCode": 153376
   },
   "INMAG1-GR": {
     "name": "Groww Multi Asset Allocation Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "GROWWMUTUALFUND_MF",
-    "isin": "INF666M01MA9"
+    "isin": "INF666M01MA9",
+    "schemeCode": 153821
   },
   "WEBADG-GR": {
     "name": "The Wealth Company Balanced Advantage Growth Direct Plan",
     "category": "Dynamic Asset Allocation or Balanced Advantage",
     "amc": "THEWEALTHCOMPANYMUTUALFUND_MF",
-    "isin": "INF2F0001479"
+    "isin": "INF2F0001479",
+    "schemeCode": 154185
   },
   "8004-GR": {
     "name": "ICICI Prudential Multi Asset Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "ICICIPrudentialMutualFund_MF",
-    "isin": "INF109K015K4"
+    "isin": "INF109K015K4",
+    "schemeCode": 120334
   },
   "MYG5T-GR": {
     "name": "HDFC Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "HDFCMutualFund_MF",
-    "isin": "INF179K01XW8"
+    "isin": "INF179K01XW8",
+    "schemeCode": 119131
   },
   "SBD101G-GR": {
     "name": "SBI Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "SBIMutualFund_MF",
-    "isin": "INF200K01TZ3"
+    "isin": "INF200K01TZ3",
+    "schemeCode": 119843
   },
   "UTW2D2-GR": {
     "name": "UTI Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "UTIMUTUALFUND_MF",
-    "isin": "INF789F01VE6"
+    "isin": "INF789F01VE6",
+    "schemeCode": 120760
   },
   "TPDG-GR": {
     "name": "Axis Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "AXISMUTUALFUND_MF",
-    "isin": "INF846K01EV4"
+    "isin": "INF846K01EV4",
+    "schemeCode": 120524
   },
   "QUGLDG-GR": {
     "name": "Quant Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "QUANTMUTUALFUND_MF",
-    "isin": "INF966L01580"
+    "isin": "INF966L01580",
+    "schemeCode": 120821
   },
   "TAMAGZ-GR": {
     "name": "Tata Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "TATAMutualFund_MF",
-    "isin": "INF277K019Y3"
+    "isin": "INF277K019Y3",
+    "schemeCode": 148053
   },
   "RLMFAG-GR": {
     "name": "Nippon India Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "NipponIndiaMutualFund_MF",
-    "isin": "INF204KB19V4"
+    "isin": "INF204KB19V4",
+    "schemeCode": 148457
   },
   "BPMADG-GR": {
     "name": "Baroda BNP Paribas Multi Asset Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "BARODABNPPARIBASMUTUALFUND_MF",
-    "isin": "INF251K01RF2"
+    "isin": "INF251K01RF2",
+    "schemeCode": 150865
   },
   "BS117Y-GR": {
     "name": "Aditya Birla Sun Life Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "BirlaSunLifeMutualFund_MF",
-    "isin": "INF209KB15R9"
+    "isin": "INF209KB15R9",
+    "schemeCode": 151307
   },
   "YED105G-GR": {
     "name": "Whiteoak Capital Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "WHITEOAKCAPITALMUTUALFUND_MF",
-    "isin": "INF03VN01761"
+    "isin": "INF03VN01761",
+    "schemeCode": 151745
   },
   "EDMAD1-GR": {
     "name": "Edelweiss Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "EDELWEISSMUTUALFUND_MF",
-    "isin": "INF754K01RS8"
+    "isin": "INF754K01RS8",
+    "schemeCode": 151792
   },
   "SH109D-GR": {
     "name": "Shriram Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "SHRIRAMMUTUALFUND_MF",
-    "isin": "INF680P01406"
+    "isin": "INF680P01406",
+    "schemeCode": 152051
   },
   "KO1197D-GR": {
     "name": "Kotak Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "KOTAKMAHINDRAMF",
-    "isin": "INF174KA1PD4"
+    "isin": "INF174KA1PD4",
+    "schemeCode": 152064
   },
   "DS896-GR": {
     "name": "DSP Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "DSP_MF",
-    "isin": "INF740KA1TE9"
+    "isin": "INF740KA1TE9",
+    "schemeCode": 152056
   },
   "SUMUDG-GR": {
     "name": "Sundaram Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "SUNDARAMMUTUALFUND_MF",
-    "isin": "INF903JA1LK9"
+    "isin": "INF903JA1LK9",
+    "schemeCode": 152314
   },
   "IDD391-GR": {
     "name": "Bandhan Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "BANDHANMUTUALFUND_MF",
-    "isin": "INF194KB1HM7"
+    "isin": "INF194KB1HM7",
+    "schemeCode": 152324
   },
   "MAMAD1-GR": {
     "name": "Mirae Asset Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "MIRAEASSET",
-    "isin": "INF769K01KZ6"
+    "isin": "INF769K01KZ6",
+    "schemeCode": 152344
   },
   "BAMADG-GR": {
     "name": "Bank Of India Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "BANKOFINDIAMUTUALFUND_MF",
-    "isin": "INF761K01FZ3"
+    "isin": "INF761K01FZ3",
+    "schemeCode": 152396
   },
   "HSHMADG-GR": {
     "name": "HSBC Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "HSBCMUTUALFUND_MF",
-    "isin": "INF336L01RI3"
+    "isin": "INF336L01RI3",
+    "schemeCode": 152380
   },
   "QTMUGP-GR": {
     "name": "Quantum Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "QUANTUMMUTUALFUND_MF",
-    "isin": "INF082J01457"
+    "isin": "INF082J01457",
+    "schemeCode": 152474
   },
   "MHMAFDG-GR": {
     "name": "Mahindra Manulife Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "MAHINDRA MANULIFE MUTUAL FUND_MF",
-    "isin": "INF174V01BW2"
+    "isin": "INF174V01BW2",
+    "schemeCode": 152443
   },
   "BJMADG-GR": {
     "name": "Bajaj Finserv Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "BAJAJ FINSERV_MF",
-    "isin": "INF0QA701821"
+    "isin": "INF0QA701821",
+    "schemeCode": 152639
   },
   "UNMADG-GR": {
     "name": "Union Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "UNIONMUTUALFUND_MF",
-    "isin": "INF582M01JY4"
+    "isin": "INF582M01JY4",
+    "schemeCode": 152787
   },
   "RGMLD1-GR": {
     "name": "Invesco India Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "INVESCOMUTUALFUND_MF",
-    "isin": "INF205KA1AC1"
+    "isin": "INF205KA1AC1",
+    "schemeCode": 153047
   },
   "SAMADG-GR": {
     "name": "Samco Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "SAMCOMUTUALFUND_MF",
-    "isin": "INF0K1H01230"
+    "isin": "INF0K1H01230",
+    "schemeCode": 153092
   },
   "LCMAG1-GR": {
     "name": "LIC MF Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "LICMUTUALFUND_MF",
-    "isin": "INF767K01RZ5"
+    "isin": "INF767K01RZ5",
+    "schemeCode": 153246
   },
   "CAMADG-GR": {
     "name": "Canara Robeco Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "CANARAROBECOMUTUALFUND_MF",
-    "isin": "INF760K01LH1"
+    "isin": "INF760K01LH1",
+    "schemeCode": 153465
   },
   "FR1002-GR": {
     "name": "Franklin India Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "FRANKLINTEMPLETON",
-    "isin": "INF090I01YH0"
+    "isin": "INF090I01YH0",
+    "schemeCode": 153731
   },
   "IIMAFDG-GR": {
     "name": "360 One Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "360_ONE_MUTUALFUND_MF",
-    "isin": "INF579M01BM2"
+    "isin": "INF579M01BM2",
+    "schemeCode": 153774
   },
   "PRMUG1-GR": {
     "name": "PGIM India Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "PGIMINDIAMUTUALFUND_MF",
-    "isin": "INF663L010A3"
+    "isin": "INF663L010A3",
+    "schemeCode": 153987
   },
   "WEMADG-GR": {
     "name": "The Wealth Company Multi Asset Allocation Growth Direct Plan",
     "category": "Multi Asset Allocation",
     "amc": "THEWEALTHCOMPANYMUTUALFUND_MF",
-    "isin": "INF2F0001347"
+    "isin": "INF2F0001347",
+    "schemeCode": 153999
   }
 }
