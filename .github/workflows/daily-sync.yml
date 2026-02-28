@@ -45,3 +45,9 @@ jobs:
           git add data/
           git commit -m "data(auto): daily NAV sync [skip ci]" || echo "No changes to commit"
           git push
+
+      - name: Push to Turso Database
+        env:
+          TURSO_CONNECTION_URL: ${{ secrets.TURSO_CONNECTION_URL }}
+          TURSO_AUTH_TOKEN: ${{ secrets.TURSO_AUTH_TOKEN }}
+        run: npm run db:seed --workspace=@mf-atlas/db

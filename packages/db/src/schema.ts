@@ -95,6 +95,24 @@ export const funds = sqliteTable("funds", {
   return_since_inception: real("return_since_inception"),
 });
 
+export const indices = sqliteTable("indices", {
+  id: text("id").primaryKey(), // e.g. "nifty-50"
+  name: text("name").notNull(),
+  latest_date: text("latest_date"),
+  latest_close: real("latest_close"),
+
+  return_1d: real("return_1d"),
+  return_1w: real("return_1w"),
+  return_1m: real("return_1m"),
+  return_3m: real("return_3m"),
+  return_6m: real("return_6m"),
+  return_1y: real("return_1y"),
+  return_2y: real("return_2y"),
+  return_3y: real("return_3y"),
+  return_5y: real("return_5y"),
+  return_10y: real("return_10y"),
+});
+
 export const watchlists = sqliteTable("watchlists", {
   userId: text("userId")
     .notNull()

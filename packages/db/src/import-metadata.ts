@@ -2,7 +2,7 @@ import * as fs from "fs";
 import * as path from "path";
 import { sql } from "drizzle-orm";
 import { db } from "./db";
-import { funds } from "./schema";
+import { funds, indices } from "./schema";
 
 const dataDir = path.resolve(process.cwd(), "../../data");
 
@@ -131,6 +131,59 @@ async function main() {
 
     inserted += batch.length;
     console.log(`Inserted ${inserted}/${fundEntries.length} funds into DB...`);
+  }
+
+  console.log("--- Starting Market Indices DB Seed ---");
+  const indicesIndexPath = path.join(dataDir, "indices", "master_indices.json");
+
+  if (fs.existsSync(indicesIndexPath)) {
+    const rawIndicesData = fs.readFileSync(indicesIndexPath, "utf8");
+    const parsedIndicesData = JSON.parse(rawIndicesData) as any[];
+
+    console.log(`Found ${parsedIndicesData.length} market indices.`);
+
+    const indicesPayloads = parsedIndicesData.map((data) => ({
+      id: data.id,
+      name: data.name,
+      latest_date: data.latest_date,
+      latest_close: data.latest_close,
+      return_1d: data.returns["1d"],
+      return_1w: data.returns["1w"],
+      return_1m: data.returns["1m"],
+      return_3m: data.returns["3m"],
+      return_6m: data.returns["6m"],
+      return_1y: data.returns["1y"],
+      return_2y: data.returns["2y"],
+      return_3y: data.returns["3y"],
+      return_5y: data.returns["5y"],
+      return_10y: data.returns["10y"],
+    }));
+
+    await db
+      .insert(indices)
+      .values(indicesPayloads)
+      .onConflictDoUpdate({
+        target: indices.id,
+        set: {
+          name: sql`excluded.name`,
+          latest_date: sql`excluded.latest_date`,
+          latest_close: sql`excluded.latest_close`,
+          return_1d: sql`excluded.return_1d`,
+          return_1w: sql`excluded.return_1w`,
+          return_1m: sql`excluded.return_1m`,
+          return_3m: sql`excluded.return_3m`,
+          return_6m: sql`excluded.return_6m`,
+          return_1y: sql`excluded.return_1y`,
+          return_2y: sql`excluded.return_2y`,
+          return_3y: sql`excluded.return_3y`,
+          return_5y: sql`excluded.return_5y`,
+          return_10y: sql`excluded.return_10y`,
+        },
+      });
+
+    console.log(
+      `[SUCCESS] Imported ${parsedIndicesData.length} market indices into Turso DB.`,
+    );
   }
 
   console.log("--- DB Seed Complete ---");
