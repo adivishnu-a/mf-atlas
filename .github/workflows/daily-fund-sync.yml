@@ -1,17 +1,17 @@
-name: Daily Data Refinery Sync
+name: Daily Mutual Fund Sync (AMFI)
 
 on:
   schedule:
-    # Run at 11:30 PM IST (18:00 UTC) every day
-    - cron: "0 18 * * *"
+    # 12:30 AM IST is 19:00 UTC (previous day)
+    - cron: "0 19 * * *"
   workflow_dispatch:
 
 jobs:
-  run-refinery:
+  sync-amfi:
     runs-on: ubuntu-latest
 
     permissions:
-      contents: write # Needed to commit JSON files back to the repo
+      contents: write
 
     steps:
       - name: Checkout Repository
@@ -31,12 +31,6 @@ jobs:
 
       - name: Execute Daily Incremental Fund Sync
         run: npm run sync:funds --workspace=@mf-atlas/scraper
-
-      - name: Execute Daily Indices Sync
-        run: npm run sync:indices --workspace=@mf-atlas/scraper
-
-      - name: Calculate Master Index Metrics
-        run: npm run calc:indices --workspace=@mf-atlas/scraper
 
       - name: Commit and Push Data to CDN
         run: |
