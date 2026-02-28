@@ -1,0 +1,22 @@
+{
+  "name": "@mf-atlas/engine",
+  "version": "1.0.0",
+  "description": "Financial core compute logic for MF-Atlas",
+  "main": "src/index.ts",
+  "types": "src/index.ts",
+  "scripts": {
+    "build": "tsc",
+    "dev": "tsc -w",
+    "lint": "eslint \"src/**/*.ts*\"",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "xirr": "^1.0.8"
+  },
+  "devDependencies": {
+    "@repo/eslint-config": "*",
+    "@repo/typescript-config": "*",
+    "@types/node": "^20.19.35",
+    "typescript": "^5.0.0"
+  }
+}
