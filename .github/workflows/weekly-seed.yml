@@ -1,9 +1,9 @@
-name: Daily Data Refinery Sync
+name: Weekly Exhaustive Fund Seed
 
 on:
   schedule:
-    # Run at 11:30 PM IST (18:00 UTC) every day
-    - cron: "0 18 * * *"
+    # Run at 11:30 PM IST on every Sunday (18:00 UTC)
+    - cron: "0 18 * * 0"
   workflow_dispatch:
 
 jobs:
@@ -29,19 +29,13 @@ jobs:
       - name: Build Scraper
         run: npm run build --workspace=@mf-atlas/scraper
 
-      - name: Execute Daily Incremental Fund Sync
-        run: npm run sync:funds --workspace=@mf-atlas/scraper
-
-      - name: Execute Daily Indices Sync
-        run: npm run sync:indices --workspace=@mf-atlas/scraper
-
-      - name: Calculate Master Index Metrics
-        run: npm run calc:indices --workspace=@mf-atlas/scraper
+      - name: Execute Master Fund Scraper (Full Run)
+        run: npm run seed --workspace=@mf-atlas/scraper
 
       - name: Commit and Push Data to CDN
         run: |
           git config --global user.name "MF Atlas Bot"
           git config --global user.email "bot@mfatlas.local"
           git add data/
-          git commit -m "data(auto): daily NAV sync [skip ci]" || echo "No changes to commit"
+          git commit -m "data(auto): weekly exhaustive seed [skip ci]" || echo "No changes to commit"
           git push
