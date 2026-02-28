@@ -2,8 +2,9 @@ name: Daily Mutual Fund Sync (AMFI)
 
 on:
   schedule:
-    # 12:30 AM IST is 19:00 UTC (previous day)
+    # 12:30 AM IST is 19:00 UTC (previous day), 11:00 AM IST is 05:30 UTC
     - cron: "0 19 * * *"
+    - cron: "30 5 * * *"
   workflow_dispatch:
 
 jobs:
@@ -34,6 +35,9 @@ jobs:
 
       - name: Calculate Atlas Scores
         run: npm run calc:scores --workspace=@mf-atlas/scraper
+
+      - name: Calculate Category Averages
+        run: npm run calc:averages --workspace=@mf-atlas/scraper
 
       - name: Commit and Push Data to CDN
         run: |

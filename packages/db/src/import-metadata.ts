@@ -1,8 +1,8 @@
 import * as fs from "fs";
 import * as path from "path";
-import { sql } from "drizzle-orm";
+import { eq, sql } from "drizzle-orm";
 import { db } from "./db";
-import { funds, indices } from "./schema";
+import { funds, indices, categoryAverages } from "./schema";
 
 const dataDir = path.resolve(process.cwd(), "../../data");
 
@@ -145,6 +145,7 @@ async function main() {
     const indicesPayloads = parsedIndicesData.map((data) => ({
       id: data.id,
       name: data.name,
+      fund_category: data.fund_category,
       latest_date: data.latest_date,
       latest_close: data.latest_close,
       return_1d: data.returns["1d"],
@@ -166,6 +167,7 @@ async function main() {
         target: indices.id,
         set: {
           name: sql`excluded.name`,
+          fund_category: sql`excluded.fund_category`,
           latest_date: sql`excluded.latest_date`,
           latest_close: sql`excluded.latest_close`,
           return_1d: sql`excluded.return_1d`,
@@ -183,6 +185,59 @@ async function main() {
 
     console.log(
       `[SUCCESS] Imported ${parsedIndicesData.length} market indices into Turso DB.`,
+    );
+  }
+
+  console.log("--- Starting Category Averages DB Seed ---");
+  const catAvgsPath = path.join(dataDir, "category_averages.json");
+
+  if (fs.existsSync(catAvgsPath)) {
+    const rawCatData = fs.readFileSync(catAvgsPath, "utf8");
+    const parsedCatData = JSON.parse(rawCatData) as any[];
+
+    console.log(`Found ${parsedCatData.length} category averages.`);
+
+    const catPayloads = parsedCatData.map((data) => ({
+      category: data.category,
+      latest_date: data.latest_date,
+      latest_close: data.latest_close,
+      return_1d: data.return_1d,
+      return_1w: data.return_1w,
+      return_1m: data.return_1m,
+      return_3m: data.return_3m,
+      return_6m: data.return_6m,
+      return_1y: data.return_1y,
+      return_2y: data.return_2y,
+      return_3y: data.return_3y,
+      return_5y: data.return_5y,
+      return_10y: data.return_10y,
+      return_since_inception: data.return_since_inception,
+    }));
+
+    await db
+      .insert(categoryAverages)
+      .values(catPayloads)
+      .onConflictDoUpdate({
+        target: categoryAverages.category,
+        set: {
+          latest_date: sql`excluded.latest_date`,
+          latest_close: sql`excluded.latest_close`,
+          return_1d: sql`excluded.return_1d`,
+          return_1w: sql`excluded.return_1w`,
+          return_1m: sql`excluded.return_1m`,
+          return_3m: sql`excluded.return_3m`,
+          return_6m: sql`excluded.return_6m`,
+          return_1y: sql`excluded.return_1y`,
+          return_2y: sql`excluded.return_2y`,
+          return_3y: sql`excluded.return_3y`,
+          return_5y: sql`excluded.return_5y`,
+          return_10y: sql`excluded.return_10y`,
+          return_since_inception: sql`excluded.return_since_inception`,
+        },
+      });
+
+    console.log(
+      `[SUCCESS] Imported ${parsedCatData.length} category averages into Turso DB.`,
     );
   }
 

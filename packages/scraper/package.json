@@ -14,6 +14,7 @@
     "seed:indices": "npm run build && node dist/seed-indices.js",
     "sync:indices": "npm run build && node dist/sync-indices.js",
     "calc:indices": "npm run build && node dist/calc-indices.js",
+    "calc:averages": "npm run build && node dist/calc-averages.js",
     "calc:scores": "npm run build && node dist/calc-scores.js"
   },
   "dependencies": {

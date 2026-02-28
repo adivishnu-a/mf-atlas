@@ -2,6 +2,7 @@
   {
     "id": "nifty-50",
     "name": "Nifty 50 TRI",
+    "fund_category": "Large Cap Fund",
     "latest_date": "2026-02-27",
     "latest_close": 25178.65,
     "returns": {
@@ -20,8 +21,9 @@
   {
     "id": "nifty-500",
     "name": "Nifty 500 TRI",
+    "fund_category": "Flexi Cap Fund, Multi Cap Fund",
     "latest_date": "2026-02-27",
-    "latest_close": 23166.849609375,
+    "latest_close": 23166.85,
     "returns": {
       "1d": -1.2,
       "1w": -0.98,
@@ -38,6 +40,7 @@
   {
     "id": "nifty-midcap-150",
     "name": "Nifty Midcap 150 TRI",
+    "fund_category": "Mid Cap Fund",
     "latest_date": "2026-02-27",
     "latest_close": 21847.35,
     "returns": {
@@ -56,6 +59,7 @@
   {
     "id": "nifty-smallcap-250",
     "name": "Nifty Smallcap 250 TRI",
+    "fund_category": "Small Cap Fund",
     "latest_date": "2026-02-27",
     "latest_close": 15881.05,
     "returns": {

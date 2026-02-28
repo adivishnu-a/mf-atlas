@@ -45,6 +45,16 @@ async function runIndexCompute() {
     let history: Array<{ date: string; close: number }> = [];
     try {
       history = JSON.parse(fs.readFileSync(filePath, "utf-8"));
+      // Cap index close value to 2 decimals
+      let historyModified = false;
+      history = history.map((h) => {
+        const capped = parseFloat(h.close.toFixed(2));
+        if (capped !== h.close) historyModified = true;
+        return { date: h.date, close: capped };
+      });
+      if (historyModified) {
+        fs.writeFileSync(filePath, JSON.stringify(history));
+      }
     } catch (e) {
       console.log(`Failed to parse ${file}`);
       continue;
@@ -118,16 +128,30 @@ async function runIndexCompute() {
     }
 
     let name = id;
-    if (id === "nifty-50") name = "Nifty 50 TRI";
-    if (id === "nifty-midcap-150") name = "Nifty Midcap 150 TRI";
-    if (id === "nifty-smallcap-250") name = "Nifty Smallcap 250 TRI";
-    if (id === "nifty-500") name = "Nifty 500 TRI";
+    let fund_category = "";
+    if (id === "nifty-50") {
+      name = "Nifty 50 TRI";
+      fund_category = "Large Cap Fund";
+    }
+    if (id === "nifty-midcap-150") {
+      name = "Nifty Midcap 150 TRI";
+      fund_category = "Mid Cap Fund";
+    }
+    if (id === "nifty-smallcap-250") {
+      name = "Nifty Smallcap 250 TRI";
+      fund_category = "Small Cap Fund";
+    }
+    if (id === "nifty-500") {
+      name = "Nifty 500 TRI";
+      fund_category = "Flexi Cap Fund, Multi Cap Fund";
+    }
 
     masterIndices.push({
       id,
       name,
+      fund_category,
       latest_date: currentDateStr,
-      latest_close: currentClose,
+      latest_close: parseFloat(currentClose.toFixed(2)),
       returns,
     });
   }
