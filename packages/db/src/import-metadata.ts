@@ -21,7 +21,7 @@ async function main() {
   const rawData = fs.readFileSync(masterIndexPath, "utf8");
   const indexData = JSON.parse(rawData);
 
-  type FundData = { isin: string; name: string; category: string; amc: string };
+  type FundData = any; // Just use any since JSON parsed structure is massive
   const fundEntries = Object.entries(indexData) as [string, FundData][];
   console.log(`Found ${fundEntries.length} funds in master index.`);
 
@@ -40,6 +40,42 @@ async function main() {
         category: data.category,
         amc: data.amc,
         kuveraId: kuveraCode,
+
+        lump_available: data.lump_available,
+        sip_available: data.sip_available,
+        lump_min: data.lump_min,
+        sip_min: data.sip_min,
+        lock_in_period: data.lock_in_period,
+        detail_info: data.detail_info,
+        tax_period: data.tax_period,
+        small_screen_name: data.small_screen_name,
+        volatility: data.volatility,
+        start_date: data.start_date,
+        fund_type: data.fund_type,
+        fund_category: data.fund_category,
+        expense_ratio: data.expense_ratio,
+        expense_ratio_date: data.expense_ratio_date,
+        fund_manager: data.fund_manager,
+        crisil_rating: data.crisil_rating,
+        investment_objective: data.investment_objective,
+        portfolio_turnover: data.portfolio_turnover,
+        aum: data.aum,
+        fund_rating: data.fund_rating,
+        comparison: data.comparison,
+
+        latest_nav: data.latest_nav,
+        latest_nav_date: data.latest_nav_date,
+        return_1d: data.return_1d,
+        return_1w: data.return_1w,
+        return_1m: data.return_1m,
+        return_3m: data.return_3m,
+        return_6m: data.return_6m,
+        return_1y: data.return_1y,
+        return_2y: data.return_2y,
+        return_3y: data.return_3y,
+        return_5y: data.return_5y,
+        return_10y: data.return_10y,
+        return_since_inception: data.return_since_inception,
       };
     });
 
@@ -54,6 +90,42 @@ async function main() {
           category: sql`excluded.category`,
           amc: sql`excluded.amc`,
           kuveraId: sql`excluded.kuveraId`,
+
+          lump_available: sql`excluded.lump_available`,
+          sip_available: sql`excluded.sip_available`,
+          lump_min: sql`excluded.lump_min`,
+          sip_min: sql`excluded.sip_min`,
+          lock_in_period: sql`excluded.lock_in_period`,
+          detail_info: sql`excluded.detail_info`,
+          tax_period: sql`excluded.tax_period`,
+          small_screen_name: sql`excluded.small_screen_name`,
+          volatility: sql`excluded.volatility`,
+          start_date: sql`excluded.start_date`,
+          fund_type: sql`excluded.fund_type`,
+          fund_category: sql`excluded.fund_category`,
+          expense_ratio: sql`excluded.expense_ratio`,
+          expense_ratio_date: sql`excluded.expense_ratio_date`,
+          fund_manager: sql`excluded.fund_manager`,
+          crisil_rating: sql`excluded.crisil_rating`,
+          investment_objective: sql`excluded.investment_objective`,
+          portfolio_turnover: sql`excluded.portfolio_turnover`,
+          aum: sql`excluded.aum`,
+          fund_rating: sql`excluded.fund_rating`,
+          comparison: sql`excluded.comparison`,
+
+          latest_nav: sql`excluded.latest_nav`,
+          latest_nav_date: sql`excluded.latest_nav_date`,
+          return_1d: sql`excluded.return_1d`,
+          return_1w: sql`excluded.return_1w`,
+          return_1m: sql`excluded.return_1m`,
+          return_3m: sql`excluded.return_3m`,
+          return_6m: sql`excluded.return_6m`,
+          return_1y: sql`excluded.return_1y`,
+          return_2y: sql`excluded.return_2y`,
+          return_3y: sql`excluded.return_3y`,
+          return_5y: sql`excluded.return_5y`,
+          return_10y: sql`excluded.return_10y`,
+          return_since_inception: sql`excluded.return_since_inception`,
         },
       });
 

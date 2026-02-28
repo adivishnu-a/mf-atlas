@@ -27,10 +27,16 @@ jobs:
         run: npm ci
 
       - name: Build Scraper
-        run: npm run build --workspace=@repo/scraper
+        run: npm run build --workspace=@mf-atlas/scraper
 
-      - name: Execute Master Scraper (Data Refinery)
-        run: npm run start --workspace=@repo/scraper
+      - name: Execute Master Fund Scraper
+        run: npm run seed --workspace=@mf-atlas/scraper
+
+      - name: Execute Daily Indices Sync
+        run: npm run sync:indices --workspace=@mf-atlas/scraper
+
+      - name: Calculate Master Index Metrics
+        run: npm run calc:indices --workspace=@mf-atlas/scraper
 
       - name: Commit and Push Data to CDN
         run: |

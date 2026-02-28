@@ -33,16 +33,7 @@ async function runInitialSeed() {
     );
 
     // Create a master index mapping
-    const masterIndex: Record<
-      string,
-      {
-        name: string;
-        category: string;
-        amc: string;
-        isin: string;
-        schemeCode: number | null;
-      }
-    > = {};
+    const masterIndex: Record<string, any> = {};
 
     console.log(`Processing ${validFunds.length} valid funds...`);
 
@@ -50,43 +41,85 @@ async function runInitialSeed() {
       const fund = validFunds[i];
       if (!fund) continue;
 
-      // This process is slow to prevent Kuvera IP blocks
       if (i % 25 === 0) console.log(`Processing ${i}/${validFunds.length}...`);
 
       const details = await kuveraService.getFundDetails(fund.code);
-      const isin = details?.ISIN || "UNKNOWN";
+      if (!details) continue;
+
+      // Ensure the detail payload matches the strict Atlas filter
+      if (details.direct !== "Y" || details.reinvestment !== "Z") {
+        continue;
+      }
+
+      const isin = details.ISIN || "UNKNOWN";
       const schemeCode =
         isin !== "UNKNOWN" ? isinToSchemeCode.get(isin) || null : null;
 
-      masterIndex[fund.code] = {
-        name: fund.name,
-        category: fund.category,
-        amc: fund.fundHouse,
-        isin: isin,
-        schemeCode: schemeCode,
-      };
-
       const fundHistoryPath = path.join(dataDir, `${isin}.json`);
+      let historyArray: Array<{ date: string; nav: number }> = [];
 
-      if (!fs.existsSync(fundHistoryPath) || true) {
-        // Always override while seeding
-        let historyArray: Array<{ date: string; nav: number }> = [];
-
-        // Fetch historical NAVs mapping from mfapi.in
-        if (schemeCode) {
-          historyArray = await mfApiService.getHistoricalNav(schemeCode);
-        }
-
-        // If empty, fall back to at least saving today's NAV so the array isn't broken
-        if (historyArray.length === 0) {
-          const todayDate = new Date().toISOString().split("T")[0] ?? "UNKNOWN";
-          historyArray = [{ date: todayDate, nav: fund.nav }];
-        }
-
-        fs.writeFileSync(fundHistoryPath, JSON.stringify(historyArray));
+      // Fetch historical NAVs mapping from mfapi.in
+      if (schemeCode) {
+        historyArray = await mfApiService.getHistoricalNav(schemeCode);
       }
 
-      await new Promise((res) => setTimeout(res, 250)); // Respect mfapi and kuvera rate limits
+      // If empty, fall back to at least saving today's NAV
+      if (historyArray.length === 0) {
+        const todayDate = new Date().toISOString().split("T")[0] ?? "UNKNOWN";
+        historyArray = [{ date: todayDate, nav: fund.nav }];
+      }
+
+      // Explicitly write the JSON history
+      fs.writeFileSync(fundHistoryPath, JSON.stringify(historyArray));
+
+      // Calculate the Return Math Off The Historical Array
+      const trailingReturns =
+        mfApiService.calculateTrailingReturns(historyArray);
+
+      // Hydrate the Master Record
+      masterIndex[fund.code] = {
+        name: details.name,
+        category: details.category,
+        amc: details.fund_house,
+        isin: isin,
+        schemeCode: schemeCode,
+
+        lump_available: details.lump_available,
+        sip_available: details.sip_available,
+        lump_min: details.lump_min,
+        sip_min: details.sip_min,
+        lock_in_period: details.lock_in_period,
+        detail_info: details.detail_info,
+        tax_period: details.tax_period,
+        small_screen_name: details.small_screen_name,
+        volatility: details.volatility,
+        start_date: details.start_date,
+        fund_type: details.fund_type,
+        fund_category: details.fund_category,
+        expense_ratio: details.expense_ratio,
+        expense_ratio_date: details.expense_ratio_date,
+        fund_manager: details.fund_manager,
+        crisil_rating: details.crisil_rating,
+        investment_objective: details.investment_objective,
+        portfolio_turnover:
+          typeof details.portfolio_turnover === "string"
+            ? parseFloat(details.portfolio_turnover)
+            : details.portfolio_turnover,
+        aum: details.aum,
+        fund_rating: details.fund_rating,
+        comparison: JSON.stringify(
+          (details.comparison || []).map((peer: any) => ({
+            code: peer.code,
+            info_ratio: peer.info_ratio,
+          })),
+        ),
+
+        ...trailingReturns,
+        latest_nav: historyArray.length > 0 ? historyArray[0]!.nav : null,
+        latest_nav_date: historyArray.length > 0 ? historyArray[0]!.date : null,
+      };
+
+      await new Promise((res) => setTimeout(res, 250)); // Respect API rate limits
     }
 
     // Write the master index map

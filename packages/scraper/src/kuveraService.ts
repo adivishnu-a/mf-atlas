@@ -10,6 +10,37 @@ export interface KuveraFund {
   reinvestment: string;
 }
 
+export interface KuveraFundDetail {
+  code: string;
+  name: string;
+  category: string;
+  fund_house: string;
+  lump_available: string;
+  sip_available: string;
+  lump_min: number;
+  sip_min: number;
+  lock_in_period: number;
+  detail_info: string;
+  tax_period: number;
+  small_screen_name: string;
+  volatility: number;
+  start_date: string;
+  fund_type: string;
+  fund_category: string;
+  expense_ratio: string;
+  expense_ratio_date: string;
+  fund_manager: string;
+  crisil_rating: string;
+  investment_objective: string;
+  portfolio_turnover: string;
+  aum: number;
+  fund_rating: number;
+  comparison: any[];
+  direct: string;
+  reinvestment: string;
+  ISIN: string;
+}
+
 export class KuveraService {
   private readonly listApiUrl =
     "https://api.kuvera.in/mf/api/v4/fund_schemes/list.json";
@@ -72,21 +103,20 @@ export class KuveraService {
             });
 
             for (const fund of directGrowthFunds) {
-              // Simple check to try and enforce "Direct" if possible based on name, or we filter properly later.
-              if (fund.n.toUpperCase().includes("DIRECT")) {
-                filteredFunds.push({
-                  code: fund.c,
-                  name: fund.n,
-                  assetClass,
-                  category,
-                  fundHouse,
-                  nav:
-                    typeof fund.v === "number"
-                      ? fund.v
-                      : parseFloat(fund.v || "0"),
-                  reinvestment: fund.re,
-                });
-              }
+              // We remove the strict "DIRECT" name check here.
+              // We will rely on the "direct": "Y" flag in the details API instead.
+              filteredFunds.push({
+                code: fund.c,
+                name: fund.n,
+                assetClass,
+                category,
+                fundHouse,
+                nav:
+                  typeof fund.v === "number"
+                    ? fund.v
+                    : parseFloat(fund.v || "0"),
+                reinvestment: fund.re,
+              });
             }
           }
         }
@@ -102,7 +132,7 @@ export class KuveraService {
     }
   }
 
-  async getFundDetails(code: string) {
+  async getFundDetails(code: string): Promise<KuveraFundDetail | null> {
     const url = `https://api.kuvera.in/mf/api/v5/fund_schemes/${code}.json`;
     try {
       const response = await axios.get(url, { headers: this.headers });
@@ -111,7 +141,7 @@ export class KuveraService {
         Array.isArray(response.data) &&
         response.data.length > 0
       ) {
-        return response.data[0];
+        return response.data[0] as KuveraFundDetail;
       }
       return null;
     } catch (err) {

@@ -1,5 +1,5 @@
 import { sql } from "drizzle-orm";
-import { text, integer, sqliteTable } from "drizzle-orm/sqlite-core";
+import { text, integer, sqliteTable, real } from "drizzle-orm/sqlite-core";
 
 // ----------------------------------------------------------------------
 // Users & Auth.js Authentication Tables
@@ -48,11 +48,51 @@ export const verificationTokens = sqliteTable("verificationToken", {
 // ----------------------------------------------------------------------
 
 export const funds = sqliteTable("funds", {
-  id: text("id").primaryKey(), // We will use ISIN as the primary key
+  id: text("id").primaryKey(), // ISIN
   name: text("name").notNull(),
   category: text("category").notNull(),
   amc: text("amc").notNull(),
-  kuveraId: text("kuveraId").notNull().unique(), // The scheme code from Kuvera
+  kuveraId: text("kuveraId").notNull().unique(), // Scheme code
+
+  // Expanded Metadata from Kuvera Details API
+  lump_available: text("lump_available"), // "Y" / "N"
+  sip_available: text("sip_available"), // "Y" / "N"
+  lump_min: real("lump_min"),
+  sip_min: real("sip_min"),
+  lock_in_period: integer("lock_in_period"), // in days or months, usually days
+  detail_info: text("detail_info"),
+  tax_period: integer("tax_period"), // e.g. 365
+  small_screen_name: text("small_screen_name"),
+  volatility: real("volatility"),
+  start_date: text("start_date"),
+  fund_type: text("fund_type"), // e.g. "Open Ended"
+  fund_category: text("fund_category"), // More granular than generic category
+  expense_ratio: real("expense_ratio"),
+  expense_ratio_date: text("expense_ratio_date"),
+  fund_manager: text("fund_manager"),
+  crisil_rating: text("crisil_rating"),
+  investment_objective: text("investment_objective"),
+  portfolio_turnover: real("portfolio_turnover"),
+  aum: real("aum"),
+  fund_rating: integer("fund_rating"), // Star rating (1-5)
+
+  // Serialized JSON Strings
+  comparison: text("comparison"), // Array of { code, info_ratio }
+
+  // Computed Trailing Returns (Realistic Working Day Interpolation)
+  latest_nav: real("latest_nav"),
+  latest_nav_date: text("latest_nav_date"),
+  return_1d: real("return_1d"),
+  return_1w: real("return_1w"),
+  return_1m: real("return_1m"),
+  return_3m: real("return_3m"),
+  return_6m: real("return_6m"),
+  return_1y: real("return_1y"),
+  return_2y: real("return_2y"),
+  return_3y: real("return_3y"),
+  return_5y: real("return_5y"),
+  return_10y: real("return_10y"),
+  return_since_inception: real("return_since_inception"),
 });
 
 export const watchlists = sqliteTable("watchlists", {
