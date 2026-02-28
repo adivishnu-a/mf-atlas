@@ -93,6 +93,18 @@ export const funds = sqliteTable("funds", {
   return_5y: real("return_5y"),
   return_10y: real("return_10y"),
   return_since_inception: real("return_since_inception"),
+
+  // Atlas Scoring engine output metrics
+  atlas_score: real("atlas_score"),
+  score_perf: real("score_perf"),
+  score_crisil: real("score_crisil"),
+  score_aum: real("score_aum"),
+  score_rep: real("score_rep"),
+  score_rating: real("score_rating"),
+  score_risk: real("score_risk"),
+  alpha_1y: real("alpha_1y"),
+  alpha_3y: real("alpha_3y"),
+  alpha_5y: real("alpha_5y"),
 });
 
 export const indices = sqliteTable("indices", {
@@ -117,7 +129,6 @@ export const indices = sqliteTable("indices", {
 export const categoryAverages = sqliteTable("category_averages", {
   category: text("category").primaryKey(), // e.g. "Flexi Cap Fund"
   latest_date: text("latest_date"),
-  latest_close: real("latest_close"),
 
   return_1d: real("return_1d"),
   return_1w: real("return_1w"),
@@ -129,7 +140,6 @@ export const categoryAverages = sqliteTable("category_averages", {
   return_3y: real("return_3y"),
   return_5y: real("return_5y"),
   return_10y: real("return_10y"),
-  return_since_inception: real("return_since_inception"),
 });
 
 export const watchlists = sqliteTable("watchlists", {

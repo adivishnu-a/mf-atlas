@@ -76,6 +76,17 @@ async function main() {
         return_5y: data.return_5y,
         return_10y: data.return_10y,
         return_since_inception: data.return_since_inception,
+
+        atlas_score: data.atlas_score,
+        score_perf: data.score_perf,
+        score_crisil: data.score_crisil,
+        score_aum: data.score_aum,
+        score_rep: data.score_rep,
+        score_rating: data.score_rating,
+        score_risk: data.score_risk,
+        alpha_1y: data.alpha_1y,
+        alpha_3y: data.alpha_3y,
+        alpha_5y: data.alpha_5y,
       };
     });
 
@@ -126,6 +137,17 @@ async function main() {
           return_5y: sql`excluded.return_5y`,
           return_10y: sql`excluded.return_10y`,
           return_since_inception: sql`excluded.return_since_inception`,
+
+          atlas_score: sql`excluded.atlas_score`,
+          score_perf: sql`excluded.score_perf`,
+          score_crisil: sql`excluded.score_crisil`,
+          score_aum: sql`excluded.score_aum`,
+          score_rep: sql`excluded.score_rep`,
+          score_rating: sql`excluded.score_rating`,
+          score_risk: sql`excluded.score_risk`,
+          alpha_1y: sql`excluded.alpha_1y`,
+          alpha_3y: sql`excluded.alpha_3y`,
+          alpha_5y: sql`excluded.alpha_5y`,
         },
       });
 
@@ -200,7 +222,6 @@ async function main() {
     const catPayloads = parsedCatData.map((data) => ({
       category: data.category,
       latest_date: data.latest_date,
-      latest_close: data.latest_close,
       return_1d: data.return_1d,
       return_1w: data.return_1w,
       return_1m: data.return_1m,
@@ -211,7 +232,6 @@ async function main() {
       return_3y: data.return_3y,
       return_5y: data.return_5y,
       return_10y: data.return_10y,
-      return_since_inception: data.return_since_inception,
     }));
 
     await db
@@ -221,7 +241,6 @@ async function main() {
         target: categoryAverages.category,
         set: {
           latest_date: sql`excluded.latest_date`,
-          latest_close: sql`excluded.latest_close`,
           return_1d: sql`excluded.return_1d`,
           return_1w: sql`excluded.return_1w`,
           return_1m: sql`excluded.return_1m`,
@@ -232,7 +251,6 @@ async function main() {
           return_3y: sql`excluded.return_3y`,
           return_5y: sql`excluded.return_5y`,
           return_10y: sql`excluded.return_10y`,
-          return_since_inception: sql`excluded.return_since_inception`,
         },
       });
 

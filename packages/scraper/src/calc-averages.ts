@@ -42,7 +42,6 @@ function runCategoryAverages() {
       "return_3y",
       "return_5y",
       "return_10y",
-      "return_since_inception",
     ];
 
     const catReturns: Record<string, number | null> = {};
@@ -62,7 +61,6 @@ function runCategoryAverages() {
     categoryAverages.push({
       category: cat,
       latest_date: new Date().toISOString().split("T")[0],
-      latest_close: 100, // Normalized baseline
       ...catReturns,
     });
   }
