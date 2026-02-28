@@ -32,6 +32,9 @@ jobs:
       - name: Execute Daily Incremental Fund Sync
         run: npm run sync:funds --workspace=@mf-atlas/scraper
 
+      - name: Calculate Atlas Scores
+        run: npm run calc:scores --workspace=@mf-atlas/scraper
+
       - name: Commit and Push Data to CDN
         run: |
           git config --global user.name "MF Atlas Bot"

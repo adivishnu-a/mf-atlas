@@ -80,7 +80,7 @@ export class MfApiService {
 
     const calcAbsolute = (pastNav: number | null): number | null => {
       if (pastNav === null || pastNav === 0) return null;
-      return (latestNav / pastNav - 1) * 100;
+      return parseFloat(((latestNav / pastNav - 1) * 100).toFixed(2));
     };
 
     const calcAnnualized = (
@@ -88,7 +88,9 @@ export class MfApiService {
       years: number,
     ): number | null => {
       if (pastNav === null || pastNav === 0) return null;
-      return (Math.pow(latestNav / pastNav, 1 / years) - 1) * 100;
+      return parseFloat(
+        ((Math.pow(latestNav / pastNav, 1 / years) - 1) * 100).toFixed(2),
+      );
     };
 
     // 1 Day
