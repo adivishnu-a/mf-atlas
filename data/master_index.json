@@ -37,15 +37,7 @@
     "return_10y": 11.61,
     "return_since_inception": 10.49,
     "latest_nav": 166.34,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 45.2,
-    "score_perf": 43.71,
-    "score_crisil": 50,
-    "score_aum": 80.1,
-    "score_rep": 50,
-    "alpha_1y": 2.29,
-    "alpha_3y": 4.96,
-    "alpha_5y": 1.84
+    "latest_nav_date": "2026-03-02"
   },
   "419-GR": {
     "name": "Franklin India Large Cap Growth Direct Plan",
@@ -86,15 +78,7 @@
     "return_10y": 12.96,
     "return_since_inception": 12.53,
     "latest_nav": 1127.1297,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 34.56,
-    "score_perf": 29.83,
-    "score_crisil": 60,
-    "score_aum": 95.41,
-    "score_rep": 50,
-    "alpha_1y": 1.57,
-    "alpha_3y": 3.43,
-    "alpha_5y": 1.1
+    "latest_nav_date": "2026-03-02"
   },
   "8042-GR": {
     "name": "ICICI Prudential Large Cap Growth Direct Plan",
@@ -135,15 +119,7 @@
     "return_10y": 16.31,
     "return_since_inception": 15.32,
     "latest_nav": 121.81,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 70.56,
-    "score_perf": 66.1,
-    "score_crisil": 100,
-    "score_aum": 97.34,
-    "score_rep": 88.26,
-    "alpha_1y": 2.93,
-    "alpha_3y": 6.44,
-    "alpha_5y": 5.4
+    "latest_nav_date": "2026-03-02"
   },
   "KO13D-GR": {
     "name": "Kotak Large Cap Growth Direct Plan",
@@ -184,15 +160,7 @@
     "return_10y": 15.22,
     "return_since_inception": 14.52,
     "latest_nav": 665.612,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 58.99,
-    "score_perf": 53.46,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 50.69,
-    "alpha_1y": 4.6,
-    "alpha_3y": 4.69,
-    "alpha_5y": 3.71
+    "latest_nav_date": "2026-03-02"
   },
   "44T-GR": {
     "name": "HDFC Large Cap Growth Direct Plan",
@@ -233,15 +201,7 @@
     "return_10y": 15.53,
     "return_since_inception": 13.71,
     "latest_nav": 1242.125,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 51.9,
-    "score_perf": 44.14,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 97.19,
-    "alpha_1y": 0.78,
-    "alpha_3y": 4.41,
-    "alpha_5y": 4.2
+    "latest_nav_date": "2026-03-02"
   },
   "JMEFDG-GR": {
     "name": "JM Large Cap Growth Direct Plan",
@@ -282,15 +242,7 @@
     "return_10y": 13.31,
     "return_since_inception": 12.73,
     "latest_nav": 176.4103,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 53.95,
-    "score_perf": 48.06,
-    "score_crisil": 100,
-    "score_aum": 80.89,
-    "score_rep": 50,
-    "alpha_1y": 2.44,
-    "alpha_3y": 4.64,
-    "alpha_5y": 3.73
+    "latest_nav_date": "2026-03-02"
   },
   "D207-GR": {
     "name": "Bandhan Large Cap Growth Direct Plan",
@@ -331,15 +283,7 @@
     "return_10y": 15.07,
     "return_since_inception": 13.27,
     "latest_nav": 89.221,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 71.85,
-    "score_perf": 68.81,
-    "score_crisil": 100,
-    "score_aum": 83.96,
-    "score_rep": 50,
-    "alpha_1y": 5.22,
-    "alpha_3y": 6.73,
-    "alpha_5y": 3.96
+    "latest_nav_date": "2026-03-02"
   },
   "SBD103G-GR": {
     "name": "SBI Large Cap Growth Direct Plan",
@@ -380,15 +324,7 @@
     "return_10y": 14.41,
     "return_since_inception": 14.86,
     "latest_nav": 104.2302,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 45.16,
-    "score_perf": 39.02,
-    "score_crisil": 80,
-    "score_aum": 99.52,
-    "score_rep": 80.82,
-    "alpha_1y": 3.78,
-    "alpha_3y": 3.36,
-    "alpha_5y": 2.47
+    "latest_nav_date": "2026-03-02"
   },
   "EAAB-GR": {
     "name": "Nippon India Large Cap Bonus Bonus Growth Direct Plan",
@@ -429,15 +365,7 @@
     "return_10y": 16.84,
     "return_since_inception": 15.83,
     "latest_nav": 101.8541,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 87.87,
-    "score_perf": 85.89,
-    "score_crisil": 100,
-    "score_aum": 99.99,
-    "score_rep": 100,
-    "alpha_1y": 4.68,
-    "alpha_3y": 7.88,
-    "alpha_5y": 7.4
+    "latest_nav_date": "2026-03-02"
   },
   "EAAG-GR": {
     "name": "Nippon India Large Cap Growth Direct Plan",
@@ -478,15 +406,7 @@
     "return_10y": 16.84,
     "return_since_inception": 15.85,
     "latest_nav": 101.8541,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 87.87,
-    "score_perf": 85.89,
-    "score_crisil": 100,
-    "score_aum": 99.99,
-    "score_rep": 100,
-    "alpha_1y": 4.68,
-    "alpha_3y": 7.88,
-    "alpha_5y": 7.4
+    "latest_nav_date": "2026-03-02"
   },
   "RGBLD1-GR": {
     "name": "Invesco India Largecap Growth Direct Plan",
@@ -527,15 +447,7 @@
     "return_10y": 15.23,
     "return_since_inception": 14.97,
     "latest_nav": 82.28,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 72.47,
-    "score_perf": 69.54,
-    "score_crisil": 100,
-    "score_aum": 83.33,
-    "score_rep": 50,
-    "alpha_1y": 4.67,
-    "alpha_3y": 6.67,
-    "alpha_5y": 4.72
+    "latest_nav_date": "2026-03-02"
   },
   "BS92Z-GR": {
     "name": "Aditya Birla Sun Life Large Cap Growth Direct Plan",
@@ -576,15 +488,7 @@
     "return_10y": 14.21,
     "return_since_inception": 14.16,
     "latest_nav": 575.94,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 44.86,
-    "score_perf": 39.37,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 1.56,
-    "alpha_3y": 3.92,
-    "alpha_5y": 3.11
+    "latest_nav_date": "2026-03-02"
   },
   "BPLCDG-GR": {
     "name": "Baroda BNP Paribas Large Cap Growth Direct Plan",
@@ -625,15 +529,7 @@
     "return_10y": null,
     "return_since_inception": 14.73,
     "latest_nav": 256.5158,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 60.12,
-    "score_perf": 55.14,
-    "score_crisil": 100,
-    "score_aum": 85.23,
-    "score_rep": 50,
-    "alpha_1y": 2.53,
-    "alpha_3y": 5.63,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TAPEFZ-GR": {
     "name": "Tata Large Cap Growth Direct Plan",
@@ -674,15 +570,7 @@
     "return_10y": 14.36,
     "return_since_inception": 13.6,
     "latest_nav": 585.368,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 51.56,
-    "score_perf": 47.5,
-    "score_crisil": 80,
-    "score_aum": 85.52,
-    "score_rep": 50,
-    "alpha_1y": 3.16,
-    "alpha_3y": 4.38,
-    "alpha_5y": 3.54
+    "latest_nav_date": "2026-03-02"
   },
   "HEFG-GR": {
     "name": "HSBC Large Cap Growth Direct Plan",
@@ -723,15 +611,7 @@
     "return_10y": 14.78,
     "return_since_inception": 13.01,
     "latest_nav": 540.2684,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 54.23,
-    "score_perf": 50.64,
-    "score_crisil": 80,
-    "score_aum": 83.77,
-    "score_rep": 50,
-    "alpha_1y": 4.49,
-    "alpha_3y": 4.89,
-    "alpha_5y": 2.51
+    "latest_nav_date": "2026-03-02"
   },
   "UNFLFGD-GR": {
     "name": "Union Largecap Growth Direct Plan",
@@ -772,15 +652,7 @@
     "return_10y": null,
     "return_since_inception": 10.96,
     "latest_nav": 25,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 26.22,
-    "score_perf": 22.8,
-    "score_crisil": 40,
-    "score_aum": 80.91,
-    "score_rep": 50,
-    "alpha_1y": 1.27,
-    "alpha_3y": 2.24,
-    "alpha_5y": 1.51
+    "latest_nav_date": "2026-03-02"
   },
   "PRFED1-GR": {
     "name": "PGIM India Large Cap Growth Direct Plan",
@@ -821,15 +693,7 @@
     "return_10y": null,
     "return_since_inception": 12.7,
     "latest_nav": 397.62,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 14.96,
-    "score_perf": 9.69,
-    "score_crisil": 40,
-    "score_aum": 81.14,
-    "score_rep": 50,
-    "alpha_1y": 0.85,
-    "alpha_3y": 0.86,
-    "alpha_5y": 0.49
+    "latest_nav_date": "2026-03-02"
   },
   "INBCG1-GR": {
     "name": "Groww Large Cap Growth Direct Plan",
@@ -870,15 +734,7 @@
     "return_10y": 14.19,
     "return_since_inception": 12.74,
     "latest_nav": 52.31,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 52.12,
-    "score_perf": 50.59,
-    "score_crisil": 60,
-    "score_aum": 80.26,
-    "score_rep": 50,
-    "alpha_1y": 6.06,
-    "alpha_3y": 4.27,
-    "alpha_5y": 2.57
+    "latest_nav_date": "2026-03-02"
   },
   "DS776-GR": {
     "name": "DSP Large Cap Growth Direct Plan",
@@ -919,15 +775,7 @@
     "return_10y": 13.93,
     "return_since_inception": 12.2,
     "latest_nav": 517.301,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 57.67,
-    "score_perf": 56.73,
-    "score_crisil": 60,
-    "score_aum": 94.33,
-    "score_rep": 50,
-    "alpha_1y": 0.52,
-    "alpha_3y": 6.68,
-    "alpha_5y": 3.78
+    "latest_nav_date": "2026-03-02"
   },
   "EGDG-GR": {
     "name": "Edelweiss Large Cap Growth Direct Plan",
@@ -968,15 +816,7 @@
     "return_10y": 15.53,
     "return_since_inception": 14.6,
     "latest_nav": 98.06,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 58.93,
-    "score_perf": 53.81,
-    "score_crisil": 100,
-    "score_aum": 82.89,
-    "score_rep": 50,
-    "alpha_1y": 3.63,
-    "alpha_3y": 4.94,
-    "alpha_5y": 4.04
+    "latest_nav_date": "2026-03-02"
   },
   "CALCDG-GR": {
     "name": "Canara Robeco Large Cap Growth Direct Plan",
@@ -1017,15 +857,7 @@
     "return_10y": 16.28,
     "return_since_inception": 14.53,
     "latest_nav": 72.2,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 47.5,
-    "score_perf": 40.12,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 0.73,
-    "alpha_3y": 4.41,
-    "alpha_5y": 2.98
+    "latest_nav_date": "2026-03-02"
   },
   "MAFIOD1-GR": {
     "name": "Mirae Asset Large Cap Growth Direct Plan",
@@ -1066,15 +898,7 @@
     "return_10y": 15.38,
     "return_since_inception": 15.52,
     "latest_nav": 126.648,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 32.62,
-    "score_perf": 25.14,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 2.31,
-    "alpha_3y": 2.14,
-    "alpha_5y": 1.67
+    "latest_nav_date": "2026-03-02"
   },
   "UTMRD2-GR": {
     "name": "UTI Large Cap Growth Direct Plan",
@@ -1115,15 +939,7 @@
     "return_10y": 13.66,
     "return_since_inception": 13.11,
     "latest_nav": 295.001,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 16.87,
-    "score_perf": 9.15,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -2,
-    "alpha_3y": 1.48,
-    "alpha_5y": 1.2
+    "latest_nav_date": "2026-03-02"
   },
   "AXEFDG-GR": {
     "name": "Axis Large Cap Growth Direct Plan",
@@ -1164,15 +980,7 @@
     "return_10y": 14.35,
     "return_since_inception": 14.03,
     "latest_nav": 69.16,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 15.53,
-    "score_perf": 7.59,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -0.91,
-    "alpha_3y": 1.64,
-    "alpha_5y": -0.42
+    "latest_nav_date": "2026-03-02"
   },
   "MHMPBDG-GR": {
     "name": "Mahindra Manulife Large Cap Growth Direct Plan",
@@ -1213,15 +1021,7 @@
     "return_10y": null,
     "return_since_inception": 14.62,
     "latest_nav": 25.881,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 46.9,
-    "score_perf": 42.18,
-    "score_crisil": 80,
-    "score_aum": 81.48,
-    "score_rep": 50,
-    "alpha_1y": 1.38,
-    "alpha_3y": 4.39,
-    "alpha_5y": 3.18
+    "latest_nav_date": "2026-03-02"
   },
   "SUBCDG-GR": {
     "name": "Sundaram Large Cap Growth Direct Plan",
@@ -1262,15 +1062,7 @@
     "return_10y": null,
     "return_since_inception": 16.4,
     "latest_nav": 22.6727,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 25.48,
-    "score_perf": 17.15,
-    "score_crisil": 80,
-    "score_aum": 86.53,
-    "score_rep": 50,
-    "alpha_1y": -1.22,
-    "alpha_3y": 1.89,
-    "alpha_5y": 2.3
+    "latest_nav_date": "2026-03-02"
   },
   "ITLCG1-GR": {
     "name": "ITI Large Cap Growth Direct Plan",
@@ -1311,15 +1103,7 @@
     "return_10y": null,
     "return_since_inception": 12.97,
     "latest_nav": 19.026,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 31.4,
-    "score_perf": 28.81,
-    "score_crisil": 40,
-    "score_aum": 81.02,
-    "score_rep": 50,
-    "alpha_1y": 0.74,
-    "alpha_3y": 3.59,
-    "alpha_5y": 1.08
+    "latest_nav_date": "2026-03-02"
   },
   "BABCDG-GR": {
     "name": "Bank Of India Large Cap Growth Direct Plan",
@@ -1360,15 +1144,7 @@
     "return_10y": null,
     "return_since_inception": 12.72,
     "latest_nav": 17.47,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 88.45,
-    "score_perf": 90.51,
-    "score_crisil": 80,
-    "score_aum": 80.41,
-    "score_rep": 50,
-    "alpha_1y": 10.61,
-    "alpha_3y": 6.77,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QULCDG-GR": {
     "name": "Quant Large Cap Growth Direct Plan",
@@ -1409,15 +1185,7 @@
     "return_10y": null,
     "return_since_inception": 13.15,
     "latest_nav": 15.5314,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 63.93,
-    "score_perf": 61.87,
-    "score_crisil": 80,
-    "score_aum": 85.84,
-    "score_rep": 50,
-    "alpha_1y": 3.44,
-    "alpha_3y": 6.08,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "YED103G-GR": {
     "name": "Whiteoak Capital Large Cap Growth Direct Plan",
@@ -1458,15 +1226,7 @@
     "return_10y": null,
     "return_since_inception": 14.79,
     "latest_nav": 15.552,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 76.1,
-    "score_perf": 73.78,
-    "score_crisil": 100,
-    "score_aum": 82.28,
-    "score_rep": 50,
-    "alpha_1y": 3.8,
-    "alpha_3y": 7.34,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MOLCGD-GR": {
     "name": "Motilal Oswal Large Cap Growth Direct Plan",
@@ -1506,15 +1266,7 @@
     "return_10y": null,
     "return_since_inception": 17.71,
     "latest_nav": 13.8412,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 23.27,
-    "score_perf": 18.08,
-    "score_crisil": 50,
-    "score_aum": 86.12,
-    "score_rep": 50,
-    "alpha_1y": 0.28,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BJLCDG-GR": {
     "name": "Bajaj Finserv Large Cap Growth Direct Plan",
@@ -1554,15 +1306,7 @@
     "return_10y": null,
     "return_since_inception": 2.12,
     "latest_nav": 10.392,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 61.61,
-    "score_perf": 62.73,
-    "score_crisil": 50,
-    "score_aum": 83.04,
-    "score_rep": 50,
-    "alpha_1y": 5.91,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SALCDG-GR": {
     "name": "Samco Large Cap Growth Direct Plan",
@@ -1602,15 +1346,7 @@
     "return_10y": null,
     "return_since_inception": -5.11,
     "latest_nav": 9.48,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.6,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.24,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QUSF3DG-GR": {
     "name": "Qsif Equity Ex Top 100 Long Short Growth Direct Plan",
@@ -1650,15 +1386,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 13.67,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": 50.61,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.34,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "PPLCFGZ-GR": {
     "name": "Parag Parikh Large Cap Growth Direct Plan",
@@ -1698,15 +1426,7 @@
     "return_10y": null,
     "return_since_inception": -2.72,
     "latest_nav": 9.7274,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 49,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 0,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TUDSG1G-GR": {
     "name": "Taurus Discovery Growth Direct Plan",
@@ -1746,15 +1466,7 @@
     "return_10y": 16.23,
     "return_since_inception": 15.6,
     "latest_nav": 119.97,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 20.11,
-    "score_perf": 14.54,
-    "score_crisil": 50,
-    "score_aum": 80.25,
-    "score_rep": 50,
-    "alpha_1y": -7.4,
-    "alpha_3y": -7.41,
-    "alpha_5y": -4.89
+    "latest_nav_date": "2026-03-02"
   },
   "417-GR": {
     "name": "Franklin India Mid Cap Growth Direct Plan",
@@ -1795,15 +1507,7 @@
     "return_10y": 16.81,
     "return_since_inception": 18.17,
     "latest_nav": 3000.6386,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 49.02,
-    "score_perf": 46.53,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -6.09,
-    "alpha_3y": -0.78,
-    "alpha_5y": -1.88
+    "latest_nav_date": "2026-03-02"
   },
   "8182-GR": {
     "name": "ICICI Prudential Midcap Growth Direct Plan",
@@ -1844,15 +1548,7 @@
     "return_10y": 18.85,
     "return_since_inception": 19.43,
     "latest_nav": 356.87,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 88.79,
-    "score_perf": 89.71,
-    "score_crisil": 80,
-    "score_aum": 93.94,
-    "score_rep": 88.26,
-    "alpha_1y": 11.16,
-    "alpha_3y": 3.76,
-    "alpha_5y": 2.43
+    "latest_nav_date": "2026-03-02"
   },
   "KO123D-GR": {
     "name": "Kotak Midcap Growth Direct Plan",
@@ -1893,15 +1589,7 @@
     "return_10y": 20.44,
     "return_since_inception": 20.14,
     "latest_nav": 157.214,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 67.92,
-    "score_perf": 66.19,
-    "score_crisil": 80,
-    "score_aum": 99.1,
-    "score_rep": 50.69,
-    "alpha_1y": 3.53,
-    "alpha_3y": -0.32,
-    "alpha_5y": 1.54
+    "latest_nav_date": "2026-03-02"
   },
   "MHEBYDG-GR": {
     "name": "Mahindra Manulife Mid Cap Growth Direct Plan",
@@ -1942,15 +1630,7 @@
     "return_10y": null,
     "return_since_inception": 19.16,
     "latest_nav": 38.4562,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 83.53,
-    "score_perf": 82.28,
-    "score_crisil": 100,
-    "score_aum": 88.53,
-    "score_rep": 50,
-    "alpha_1y": 0.82,
-    "alpha_3y": 3.6,
-    "alpha_5y": 3.48
+    "latest_nav_date": "2026-03-02"
   },
   "MCOGT-GR": {
     "name": "HDFC Mid Cap Growth Direct Plan",
@@ -1991,15 +1671,7 @@
     "return_10y": 20.26,
     "return_since_inception": 20.55,
     "latest_nav": 220.177,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 87.18,
-    "score_perf": 85.25,
-    "score_crisil": 100,
-    "score_aum": 95.78,
-    "score_rep": 97.19,
-    "alpha_1y": 2.43,
-    "alpha_3y": 3.54,
-    "alpha_5y": 4.11
+    "latest_nav_date": "2026-03-02"
   },
   "SBD091G-GR": {
     "name": "SBI Midcap Growth Direct Plan",
@@ -2040,15 +1712,7 @@
     "return_10y": 16.53,
     "return_since_inception": 18.46,
     "latest_nav": 260.5007,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 34.7,
-    "score_perf": 31.49,
-    "score_crisil": 40,
-    "score_aum": 100,
-    "score_rep": 80.82,
-    "alpha_1y": -7.67,
-    "alpha_3y": -5.48,
-    "alpha_5y": -0.91
+    "latest_nav_date": "2026-03-02"
   },
   "GFAB-GR": {
     "name": "Nippon India Mid Cap Bonus Bonus Growth Direct Plan",
@@ -2089,15 +1753,7 @@
     "return_10y": 20.62,
     "return_since_inception": 18.36,
     "latest_nav": 775.646,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 90.51,
-    "score_perf": 88.97,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 100,
-    "alpha_1y": 3.81,
-    "alpha_3y": 4.23,
-    "alpha_5y": 4.13
+    "latest_nav_date": "2026-03-02"
   },
   "GFAG-GR": {
     "name": "Nippon India Mid Cap Growth Direct Plan",
@@ -2138,15 +1794,7 @@
     "return_10y": 20.62,
     "return_since_inception": 18.37,
     "latest_nav": 4668.7488,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 90.51,
-    "score_perf": 88.97,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 100,
-    "alpha_1y": 3.81,
-    "alpha_3y": 4.23,
-    "alpha_5y": 4.13
+    "latest_nav_date": "2026-03-02"
   },
   "RGMCD1-GR": {
     "name": "Invesco India Midcap Growth Direct Plan",
@@ -2187,15 +1835,7 @@
     "return_10y": 20.75,
     "return_since_inception": 20.73,
     "latest_nav": 211.29,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 89.8,
-    "score_perf": 89.3,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 3.61,
-    "alpha_3y": 5.14,
-    "alpha_5y": 3.15
+    "latest_nav_date": "2026-03-02"
   },
   "BS251GZ-GR": {
     "name": "Aditya Birla Sun Life Midcap Growth Direct Plan",
@@ -2236,15 +1876,7 @@
     "return_10y": 15.81,
     "return_since_inception": 16.13,
     "latest_nav": 862.06,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.48,
-    "score_perf": 48.42,
-    "score_crisil": 60,
-    "score_aum": 92.08,
-    "score_rep": 50,
-    "alpha_1y": -3.03,
-    "alpha_3y": -2.07,
-    "alpha_5y": -0.58
+    "latest_nav_date": "2026-03-02"
   },
   "MOFMGD-GR": {
     "name": "Motilal Oswal Midcap Growth Direct Plan",
@@ -2285,15 +1917,7 @@
     "return_10y": 18.25,
     "return_since_inception": 21.25,
     "latest_nav": 101.3711,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 51.79,
-    "score_perf": 47.43,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -20.93,
-    "alpha_3y": -1.43,
-    "alpha_5y": 4.52
+    "latest_nav_date": "2026-03-02"
   },
   "BPMCDG-GR": {
     "name": "Baroda BNP Paribas Mid Cap Growth Direct Plan",
@@ -2334,15 +1958,7 @@
     "return_10y": null,
     "return_since_inception": 18.6,
     "latest_nav": 124.7824,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 65.4,
-    "score_perf": 63.62,
-    "score_crisil": 80,
-    "score_aum": 84.56,
-    "score_rep": 50,
-    "alpha_1y": 0.75,
-    "alpha_3y": 0.03,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TAGROGZ-GR": {
     "name": "Tata Mid Cap Growth Direct Plan",
@@ -2383,15 +1999,7 @@
     "return_10y": 18.55,
     "return_since_inception": 19.22,
     "latest_nav": 500.5637,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 65,
-    "score_perf": 63,
-    "score_crisil": 80,
-    "score_aum": 90.71,
-    "score_rep": 50,
-    "alpha_1y": 1.71,
-    "alpha_3y": 0.19,
-    "alpha_5y": 0.32
+    "latest_nav_date": "2026-03-02"
   },
   "LCIMG1-GR": {
     "name": "LIC Mid Cap Growth Direct Plan",
@@ -2432,15 +2040,7 @@
     "return_10y": null,
     "return_since_inception": 16.56,
     "latest_nav": 31.4292,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 46.52,
-    "score_perf": 46.4,
-    "score_crisil": 40,
-    "score_aum": 80.66,
-    "score_rep": 50,
-    "alpha_1y": -6.04,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PRMOG1-GR": {
     "name": "PGIM India Midcap Growth Direct Plan",
@@ -2481,15 +2081,7 @@
     "return_10y": 18.04,
     "return_since_inception": 17.53,
     "latest_nav": 72.24,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 24.59,
-    "score_perf": 20.45,
-    "score_crisil": 40,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -6.33,
-    "alpha_3y": -7.96,
-    "alpha_5y": -2.33
+    "latest_nav_date": "2026-03-02"
   },
   "DS782-GR": {
     "name": "DSP Midcap Growth Direct Plan",
@@ -2530,15 +2122,7 @@
     "return_10y": 17.4,
     "return_since_inception": 17.17,
     "latest_nav": 165.297,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 49.59,
-    "score_perf": 49.52,
-    "score_crisil": 40,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 2.54,
-    "alpha_3y": -1.06,
-    "alpha_5y": -3.43
+    "latest_nav_date": "2026-03-02"
   },
   "UTMCD2-GR": {
     "name": "UTI Mid Cap Growth Direct Plan",
@@ -2579,15 +2163,7 @@
     "return_10y": 16.24,
     "return_since_inception": 18.21,
     "latest_nav": 329.5135,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 36.4,
-    "score_perf": 34.19,
-    "score_crisil": 40,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -2.57,
-    "alpha_3y": -4.83,
-    "alpha_5y": -2.53
+    "latest_nav_date": "2026-03-02"
   },
   "EDMSD1-GR": {
     "name": "Edelweiss Mid Cap Growth Direct Plan",
@@ -2628,15 +2204,7 @@
     "return_10y": null,
     "return_since_inception": 20.66,
     "latest_nav": 119.815,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 89.46,
-    "score_perf": 88.91,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 3.2,
-    "alpha_3y": 4.48,
-    "alpha_5y": 4
+    "latest_nav_date": "2026-03-02"
   },
   "MCDG-GR": {
     "name": "Axis Mid Cap Growth Direct Plan",
@@ -2677,15 +2245,7 @@
     "return_10y": 19.15,
     "return_since_inception": 18.71,
     "latest_nav": 131.67,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 52.76,
-    "score_perf": 48.56,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -1.05,
-    "alpha_3y": -1.74,
-    "alpha_5y": -1.65
+    "latest_nav_date": "2026-03-02"
   },
   "SU04PD-GR": {
     "name": "Sundaram Mid Cap Growth Direct Plan",
@@ -2726,15 +2286,7 @@
     "return_10y": 17.35,
     "return_since_inception": 18.02,
     "latest_nav": 1537.5563,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 76,
-    "score_perf": 75.59,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 2.6,
-    "alpha_3y": 2.76,
-    "alpha_5y": 1.42
+    "latest_nav_date": "2026-03-02"
   },
   "HS17D-GR": {
     "name": "HSBC Midcap Growth Direct Plan",
@@ -2775,15 +2327,7 @@
     "return_10y": null,
     "return_since_inception": 22.8,
     "latest_nav": 452.556,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 85.45,
-    "score_perf": 86.57,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 7.48,
-    "alpha_3y": 3.21,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HSHMFG-GR": {
     "name": "HSBC Midcap Growth Direct Plan",
@@ -2823,15 +2367,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 18.21,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": 50.64,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 82.16,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "MAMCD1-GR": {
     "name": "Mirae Asset Midcap Growth Direct Plan",
@@ -2872,15 +2408,7 @@
     "return_10y": null,
     "return_since_inception": 23.39,
     "latest_nav": 39.644,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 63.29,
-    "score_perf": 63.12,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 5.41,
-    "alpha_3y": -0.79,
-    "alpha_5y": 0.33
+    "latest_nav_date": "2026-03-02"
   },
   "QUOFDG-GR": {
     "name": "Quant Mid Cap Growth Direct Plan",
@@ -2921,15 +2449,7 @@
     "return_10y": 17.41,
     "return_since_inception": 16.08,
     "latest_nav": 217.4449,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 29.45,
-    "score_perf": 23.91,
-    "score_crisil": 60,
-    "score_aum": 94.57,
-    "score_rep": 50,
-    "alpha_1y": -16.6,
-    "alpha_3y": -7.29,
-    "alpha_5y": 1.72
+    "latest_nav_date": "2026-03-02"
   },
   "UNMFDG-GR": {
     "name": "Union Midcap Growth Direct Plan",
@@ -2970,15 +2490,7 @@
     "return_10y": null,
     "return_since_inception": 31.28,
     "latest_nav": 52.06,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 65.56,
-    "score_perf": 66.16,
-    "score_crisil": 60,
-    "score_aum": 83.2,
-    "score_rep": 50,
-    "alpha_1y": 3.69,
-    "alpha_3y": -0.18,
-    "alpha_5y": 1.29
+    "latest_nav_date": "2026-03-02"
   },
   "ITMDG1-GR": {
     "name": "ITI Mid Cap Growth Direct Plan",
@@ -3019,15 +2531,7 @@
     "return_10y": null,
     "return_since_inception": 18.9,
     "latest_nav": 23.6636,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 82,
-    "score_perf": 80.64,
-    "score_crisil": 100,
-    "score_aum": 82.6,
-    "score_rep": 50,
-    "alpha_1y": 2.57,
-    "alpha_3y": 3.25,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "IDD361-GR": {
     "name": "Bandhan Midcap Growth Direct Plan",
@@ -3068,15 +2572,7 @@
     "return_10y": null,
     "return_since_inception": 17.92,
     "latest_nav": 17.928,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 58.95,
-    "score_perf": 58.45,
-    "score_crisil": 60,
-    "score_aum": 83.81,
-    "score_rep": 50,
-    "alpha_1y": -1.08,
-    "alpha_3y": -0.6,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "YED101G-GR": {
     "name": "Whiteoak Capital Mid Cap Growth Direct Plan",
@@ -3117,15 +2613,7 @@
     "return_10y": null,
     "return_since_inception": 22.49,
     "latest_nav": 20.413,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 88.45,
-    "score_perf": 87.99,
-    "score_crisil": 100,
-    "score_aum": 88.94,
-    "score_rep": 50,
-    "alpha_1y": 2.59,
-    "alpha_3y": 4.85,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "JMMDDG-GR": {
     "name": "JM Midcap Growth Direct Plan",
@@ -3166,15 +2654,7 @@
     "return_10y": null,
     "return_since_inception": 22.1,
     "latest_nav": 19.2725,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 63.5,
-    "score_perf": 61.46,
-    "score_crisil": 80,
-    "score_aum": 82.21,
-    "score_rep": 50,
-    "alpha_1y": -6.16,
-    "alpha_3y": 1.44,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CAMDDG-GR": {
     "name": "Canara Robeco Mid Cap Growth Direct Plan",
@@ -3215,15 +2695,7 @@
     "return_10y": null,
     "return_since_inception": 18.82,
     "latest_nav": 17.49,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 58.32,
-    "score_perf": 57.62,
-    "score_crisil": 60,
-    "score_aum": 88.12,
-    "score_rep": 50,
-    "alpha_1y": 0.24,
-    "alpha_3y": -1.14,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HOHMCDG-GR": {
     "name": "Helios Mid Cap Growth Direct Plan",
@@ -3263,15 +2735,7 @@
     "return_10y": null,
     "return_since_inception": 19.78,
     "latest_nav": 12.05,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.65,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 82.34,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BAMDDG-GR": {
     "name": "Bank Of India Mid Cap Growth Direct Plan",
@@ -3311,15 +2775,7 @@
     "return_10y": null,
     "return_since_inception": -4.21,
     "latest_nav": 9.56,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.63,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 81.33,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SAMIDG-GR": {
     "name": "Samco Mid Cap Growth Direct Plan",
@@ -3359,15 +2815,7 @@
     "return_10y": null,
     "return_since_inception": 0.82,
     "latest_nav": 9.87,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 49,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 0,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "478-GR": {
     "name": "Franklin India Small Cap Growth Direct Plan",
@@ -3408,15 +2856,7 @@
     "return_10y": 16.98,
     "return_since_inception": 19.5,
     "latest_nav": 179.423,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 39.88,
-    "score_perf": 35.91,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -1.47,
-    "alpha_3y": -1.12,
-    "alpha_5y": 2.33
+    "latest_nav_date": "2026-03-02"
   },
   "8034-GR": {
     "name": "ICICI Prudential Smallcap Growth Direct Plan",
@@ -3457,15 +2897,7 @@
     "return_10y": 17.85,
     "return_since_inception": 16.57,
     "latest_nav": 93.12,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 41.61,
-    "score_perf": 37.12,
-    "score_crisil": 60,
-    "score_aum": 96.25,
-    "score_rep": 88.26,
-    "alpha_1y": 2.14,
-    "alpha_3y": -2.2,
-    "alpha_5y": 2.25
+    "latest_nav_date": "2026-03-02"
   },
   "KO104D-GR": {
     "name": "Kotak Small Cap Growth Direct Plan",
@@ -3506,15 +2938,7 @@
     "return_10y": 19,
     "return_since_inception": 18.43,
     "latest_nav": 282.619,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 26.96,
-    "score_perf": 20.87,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50.69,
-    "alpha_1y": -2.17,
-    "alpha_3y": -4.12,
-    "alpha_5y": -0.06
+    "latest_nav_date": "2026-03-02"
   },
   "HDACG1G-GR": {
     "name": "HDFC Small Cap Growth Direct Plan",
@@ -3555,15 +2979,7 @@
     "return_10y": 20,
     "return_since_inception": 18.22,
     "latest_nav": 150.036,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 53.17,
-    "score_perf": 47.93,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 97.19,
-    "alpha_1y": 3.88,
-    "alpha_3y": -0.67,
-    "alpha_5y": 4.05
+    "latest_nav_date": "2026-03-02"
   },
   "SBD346G-GR": {
     "name": "SBI Small Cap Growth Direct Plan",
@@ -3604,15 +3020,7 @@
     "return_10y": 19.33,
     "return_since_inception": 23.86,
     "latest_nav": 181.3175,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 18.53,
-    "score_perf": 10.36,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 80.82,
-    "alpha_1y": -4.38,
-    "alpha_3y": -5.98,
-    "alpha_5y": -1.17
+    "latest_nav_date": "2026-03-02"
   },
   "SCAB-GR": {
     "name": "Nippon India Small Cap Bonus Bonus Growth Direct Plan",
@@ -3653,15 +3061,7 @@
     "return_10y": 22.44,
     "return_since_inception": 23.63,
     "latest_nav": 179.5044,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 63.59,
-    "score_perf": 57.7,
-    "score_crisil": 100,
-    "score_aum": 98.42,
-    "score_rep": 100,
-    "alpha_1y": 2.61,
-    "alpha_3y": 1.57,
-    "alpha_5y": 6.1
+    "latest_nav_date": "2026-03-02"
   },
   "SCAG-GR": {
     "name": "Nippon India Small Cap Growth Direct Plan",
@@ -3702,15 +3102,7 @@
     "return_10y": 22.44,
     "return_since_inception": 23.62,
     "latest_nav": 179.5044,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 63.59,
-    "score_perf": 57.7,
-    "score_crisil": 100,
-    "score_aum": 98.42,
-    "score_rep": 100,
-    "alpha_1y": 2.61,
-    "alpha_3y": 1.57,
-    "alpha_5y": 6.1
+    "latest_nav_date": "2026-03-02"
   },
   "RGSCD1-GR": {
     "name": "Invesco India Small Cap Growth Direct Plan",
@@ -3751,15 +3143,7 @@
     "return_10y": null,
     "return_since_inception": 22.65,
     "latest_nav": 45.05,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 74.97,
-    "score_perf": 74.43,
-    "score_crisil": 80,
-    "score_aum": 98.02,
-    "score_rep": 50,
-    "alpha_1y": 7.65,
-    "alpha_3y": 5.65,
-    "alpha_5y": 5.98
+    "latest_nav_date": "2026-03-02"
   },
   "BS295GZ-GR": {
     "name": "Aditya Birla Sun Life Small Cap Growth Direct Plan",
@@ -3800,15 +3184,7 @@
     "return_10y": 15.1,
     "return_since_inception": 16.02,
     "latest_nav": 94.6199,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 38.5,
-    "score_perf": 36.87,
-    "score_crisil": 40,
-    "score_aum": 89.56,
-    "score_rep": 50,
-    "alpha_1y": 7.6,
-    "alpha_3y": -0.78,
-    "alpha_5y": -1.9
+    "latest_nav_date": "2026-03-02"
   },
   "TASCFGZ-GR": {
     "name": "Tata Small Cap Growth Direct Plan",
@@ -3849,15 +3225,7 @@
     "return_10y": null,
     "return_since_inception": 20.03,
     "latest_nav": 37.9755,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 20.1,
-    "score_perf": 12.91,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -11.47,
-    "alpha_3y": -5.32,
-    "alpha_5y": 2.45
+    "latest_nav_date": "2026-03-02"
   },
   "HMEG-GR": {
     "name": "HSBC Small Cap Equity Growth Direct Plan",
@@ -3898,15 +3266,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 19.01,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": 49.61,
-    "score_perf": 50,
-    "score_crisil": 40,
-    "score_aum": 80.6,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "HSLEBDG-GR": {
     "name": "HSBC Small Cap Growth Direct Plan",
@@ -3947,15 +3307,7 @@
     "return_10y": null,
     "return_since_inception": 15.59,
     "latest_nav": 83.0243,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 34.68,
-    "score_perf": 29.85,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -1.13,
-    "alpha_3y": -2.27,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "LCSCG1-GR": {
     "name": "LIC Small Cap Growth Direct Plan",
@@ -3996,15 +3348,7 @@
     "return_10y": null,
     "return_since_inception": 12.88,
     "latest_nav": 31.4644,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 43.24,
-    "score_perf": 40.26,
-    "score_crisil": 60,
-    "score_aum": 81.17,
-    "score_rep": 50,
-    "alpha_1y": -1.39,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UNSMFGD-GR": {
     "name": "Union Small Cap Growth Direct Plan",
@@ -4045,15 +3389,7 @@
     "return_10y": 17.52,
     "return_since_inception": 15.47,
     "latest_nav": 54.2,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 60.24,
-    "score_perf": 59.96,
-    "score_crisil": 60,
-    "score_aum": 83.39,
-    "score_rep": 50,
-    "alpha_1y": 12.99,
-    "alpha_3y": 0.94,
-    "alpha_5y": 2.79
+    "latest_nav_date": "2026-03-02"
   },
   "DS788-GR": {
     "name": "DSP Small Cap Growth Direct Plan",
@@ -4094,15 +3430,7 @@
     "return_10y": 18.41,
     "return_since_inception": 20.7,
     "latest_nav": 210.431,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 58.33,
-    "score_perf": 57.36,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 9.09,
-    "alpha_3y": 1.07,
-    "alpha_5y": 3.46
+    "latest_nav_date": "2026-03-02"
   },
   "SU72PD-GR": {
     "name": "Sundaram Small Cap Growth Direct Plan",
@@ -4143,15 +3471,7 @@
     "return_10y": 16.3,
     "return_since_inception": 17.07,
     "latest_nav": 274.735,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 53.37,
-    "score_perf": 51.91,
-    "score_crisil": 60,
-    "score_aum": 86.57,
-    "score_rep": 50,
-    "alpha_1y": 7.06,
-    "alpha_3y": 0.35,
-    "alpha_5y": 3.04
+    "latest_nav_date": "2026-03-02"
   },
   "BASCDG-GR": {
     "name": "Bank Of India Small Cap Growth Direct Plan",
@@ -4192,15 +3512,7 @@
     "return_10y": null,
     "return_since_inception": 24.53,
     "latest_nav": 48.34,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 51,
-    "score_perf": 49.21,
-    "score_crisil": 60,
-    "score_aum": 83.66,
-    "score_rep": 50,
-    "alpha_1y": 2.58,
-    "alpha_3y": 0.61,
-    "alpha_5y": 3.81
+    "latest_nav_date": "2026-03-02"
   },
   "AXSCDG-GR": {
     "name": "Axis Small Cap Growth Direct Plan",
@@ -4241,15 +3553,7 @@
     "return_10y": 19.97,
     "return_since_inception": 22.21,
     "latest_nav": 116.53,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 45.54,
-    "score_perf": 40.16,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 0.67,
-    "alpha_3y": -1.32,
-    "alpha_5y": 3.2
+    "latest_nav_date": "2026-03-02"
   },
   "EDSCD1-GR": {
     "name": "Edelweiss Small Cap Growth Direct Plan",
@@ -4290,15 +3594,7 @@
     "return_10y": null,
     "return_since_inception": 24.54,
     "latest_nav": 46.706,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 56.75,
-    "score_perf": 53.41,
-    "score_crisil": 80,
-    "score_aum": 90.74,
-    "score_rep": 50,
-    "alpha_1y": 4.35,
-    "alpha_3y": 1.23,
-    "alpha_5y": 3.97
+    "latest_nav_date": "2026-03-02"
   },
   "CASCDG-GR": {
     "name": "Canara Robeco Small Cap Growth Direct Plan",
@@ -4339,15 +3635,7 @@
     "return_10y": null,
     "return_since_inception": 22.15,
     "latest_nav": 40.86,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 45.51,
-    "score_perf": 40.13,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 2.2,
-    "alpha_3y": -2.61,
-    "alpha_5y": 3.83
+    "latest_nav_date": "2026-03-02"
   },
   "QUIBDG-GR": {
     "name": "Quant Small Cap Growth Direct Plan",
@@ -4388,15 +3676,7 @@
     "return_10y": 18.96,
     "return_since_inception": 16.52,
     "latest_nav": 254.605,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 54.75,
-    "score_perf": 50.87,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -3.36,
-    "alpha_3y": 0.01,
-    "alpha_5y": 7.87
+    "latest_nav_date": "2026-03-02"
   },
   "ITSCG1-GR": {
     "name": "ITI Small Cap Growth Direct Plan",
@@ -4437,15 +3717,7 @@
     "return_10y": null,
     "return_since_inception": 19.92,
     "latest_nav": 29.8953,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 59.58,
-    "score_perf": 59.15,
-    "score_crisil": 60,
-    "score_aum": 85.35,
-    "score_rep": 50,
-    "alpha_1y": 4.57,
-    "alpha_3y": 5.87,
-    "alpha_5y": 1.22
+    "latest_nav_date": "2026-03-02"
   },
   "IDD340-GR": {
     "name": "Bandhan Small Cap Growth Direct Plan",
@@ -4486,15 +3758,7 @@
     "return_10y": null,
     "return_since_inception": 29.87,
     "latest_nav": 48.126,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 86.94,
-    "score_perf": 85.98,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 4.28,
-    "alpha_3y": 10.71,
-    "alpha_5y": 6.74
+    "latest_nav_date": "2026-03-02"
   },
   "UTSPG1-GR": {
     "name": "UTI Small Cap Growth Direct Plan",
@@ -4535,15 +3799,7 @@
     "return_10y": null,
     "return_since_inception": 20,
     "latest_nav": 25.7439,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 35.87,
-    "score_perf": 31.5,
-    "score_crisil": 60,
-    "score_aum": 89.09,
-    "score_rep": 50,
-    "alpha_1y": -1.02,
-    "alpha_3y": -2.3,
-    "alpha_5y": 1.64
+    "latest_nav_date": "2026-03-02"
   },
   "PRSCG1-GR": {
     "name": "PGIM India Small Cap Growth Direct Plan",
@@ -4584,15 +3840,7 @@
     "return_10y": null,
     "return_since_inception": 11.06,
     "latest_nav": 16.38,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 31.59,
-    "score_perf": 28.99,
-    "score_crisil": 40,
-    "score_aum": 82.97,
-    "score_rep": 50,
-    "alpha_1y": 3.08,
-    "alpha_3y": -4.38,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMSCDG-GR": {
     "name": "Mahindra Manulife Small Cap Growth Direct Plan",
@@ -4633,15 +3881,7 @@
     "return_10y": null,
     "return_since_inception": 22.41,
     "latest_nav": 19.197,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 67.89,
-    "score_perf": 64.11,
-    "score_crisil": 100,
-    "score_aum": 87.99,
-    "score_rep": 50,
-    "alpha_1y": 3.86,
-    "alpha_3y": 5.04,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BPSCDG-GR": {
     "name": "Baroda BNP Paribas Small Cap Growth Direct Plan",
@@ -4681,15 +3921,7 @@
     "return_10y": null,
     "return_since_inception": 10.46,
     "latest_nav": 12.6338,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.78,
-    "score_perf": 50.16,
-    "score_crisil": 50,
-    "score_aum": 82.33,
-    "score_rep": 50,
-    "alpha_1y": 1.09,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QTSCGP-GR": {
     "name": "Quantum Small Cap Growth Direct Plan",
@@ -4729,15 +3961,7 @@
     "return_10y": null,
     "return_since_inception": 10.03,
     "latest_nav": 12.49,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 62.7,
-    "score_perf": 64.06,
-    "score_crisil": 50,
-    "score_aum": 80.36,
-    "score_rep": 50,
-    "alpha_1y": 4.57,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MOSCGD-GR": {
     "name": "Motilal Oswal Small Cap Growth Direct Plan",
@@ -4777,15 +4001,7 @@
     "return_10y": null,
     "return_since_inception": 14.69,
     "latest_nav": 13.5874,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 56.11,
-    "score_perf": 56.15,
-    "score_crisil": 50,
-    "score_aum": 91.02,
-    "score_rep": 50,
-    "alpha_1y": 2.59,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "JMSCDG-GR": {
     "name": "JM Small Cap Growth Direct Plan",
@@ -4825,15 +4041,7 @@
     "return_10y": null,
     "return_since_inception": -4.08,
     "latest_nav": 9.3116,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 38.33,
-    "score_perf": 35.7,
-    "score_crisil": 50,
-    "score_aum": 81.26,
-    "score_rep": 50,
-    "alpha_1y": -2.53,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TSSCDG-GR": {
     "name": "TrustMF Small Cap Growth Direct Plan",
@@ -4873,15 +4081,7 @@
     "return_10y": null,
     "return_since_inception": 3.97,
     "latest_nav": 10.59,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 93.65,
-    "score_perf": 100,
-    "score_crisil": 50,
-    "score_aum": 82.62,
-    "score_rep": 50,
-    "alpha_1y": 13.57,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MASCD1-GR": {
     "name": "Mirae Asset Small Cap Growth Direct Plan",
@@ -4921,15 +4121,7 @@
     "return_10y": null,
     "return_since_inception": 10.27,
     "latest_nav": 11.189,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 80.98,
-    "score_perf": 85.18,
-    "score_crisil": 50,
-    "score_aum": 86.21,
-    "score_rep": 50,
-    "alpha_1y": 9.86,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BJSCDG-GR": {
     "name": "Bajaj Finserv Small Cap Growth Direct Plan",
@@ -4969,15 +4161,7 @@
     "return_10y": null,
     "return_since_inception": -7.41,
     "latest_nav": 9.259,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.66,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 83.1,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HOHSCDG-GR": {
     "name": "Helios Small Cap Growth Direct Plan",
@@ -5017,15 +4201,7 @@
     "return_10y": null,
     "return_since_inception": -9.36,
     "latest_nav": 9.1,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.63,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 81.31,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SASCDG-GR": {
     "name": "Samco Small Cap Growth Direct Plan",
@@ -5065,15 +4241,7 @@
     "return_10y": null,
     "return_since_inception": -2.64,
     "latest_nav": 9.57,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.61,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.27,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "INSCG1-GR": {
     "name": "Groww Small Cap Growth Direct Plan",
@@ -5113,15 +4281,7 @@
     "return_10y": null,
     "return_since_inception": -0.04,
     "latest_nav": 10.0205,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.61,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.34,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TUSSG1G-GR": {
     "name": "Taurus Flexi Cap Growth Direct Plan",
@@ -5161,15 +4321,7 @@
     "return_10y": 10.92,
     "return_since_inception": 9.97,
     "latest_nav": 225.59,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 43.26,
-    "score_perf": 41.45,
-    "score_crisil": 50,
-    "score_aum": 80.68,
-    "score_rep": 50,
-    "alpha_1y": -5.95,
-    "alpha_3y": -0.78,
-    "alpha_5y": -0.87
+    "latest_nav_date": "2026-03-02"
   },
   "418-GR": {
     "name": "Franklin India Flexi Cap Growth Direct Plan",
@@ -5210,15 +4362,7 @@
     "return_10y": 15.68,
     "return_since_inception": 16.05,
     "latest_nav": 1800.8342,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 66.6,
-    "score_perf": 64.66,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -1.58,
-    "alpha_3y": 3.94,
-    "alpha_5y": 3.77
+    "latest_nav_date": "2026-03-02"
   },
   "FR1006-GR": {
     "name": "Franklin India Multi Factor Growth Direct Plan",
@@ -5258,15 +4402,7 @@
     "return_10y": null,
     "return_since_inception": -2.52,
     "latest_nav": 9.7475,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.62,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.98,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "KO168D-GR": {
     "name": "Kotak Flexicap Growth Direct Plan",
@@ -5307,15 +4443,7 @@
     "return_10y": 16.27,
     "return_since_inception": 16.21,
     "latest_nav": 97.378,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 69.07,
-    "score_perf": 67.53,
-    "score_crisil": 80,
-    "score_aum": 99.35,
-    "score_rep": 50.69,
-    "alpha_1y": 6.05,
-    "alpha_3y": 3,
-    "alpha_5y": 2.09
+    "latest_nav_date": "2026-03-02"
   },
   "02T-GR": {
     "name": "HDFC Flexicap Growth Direct Plan",
@@ -5356,15 +4484,7 @@
     "return_10y": 18.9,
     "return_since_inception": 16.57,
     "latest_nav": 2234.639,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 86.75,
-    "score_perf": 84.77,
-    "score_crisil": 100,
-    "score_aum": 95.25,
-    "score_rep": 97.19,
-    "alpha_1y": 3.35,
-    "alpha_3y": 7.25,
-    "alpha_5y": 8.03
+    "latest_nav_date": "2026-03-02"
   },
   "MSDG-GR": {
     "name": "JM Flexicap Growth Direct Plan",
@@ -5405,15 +4525,7 @@
     "return_10y": 18.56,
     "return_since_inception": 16.74,
     "latest_nav": 106.4331,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 70.01,
-    "score_perf": 66.52,
-    "score_crisil": 100,
-    "score_aum": 90.3,
-    "score_rep": 50,
-    "alpha_1y": -6.27,
-    "alpha_3y": 5.47,
-    "alpha_5y": 5.67
+    "latest_nav_date": "2026-03-02"
   },
   "D203-GR": {
     "name": "Bandhan Flexi Cap Growth Direct Plan",
@@ -5454,15 +4566,7 @@
     "return_10y": 13.01,
     "return_since_inception": 13.95,
     "latest_nav": 226.658,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 57.05,
-    "score_perf": 55.99,
-    "score_crisil": 60,
-    "score_aum": 94.95,
-    "score_rep": 50,
-    "alpha_1y": -0.14,
-    "alpha_3y": 1.23,
-    "alpha_5y": 1.38
+    "latest_nav_date": "2026-03-02"
   },
   "SBD099G-GR": {
     "name": "SBI Flexicap Growth Direct Plan",
@@ -5503,15 +4607,7 @@
     "return_10y": 14.67,
     "return_since_inception": 15.19,
     "latest_nav": 121.9322,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.15,
-    "score_perf": 47.13,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 80.82,
-    "alpha_1y": -1.46,
-    "alpha_3y": -0.86,
-    "alpha_5y": -0.26
+    "latest_nav_date": "2026-03-02"
   },
   "BS51Z-GR": {
     "name": "Aditya Birla Sun Life Flexi Cap Growth Direct Plan",
@@ -5552,15 +4648,7 @@
     "return_10y": 16.43,
     "return_since_inception": 16.31,
     "latest_nav": 2048.31,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 70.44,
-    "score_perf": 69.11,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 5.15,
-    "alpha_3y": 3.9,
-    "alpha_5y": 2.43
+    "latest_nav_date": "2026-03-02"
   },
   "CPGD-GR": {
     "name": "Motilal Oswal Flexi Cap Growth Direct Plan",
@@ -5601,15 +4689,7 @@
     "return_10y": 14.24,
     "return_since_inception": 16.71,
     "latest_nav": 62.0144,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 55.62,
-    "score_perf": 54.21,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -9.18,
-    "alpha_3y": 5.78,
-    "alpha_5y": 0.39
+    "latest_nav_date": "2026-03-02"
   },
   "MOFPGD-GR": {
     "name": "Motilal Oswal Diversified Equity Flexicap Passive FoF Growth Direct Plan",
@@ -5649,15 +4729,7 @@
     "return_10y": null,
     "return_since_inception": -0.64,
     "latest_nav": 9.9832,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.6,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.05,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TAMTCGZ-GR": {
     "name": "Tata Flexi Cap Growth Direct Plan",
@@ -5698,15 +4770,7 @@
     "return_10y": null,
     "return_since_inception": 14.08,
     "latest_nav": 26.7514,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 59.52,
-    "score_perf": 59.04,
-    "score_crisil": 60,
-    "score_aum": 87.26,
-    "score_rep": 50,
-    "alpha_1y": 0.5,
-    "alpha_3y": 2.58,
-    "alpha_5y": 1.14
+    "latest_nav_date": "2026-03-02"
   },
   "HEOIG-GR": {
     "name": "HSBC Flexi Cap Growth Direct Plan",
@@ -5747,15 +4811,7 @@
     "return_10y": 15.1,
     "return_since_inception": 14.88,
     "latest_nav": 238.9382,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 69.74,
-    "score_perf": 68.52,
-    "score_crisil": 80,
-    "score_aum": 90.64,
-    "score_rep": 50,
-    "alpha_1y": 3.16,
-    "alpha_3y": 4.01,
-    "alpha_5y": 3.1
+    "latest_nav_date": "2026-03-02"
   },
   "UNEFGD-GR": {
     "name": "Union Flexicap Growth Direct Plan",
@@ -5796,15 +4852,7 @@
     "return_10y": 15.27,
     "return_since_inception": 13.24,
     "latest_nav": 56.32,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 59.33,
-    "score_perf": 58.88,
-    "score_crisil": 60,
-    "score_aum": 84.64,
-    "score_rep": 50,
-    "alpha_1y": 1.55,
-    "alpha_3y": 1.21,
-    "alpha_5y": 2
+    "latest_nav_date": "2026-03-02"
   },
   "PRDEG1-GR": {
     "name": "PGIM India Flexi Cap Growth Direct Plan",
@@ -5845,15 +4893,7 @@
     "return_10y": 16.41,
     "return_since_inception": 13.85,
     "latest_nav": 41.49,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 51.5,
-    "score_perf": 49.6,
-    "score_crisil": 60,
-    "score_aum": 92.04,
-    "score_rep": 50,
-    "alpha_1y": -0.22,
-    "alpha_3y": -1.26,
-    "alpha_5y": 0.81
+    "latest_nav_date": "2026-03-02"
   },
   "SH103D-GR": {
     "name": "Shriram Flexi Cap Growth Direct Plan",
@@ -5894,15 +4934,7 @@
     "return_10y": null,
     "return_since_inception": 11.75,
     "latest_nav": 22.3947,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 40.62,
-    "score_perf": 39.55,
-    "score_crisil": 40,
-    "score_aum": 80.26,
-    "score_rep": 50,
-    "alpha_1y": -2.88,
-    "alpha_3y": -2.85,
-    "alpha_5y": -1.28
+    "latest_nav_date": "2026-03-02"
   },
   "DS767-GR": {
     "name": "DSP Flexi Cap Growth Direct Plan",
@@ -5943,15 +4975,7 @@
     "return_10y": 16.53,
     "return_since_inception": 14.94,
     "latest_nav": 113.686,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 63.14,
-    "score_perf": 60.63,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 0.62,
-    "alpha_3y": 2.66,
-    "alpha_5y": 1.83
+    "latest_nav_date": "2026-03-02"
   },
   "CADVDG-GR": {
     "name": "Canara Robeco Flexi Cap Growth Direct Plan",
@@ -5992,15 +5016,7 @@
     "return_10y": 16.5,
     "return_since_inception": 14.41,
     "latest_nav": 378.8,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 61.42,
-    "score_perf": 58.63,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 1.86,
-    "alpha_3y": 1.24,
-    "alpha_5y": 1.66
+    "latest_nav_date": "2026-03-02"
   },
   "UTEQD2-GR": {
     "name": "UTI Flexi Cap Growth Direct Plan",
@@ -6041,15 +5057,7 @@
     "return_10y": 13.08,
     "return_since_inception": 13.04,
     "latest_nav": 318.1941,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 23.69,
-    "score_perf": 19.41,
-    "score_crisil": 40,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": -11.37,
-    "alpha_3y": -5.16,
-    "alpha_5y": -4.68
+    "latest_nav_date": "2026-03-02"
   },
   "EDERD1-GR": {
     "name": "Edelweiss Flexi Cap Growth Direct Plan",
@@ -6090,15 +5098,7 @@
     "return_10y": null,
     "return_since_inception": 17.44,
     "latest_nav": 45.006,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 75.73,
-    "score_perf": 75.59,
-    "score_crisil": 80,
-    "score_aum": 86.27,
-    "score_rep": 50,
-    "alpha_1y": 4.28,
-    "alpha_3y": 5.39,
-    "alpha_5y": 4.7
+    "latest_nav_date": "2026-03-02"
   },
   "AXMLDG-GR": {
     "name": "Axis Flexi Cap Growth Direct Plan",
@@ -6139,15 +5139,7 @@
     "return_10y": null,
     "return_since_inception": 13.73,
     "latest_nav": 29.01,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 53.39,
-    "score_perf": 53.94,
-    "score_crisil": 40,
-    "score_aum": 100,
-    "score_rep": 50,
-    "alpha_1y": 1.41,
-    "alpha_3y": 1.17,
-    "alpha_5y": -0.51
+    "latest_nav_date": "2026-03-02"
   },
   "PP001ZG-GR": {
     "name": "Parag Parikh Flexi Cap Growth Direct Plan",
@@ -6188,15 +5180,7 @@
     "return_10y": 18.93,
     "return_since_inception": 18.94,
     "latest_nav": 91.422,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 70.81,
-    "score_perf": 67.41,
-    "score_crisil": 100,
-    "score_aum": 91.6,
-    "score_rep": 50,
-    "alpha_1y": -4.48,
-    "alpha_3y": 4.93,
-    "alpha_5y": 5.75
+    "latest_nav_date": "2026-03-02"
   },
   "ESMFGD-GR": {
     "name": "Navi Flexi Cap Growth Direct Plan",
@@ -6237,15 +5221,7 @@
     "return_10y": null,
     "return_since_inception": 13.74,
     "latest_nav": 26.7976,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 59.39,
-    "score_perf": 59.05,
-    "score_crisil": 60,
-    "score_aum": 80.51,
-    "score_rep": 50,
-    "alpha_1y": 4.81,
-    "alpha_3y": -0.13,
-    "alpha_5y": 1.77
+    "latest_nav_date": "2026-03-02"
   },
   "QUPEDG-GR": {
     "name": "Quant Flexi Cap Growth Direct Plan",
@@ -6286,15 +5262,7 @@
     "return_10y": 20.79,
     "return_since_inception": 18.12,
     "latest_nav": 106.3691,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 72.74,
-    "score_perf": 71.97,
-    "score_crisil": 80,
-    "score_aum": 92.44,
-    "score_rep": 50,
-    "alpha_1y": -0.14,
-    "alpha_3y": 3.04,
-    "alpha_5y": 7.87
+    "latest_nav_date": "2026-03-02"
   },
   "BAMPDG-GR": {
     "name": "Bank Of India Flexi Cap Growth Direct Plan",
@@ -6335,15 +5303,7 @@
     "return_10y": null,
     "return_since_inception": 26.17,
     "latest_nav": 37.49,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 89.47,
-    "score_perf": 89.29,
-    "score_crisil": 100,
-    "score_aum": 84.33,
-    "score_rep": 50,
-    "alpha_1y": 6.95,
-    "alpha_3y": 7.87,
-    "alpha_5y": 7.73
+    "latest_nav_date": "2026-03-02"
   },
   "IC9645-GR": {
     "name": "ICICI Prudential Flexicap Growth Direct Plan",
@@ -6384,15 +5344,7 @@
     "return_10y": null,
     "return_since_inception": 16.3,
     "latest_nav": 20.09,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 79.07,
-    "score_perf": 78.26,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 88.26,
-    "alpha_1y": 6.04,
-    "alpha_3y": 4.85,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RLLCAG-GR": {
     "name": "Nippon India Flexicap Growth Direct Plan",
@@ -6433,15 +5385,7 @@
     "return_10y": null,
     "return_since_inception": 12.44,
     "latest_nav": 17.1751,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 61.88,
-    "score_perf": 60.37,
-    "score_crisil": 60,
-    "score_aum": 98.39,
-    "score_rep": 100,
-    "alpha_1y": -0.81,
-    "alpha_3y": 1.88,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMFCDG-GR": {
     "name": "Mahindra Manulife Flexi Cap Growth Direct Plan",
@@ -6482,15 +5426,7 @@
     "return_10y": null,
     "return_since_inception": 12.73,
     "latest_nav": 17.2002,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 63.2,
-    "score_perf": 63.42,
-    "score_crisil": 60,
-    "score_aum": 83.1,
-    "score_rep": 50,
-    "alpha_1y": 0.09,
-    "alpha_3y": 2.52,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SAFCDG-GR": {
     "name": "Samco Flexi Cap Growth Direct Plan",
@@ -6531,15 +5467,7 @@
     "return_10y": null,
     "return_since_inception": 0.97,
     "latest_nav": 10.38,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 21.18,
-    "score_perf": 19.27,
-    "score_crisil": 20,
-    "score_aum": 80.61,
-    "score_rep": 50,
-    "alpha_1y": -2.92,
-    "alpha_3y": -11.74,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RGF9D1-GR": {
     "name": "Invesco India Flexi Cap Growth Direct Plan",
@@ -6580,15 +5508,7 @@
     "return_10y": null,
     "return_since_inception": 16.75,
     "latest_nav": 18.71,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 73.96,
-    "score_perf": 71.14,
-    "score_crisil": 100,
-    "score_aum": 89.17,
-    "score_rep": 50,
-    "alpha_1y": -1.44,
-    "alpha_3y": 6.04,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "YE1038-GR": {
     "name": "Whiteoak Capital Flexi Cap Growth Direct Plan",
@@ -6629,15 +5549,7 @@
     "return_10y": null,
     "return_since_inception": 17.29,
     "latest_nav": 17.723,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 72.17,
-    "score_perf": 71.26,
-    "score_crisil": 80,
-    "score_aum": 94.26,
-    "score_rep": 50,
-    "alpha_1y": 0.37,
-    "alpha_3y": 5.18,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BPFXDG-GR": {
     "name": "Baroda BNP Paribas Flexi Cap Growth Direct Plan",
@@ -6678,15 +5590,7 @@
     "return_10y": null,
     "return_since_inception": 14.71,
     "latest_nav": 16.0705,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 65.41,
-    "score_perf": 66,
-    "score_crisil": 60,
-    "score_aum": 82.44,
-    "score_rep": 50,
-    "alpha_1y": 2.74,
-    "alpha_3y": 2.12,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SUFCDG-GR": {
     "name": "Sundaram Flexi Cap Growth Direct Plan",
@@ -6727,15 +5631,7 @@
     "return_10y": null,
     "return_since_inception": 13.21,
     "latest_nav": 15.4244,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 60.56,
-    "score_perf": 60.32,
-    "score_crisil": 60,
-    "score_aum": 84.1,
-    "score_rep": 50,
-    "alpha_1y": 1.1,
-    "alpha_3y": 0.91,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "ITFCG1-GR": {
     "name": "ITI Flexi Cap Growth Direct Plan",
@@ -6775,15 +5671,7 @@
     "return_10y": null,
     "return_since_inception": 23.36,
     "latest_nav": 18.7232,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 84.2,
-    "score_perf": 89.02,
-    "score_crisil": 50,
-    "score_aum": 82.49,
-    "score_rep": 50,
-    "alpha_1y": 7.38,
-    "alpha_3y": 8.02,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MAFCD1-GR": {
     "name": "Mirae Asset Flexi Cap Growth Direct Plan",
@@ -6823,15 +5711,7 @@
     "return_10y": null,
     "return_since_inception": 18.21,
     "latest_nav": 16.543,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 69,
-    "score_perf": 71.24,
-    "score_crisil": 50,
-    "score_aum": 87.13,
-    "score_rep": 50,
-    "alpha_1y": 5.06,
-    "alpha_3y": 2.83,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "IIIFCDG-GR": {
     "name": "360 One Flexicap Growth Direct Plan",
@@ -6871,15 +5751,7 @@
     "return_10y": null,
     "return_since_inception": 16.84,
     "latest_nav": 15.1915,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 46.76,
-    "score_perf": 45.44,
-    "score_crisil": 50,
-    "score_aum": 84.03,
-    "score_rep": 50,
-    "alpha_1y": -3.7,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BJFXDG-GR": {
     "name": "Bajaj Finserv Flexi Cap Growth Direct Plan",
@@ -6919,15 +5791,7 @@
     "return_10y": null,
     "return_since_inception": 17.48,
     "latest_nav": 15.09,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 74.46,
-    "score_perf": 77.46,
-    "score_crisil": 50,
-    "score_aum": 92.48,
-    "score_rep": 50,
-    "alpha_1y": 5.46,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "NJFCDG-GR": {
     "name": "NJ Flexi Cap Growth Direct Plan",
@@ -6967,15 +5831,7 @@
     "return_10y": null,
     "return_since_inception": 11.86,
     "latest_nav": 13.28,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 41.46,
-    "score_perf": 39.25,
-    "score_crisil": 50,
-    "score_aum": 84.93,
-    "score_rep": 50,
-    "alpha_1y": -5.47,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HOHFCDG-GR": {
     "name": "Helios Flexi Cap Growth Direct Plan",
@@ -7015,15 +5871,7 @@
     "return_10y": null,
     "return_since_inception": 17.41,
     "latest_nav": 14.77,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 73.13,
-    "score_perf": 75.92,
-    "score_crisil": 50,
-    "score_aum": 91.88,
-    "score_rep": 50,
-    "alpha_1y": 5.02,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TSFCDG-GR": {
     "name": "TrustMF Flexi Cap Growth Direct Plan",
@@ -7063,15 +5911,7 @@
     "return_10y": null,
     "return_since_inception": 7.67,
     "latest_nav": 11.48,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.18,
-    "score_perf": 49.46,
-    "score_crisil": 50,
-    "score_aum": 82.21,
-    "score_rep": 50,
-    "alpha_1y": -2.55,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UFFCFDG-GR": {
     "name": "Unifi Flexi Cap Growth Direct Plan",
@@ -7111,15 +5951,7 @@
     "return_10y": null,
     "return_since_inception": -0.72,
     "latest_nav": 10.0345,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.61,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.35,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CMFCDG-GR": {
     "name": "Capitalmind Flexi Cap Growth Direct Plan",
@@ -7159,15 +5991,7 @@
     "return_10y": null,
     "return_since_inception": 3.63,
     "latest_nav": 10.2588,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.61,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.69,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "JI180-GR": {
     "name": "Jioblackrock Flexi Cap Growth Direct Plan",
@@ -7207,15 +6031,7 @@
     "return_10y": null,
     "return_since_inception": -1.59,
     "latest_nav": 9.93,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.7,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 85.23,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "WEFCDG-GR": {
     "name": "The Wealth Company Flexi Cap Growth Direct Plan",
@@ -7255,15 +6071,7 @@
     "return_10y": null,
     "return_since_inception": -3.91,
     "latest_nav": 9.6286,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.61,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.53,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "AKFCDG-GR": {
     "name": "Abakkus Flexi Cap Growth Direct Plan",
@@ -7303,15 +6111,7 @@
     "return_10y": null,
     "return_since_inception": -1.25,
     "latest_nav": 9.893,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.71,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 85.62,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "OBFXD1-GR": {
     "name": "Old Bridge Flexi Cap Growth Direct Plan",
@@ -7351,15 +6151,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 0,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": 49,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 0,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "8030-GR": {
     "name": "ICICI Prudential Multicap Growth Direct Plan",
@@ -7400,15 +6192,7 @@
     "return_10y": 16.73,
     "return_since_inception": 16.12,
     "latest_nav": 885.37,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 74.25,
-    "score_perf": 72.65,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 88.26,
-    "alpha_1y": 0.97,
-    "alpha_3y": 5.34,
-    "alpha_5y": 5.04
+    "latest_nav_date": "2026-03-02"
   },
   "SUMGZG-GR": {
     "name": "Sundaram Multi Cap Growth Direct Plan",
@@ -7449,15 +6233,7 @@
     "return_10y": null,
     "return_since_inception": 11.79,
     "latest_nav": 416.7484,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 67.63,
-    "score_perf": 66.19,
-    "score_crisil": 80,
-    "score_aum": 85.59,
-    "score_rep": 50,
-    "alpha_1y": 1.21,
-    "alpha_3y": 2.95,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMBYDG-GR": {
     "name": "Mahindra Manulife Multi Cap Growth Direct Plan",
@@ -7498,15 +6274,7 @@
     "return_10y": null,
     "return_since_inception": 17.52,
     "latest_nav": 41.365,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 85.24,
-    "score_perf": 86.51,
-    "score_crisil": 80,
-    "score_aum": 92.09,
-    "score_rep": 50,
-    "alpha_1y": 6.66,
-    "alpha_3y": 7.04,
-    "alpha_5y": 7.34
+    "latest_nav_date": "2026-03-02"
   },
   "EOAB-GR": {
     "name": "Nippon India Multi Cap Bonus Bonus Growth Direct Plan",
@@ -7547,15 +6315,7 @@
     "return_10y": 17.36,
     "return_since_inception": 16.13,
     "latest_nav": 321.9975,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 84.46,
-    "score_perf": 84.26,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 100,
-    "alpha_1y": 2.63,
-    "alpha_3y": 6.82,
-    "alpha_5y": 8.64
+    "latest_nav_date": "2026-03-02"
   },
   "EOAG-GR": {
     "name": "Nippon India Multi Cap Growth Direct Plan",
@@ -7596,15 +6356,7 @@
     "return_10y": 17.36,
     "return_since_inception": 16.13,
     "latest_nav": 321.9975,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 84.46,
-    "score_perf": 84.26,
-    "score_crisil": 80,
-    "score_aum": 100,
-    "score_rep": 100,
-    "alpha_1y": 2.63,
-    "alpha_3y": 6.82,
-    "alpha_5y": 8.64
+    "latest_nav_date": "2026-03-02"
   },
   "RGMSD1-GR": {
     "name": "Invesco India Multicap Growth Direct Plan",
@@ -7645,15 +6397,7 @@
     "return_10y": 15.95,
     "return_since_inception": 17.18,
     "latest_nav": 144.11,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 52.84,
-    "score_perf": 53.58,
-    "score_crisil": 40,
-    "score_aum": 87.87,
-    "score_rep": 50,
-    "alpha_1y": -6.6,
-    "alpha_3y": 2.06,
-    "alpha_5y": 2.78
+    "latest_nav_date": "2026-03-02"
   },
   "BO107-GR": {
     "name": "Baroda BNP Paribas Multi Cap Growth Direct Plan",
@@ -7694,15 +6438,7 @@
     "return_10y": 15.96,
     "return_since_inception": 14.74,
     "latest_nav": 311.2092,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 64.51,
-    "score_perf": 64.87,
-    "score_crisil": 60,
-    "score_aum": 86.1,
-    "score_rep": 50,
-    "alpha_1y": -1.52,
-    "alpha_3y": 3.36,
-    "alpha_5y": 4.5
+    "latest_nav_date": "2026-03-02"
   },
   "ITMCD1-GR": {
     "name": "ITI Multi Cap Growth Direct Plan",
@@ -7743,15 +6479,7 @@
     "return_10y": null,
     "return_since_inception": 15.55,
     "latest_nav": 26.7536,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 72.12,
-    "score_perf": 76.12,
-    "score_crisil": 40,
-    "score_aum": 82.59,
-    "score_rep": 50,
-    "alpha_1y": 7.67,
-    "alpha_3y": 6.3,
-    "alpha_5y": 2.07
+    "latest_nav_date": "2026-03-02"
   },
   "QUGFDG-GR": {
     "name": "Quant Multi Cap Growth Direct Plan",
@@ -7792,15 +6520,7 @@
     "return_10y": 18.24,
     "return_since_inception": 17.64,
     "latest_nav": 625.7853,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 46.16,
-    "score_perf": 41,
-    "score_crisil": 80,
-    "score_aum": 94.91,
-    "score_rep": 50,
-    "alpha_1y": -8.49,
-    "alpha_3y": -3.39,
-    "alpha_5y": 3.23
+    "latest_nav_date": "2026-03-02"
   },
   "BS71Y-GR": {
     "name": "Aditya Birla Sun Life Multi Cap Growth Direct Plan",
@@ -7841,15 +6561,7 @@
     "return_10y": null,
     "return_since_inception": 15.77,
     "latest_nav": 20.47,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 66.3,
-    "score_perf": 66.79,
-    "score_crisil": 60,
-    "score_aum": 93.01,
-    "score_rep": 50,
-    "alpha_1y": 2.34,
-    "alpha_3y": 2.6,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "KO1155D-GR": {
     "name": "Kotak Multicap Growth Direct Plan",
@@ -7890,15 +6602,7 @@
     "return_10y": null,
     "return_since_inception": 17.85,
     "latest_nav": 20.633,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 95.26,
-    "score_perf": 95.64,
-    "score_crisil": 100,
-    "score_aum": 100,
-    "score_rep": 50.69,
-    "alpha_1y": 8.79,
-    "alpha_3y": 9.68,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "IDD357-GR": {
     "name": "Bandhan Multi Cap Growth Direct Plan",
@@ -7939,15 +6643,7 @@
     "return_10y": null,
     "return_since_inception": 14.63,
     "latest_nav": 17.866,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 65.08,
-    "score_perf": 65.55,
-    "score_crisil": 60,
-    "score_aum": 85.61,
-    "score_rep": 50,
-    "alpha_1y": 0.67,
-    "alpha_3y": 2.99,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HDHMCDG-GR": {
     "name": "HDFC Multi Cap Growth Direct Plan",
@@ -7988,15 +6684,7 @@
     "return_10y": null,
     "return_since_inception": 16.65,
     "latest_nav": 19.211,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 70.44,
-    "score_perf": 70.35,
-    "score_crisil": 60,
-    "score_aum": 100,
-    "score_rep": 97.19,
-    "alpha_1y": 0.52,
-    "alpha_3y": 4.78,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "AXMTDG-GR": {
     "name": "Axis Multicap Growth Direct Plan",
@@ -8037,15 +6725,7 @@
     "return_10y": null,
     "return_since_inception": 15.88,
     "latest_nav": 18.56,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 82.79,
-    "score_perf": 81.19,
-    "score_crisil": 100,
-    "score_aum": 98.18,
-    "score_rep": 50,
-    "alpha_1y": 1.52,
-    "alpha_3y": 8.15,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SBD652G-GR": {
     "name": "SBI Multicap Growth Direct Plan",
@@ -8086,15 +6766,7 @@
     "return_10y": null,
     "return_since_inception": 13.4,
     "latest_nav": 16.7627,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 55.53,
-    "score_perf": 55.71,
-    "score_crisil": 40,
-    "score_aum": 100,
-    "score_rep": 80.82,
-    "alpha_1y": -4.32,
-    "alpha_3y": 1.97,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "LCMKG1-GR": {
     "name": "LIC MF Multi Cap Growth Direct Plan",
@@ -8135,15 +6807,7 @@
     "return_10y": null,
     "return_since_inception": 18.51,
     "latest_nav": 17.6427,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 79.57,
-    "score_perf": 80.12,
-    "score_crisil": 80,
-    "score_aum": 83.53,
-    "score_rep": 50,
-    "alpha_1y": 4.7,
-    "alpha_3y": 6.18,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UNMCDG-GR": {
     "name": "Union Multicap Growth Direct Plan",
@@ -8184,15 +6848,7 @@
     "return_10y": null,
     "return_since_inception": 18.26,
     "latest_nav": 16.59,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 74.65,
-    "score_perf": 76.74,
-    "score_crisil": 60,
-    "score_aum": 82.58,
-    "score_rep": 50,
-    "alpha_1y": 5.71,
-    "alpha_3y": 4.47,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HSHMCDG-GR": {
     "name": "HSBC Multi Cap Growth Direct Plan",
@@ -8233,15 +6889,7 @@
     "return_10y": null,
     "return_since_inception": 23.54,
     "latest_nav": 19.1866,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 88.39,
-    "score_perf": 87.89,
-    "score_crisil": 100,
-    "score_aum": 90.35,
-    "score_rep": 50,
-    "alpha_1y": 5.03,
-    "alpha_3y": 8.79,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TAMLGZ-GR": {
     "name": "Tata Multicap Growth Direct Plan",
@@ -8281,15 +6929,7 @@
     "return_10y": null,
     "return_since_inception": 13.56,
     "latest_nav": 15.0246,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 60.64,
-    "score_perf": 61.53,
-    "score_crisil": 50,
-    "score_aum": 86.28,
-    "score_rep": 50,
-    "alpha_1y": 5.83,
-    "alpha_3y": -1.02,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BAMLDG-GR": {
     "name": "Bank Of India Multicap Growth Direct Plan",
@@ -8329,15 +6969,7 @@
     "return_10y": null,
     "return_since_inception": 22.94,
     "latest_nav": 18.56,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 83.06,
-    "score_perf": 87.7,
-    "score_crisil": 50,
-    "score_aum": 81.98,
-    "score_rep": 50,
-    "alpha_1y": 8.39,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CAMFDG-GR": {
     "name": "Canara Robeco Multi Cap Growth Direct Plan",
@@ -8377,15 +7009,7 @@
     "return_10y": null,
     "return_since_inception": 15.94,
     "latest_nav": 14.65,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 64.47,
-    "score_perf": 65.89,
-    "score_crisil": 50,
-    "score_aum": 90.15,
-    "score_rep": 50,
-    "alpha_1y": 2.15,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MAMPD1-GR": {
     "name": "Mirae Asset Multicap Growth Direct Plan",
@@ -8425,15 +7049,7 @@
     "return_10y": null,
     "return_since_inception": 15.95,
     "latest_nav": 14.608,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 75.63,
-    "score_perf": 78.89,
-    "score_crisil": 50,
-    "score_aum": 89.23,
-    "score_rep": 50,
-    "alpha_1y": 5.87,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "YED106G-GR": {
     "name": "Whiteoak Capital Multi Cap Growth Direct Plan",
@@ -8473,15 +7089,7 @@
     "return_10y": null,
     "return_since_inception": 19.01,
     "latest_nav": 15.303,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 70.39,
-    "score_perf": 72.88,
-    "score_crisil": 50,
-    "score_aum": 85.97,
-    "score_rep": 50,
-    "alpha_1y": 4.15,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "EDMUD1-GR": {
     "name": "Edelweiss Multi Cap Growth Direct Plan",
@@ -8521,15 +7129,7 @@
     "return_10y": null,
     "return_since_inception": 19.73,
     "latest_nav": 15.4567,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 71.03,
-    "score_perf": 73.61,
-    "score_crisil": 50,
-    "score_aum": 86.25,
-    "score_rep": 50,
-    "alpha_1y": 4.36,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "DS908-GR": {
     "name": "DSP Multicap Growth Direct Plan",
@@ -8569,15 +7169,7 @@
     "return_10y": null,
     "return_since_inception": 8.54,
     "latest_nav": 11.885,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 59.65,
-    "score_perf": 60.4,
-    "score_crisil": 50,
-    "score_aum": 85.17,
-    "score_rep": 50,
-    "alpha_1y": 0.58,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MOMMGD-GR": {
     "name": "Motilal Oswal Multi Cap Growth Direct Plan",
@@ -8617,15 +7209,7 @@
     "return_10y": null,
     "return_since_inception": 9.72,
     "latest_nav": 11.9923,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 23.61,
-    "score_perf": 18.42,
-    "score_crisil": 50,
-    "score_aum": 88.23,
-    "score_rep": 50,
-    "alpha_1y": -11.43,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "FR978-GR": {
     "name": "Franklin India Multicap Growth Direct Plan",
@@ -8665,15 +7249,7 @@
     "return_10y": null,
     "return_since_inception": 2.24,
     "latest_nav": 10.3585,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 70.59,
-    "score_perf": 73.02,
-    "score_crisil": 50,
-    "score_aum": 89.74,
-    "score_rep": 50,
-    "alpha_1y": 4.19,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PRMCG1-GR": {
     "name": "PGIM India Multi Cap Growth Direct Plan",
@@ -8713,15 +7289,7 @@
     "return_10y": null,
     "return_since_inception": -1.63,
     "latest_nav": 9.85,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 65.3,
-    "score_perf": 67.07,
-    "score_crisil": 50,
-    "score_aum": 80.79,
-    "score_rep": 50,
-    "alpha_1y": 2.49,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SAMCDG-GR": {
     "name": "Samco Multi Cap Growth Direct Plan",
@@ -8761,15 +7329,7 @@
     "return_10y": null,
     "return_since_inception": -11.07,
     "latest_nav": 8.62,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 7.61,
-    "score_perf": 0,
-    "score_crisil": 50,
-    "score_aum": 80.54,
-    "score_rep": 50,
-    "alpha_1y": -16.7,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "INMUG1-GR": {
     "name": "Groww Multicap Growth Direct Plan",
@@ -8809,15 +7369,7 @@
     "return_10y": null,
     "return_since_inception": 5.28,
     "latest_nav": 10.6545,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 93.61,
-    "score_perf": 100,
-    "score_crisil": 50,
-    "score_aum": 80.65,
-    "score_rep": 50,
-    "alpha_1y": 11.91,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BJMCDG-GR": {
     "name": "Bajaj Finserv Multi Cap Growth Direct Plan",
@@ -8857,15 +7409,7 @@
     "return_10y": null,
     "return_since_inception": 12.78,
     "latest_nav": 11.301,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.64,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 82.24,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UTMAG1-GR": {
     "name": "UTI Multi Cap Growth Direct Plan",
@@ -8905,15 +7449,7 @@
     "return_10y": null,
     "return_since_inception": 2.74,
     "latest_nav": 10.2411,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.67,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 83.69,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UTMCDG-GR": {
     "name": "TrustMF Multi Cap Growth Direct Plan",
@@ -8953,15 +7489,7 @@
     "return_10y": null,
     "return_since_inception": 3.39,
     "latest_nav": 10.36,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": 50.61,
-    "score_perf": 50,
-    "score_crisil": 50,
-    "score_aum": 80.75,
-    "score_rep": 50,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "473-GR": {
     "name": "Franklin India Large & Mid Cap Growth Direct Plan",
@@ -9002,15 +7530,7 @@
     "return_10y": 13.24,
     "return_since_inception": 14.01,
     "latest_nav": 200.5165,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "8002-GR": {
     "name": "ICICI Prudential Large & Mid Cap Growth Direct Plan",
@@ -9051,15 +7571,7 @@
     "return_10y": 18.01,
     "return_since_inception": 16.37,
     "latest_nav": 1139.82,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "KO108D-GR": {
     "name": "Kotak Large & Midcap Growth Direct Plan",
@@ -9100,15 +7612,7 @@
     "return_10y": 18.22,
     "return_since_inception": 17.03,
     "latest_nav": 405.238,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HDGFG1G-GR": {
     "name": "HDFC Large & Mid Cap Growth Direct Plan",
@@ -9149,15 +7653,7 @@
     "return_10y": 16.48,
     "return_since_inception": 13.35,
     "latest_nav": 354.664,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "D201-GR": {
     "name": "Bandhan Large & Mid Cap Growth Direct Plan",
@@ -9198,15 +7694,7 @@
     "return_10y": 18.49,
     "return_since_inception": 15.81,
     "latest_nav": 158.419,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SBD017G-GR": {
     "name": "SBI Large & Midcap Growth Direct Plan",
@@ -9247,15 +7735,7 @@
     "return_10y": 17.17,
     "return_since_inception": 17,
     "latest_nav": 703.3275,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "GSAB-GR": {
     "name": "Nippon India Vision Large & Mid Cap Bonus Bonus Growth Direct Plan",
@@ -9296,15 +7776,7 @@
     "return_10y": 14.93,
     "return_since_inception": 14.28,
     "latest_nav": 267.5668,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "GSAG-GR": {
     "name": "Nippon India Vision Large & Mid Cap Growth Direct Plan",
@@ -9345,15 +7817,7 @@
     "return_10y": 14.93,
     "return_since_inception": 14.22,
     "latest_nav": 1578.1797,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RGGFD1-GR": {
     "name": "Invesco India Large & Mid Cap Growth Direct Plan",
@@ -9394,15 +7858,7 @@
     "return_10y": 18.2,
     "return_since_inception": 17.47,
     "latest_nav": 115.17,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BS201GZ-GR": {
     "name": "Aditya Birla Sun Life Large & Mid Cap Growth Direct Plan",
@@ -9443,15 +7899,7 @@
     "return_10y": 14.04,
     "return_since_inception": 14.77,
     "latest_nav": 1010.87,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TAEOGZ-GR": {
     "name": "Tata Large & Mid Cap Growth Direct Plan",
@@ -9492,15 +7940,7 @@
     "return_10y": 14.96,
     "return_since_inception": 15.05,
     "latest_nav": 564.0383,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "DS770-GR": {
     "name": "DSP Large & Mid Cap Growth Direct Plan",
@@ -9541,15 +7981,7 @@
     "return_10y": 17.78,
     "return_since_inception": 16.68,
     "latest_nav": 703.479,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CAEQDG-GR": {
     "name": "Canara Robeco Large & Mid Cap Growth Direct Plan",
@@ -9590,15 +8022,7 @@
     "return_10y": 17.64,
     "return_since_inception": 19.1,
     "latest_nav": 277.91,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BXBA061-GR": {
     "name": "BOI AXA Large & Mid Cap Equity Bonus Growth Direct Plan",
@@ -9639,15 +8063,7 @@
     "return_10y": 14.95,
     "return_since_inception": 14.64,
     "latest_nav": 53.04,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BXBA063-GR": {
     "name": "Bank Of India Large & Mid Cap Growth Direct Plan",
@@ -9688,15 +8104,7 @@
     "return_10y": 15.01,
     "return_since_inception": 13.89,
     "latest_nav": 102.72,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "LCMCG1-GR": {
     "name": "LIC MF Large & Midcap Growth Direct Plan",
@@ -9737,15 +8145,7 @@
     "return_10y": 17.3,
     "return_since_inception": 14.32,
     "latest_nav": 43.7218,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MAFEBD1-GR": {
     "name": "Mirae Asset Large & Midcap Growth Direct Plan",
@@ -9786,15 +8186,7 @@
     "return_10y": 19.26,
     "return_since_inception": 20.9,
     "latest_nav": 171.39,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UTMGD2-GR": {
     "name": "UTI Large & Mid Cap Growth Direct Plan",
@@ -9835,15 +8227,7 @@
     "return_10y": 16.12,
     "return_since_inception": 14.83,
     "latest_nav": 195.2825,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "EDEFD1-GR": {
     "name": "Edelweiss Large & Mid Cap Growth Direct Plan",
@@ -9884,15 +8268,7 @@
     "return_10y": null,
     "return_since_inception": 17.4,
     "latest_nav": 103.222,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "AXOGDG-GR": {
     "name": "Axis Large & Mid Cap Growth Direct Plan",
@@ -9933,15 +8309,7 @@
     "return_10y": null,
     "return_since_inception": 19.15,
     "latest_nav": 36.3,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SUEMGPD-GR": {
     "name": "Sundaram Large & Mid Cap Growth Direct Plan",
@@ -9982,15 +8350,7 @@
     "return_10y": 16.38,
     "return_since_inception": null,
     "latest_nav": 97.3422,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PLMCGDG-GR": {
     "name": "Navi Large & Midcap Growth Direct Plan",
@@ -10031,15 +8391,7 @@
     "return_10y": 15.94,
     "return_since_inception": 15.02,
     "latest_nav": 41.8669,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HSHLEG-GR": {
     "name": "HSBC Large & Mid Cap Growth Direct Plan",
@@ -10080,15 +8432,7 @@
     "return_10y": null,
     "return_since_inception": 17.1,
     "latest_nav": 29.7319,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MOLMGD-GR": {
     "name": "Motilal Oswal Large & Midcap Growth Direct Plan",
@@ -10129,15 +8473,7 @@
     "return_10y": null,
     "return_since_inception": 21.29,
     "latest_nav": 34.9004,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QUHYDB-GR": {
     "name": "Quant Large & Mid Cap Bonus Growth Direct Plan",
@@ -10178,15 +8514,7 @@
     "return_10y": 16.1,
     "return_since_inception": 16.33,
     "latest_nav": 106.443,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QUHYDG-GR": {
     "name": "Quant Large & Mid Cap Growth Direct Plan",
@@ -10227,15 +8555,7 @@
     "return_10y": 17.11,
     "return_since_inception": 17.21,
     "latest_nav": 117.1819,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UNLMDG-GR": {
     "name": "Union Large & Midcap Growth Direct Plan",
@@ -10276,15 +8596,7 @@
     "return_10y": null,
     "return_since_inception": 17.71,
     "latest_nav": 27.65,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMNYDG-GR": {
     "name": "Mahindra Manulife Large & Mid Cap Growth Direct Plan",
@@ -10325,15 +8637,7 @@
     "return_10y": null,
     "return_since_inception": 19.13,
     "latest_nav": 29.4662,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BPLMD2-GR": {
     "name": "Baroda BNP Paribas Large & Mid Cap Growth Direct Plan",
@@ -10374,15 +8678,7 @@
     "return_10y": null,
     "return_since_inception": 21.26,
     "latest_nav": 28.7374,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "YED108G-GR": {
     "name": "Whiteoak Capital Large & Mid Cap Growth Direct Plan",
@@ -10422,15 +8718,7 @@
     "return_10y": null,
     "return_since_inception": 14.97,
     "latest_nav": 13.621,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PRLMG1-GR": {
     "name": "PGIM India Large & Mid Cap Growth Direct Plan",
@@ -10470,15 +8758,7 @@
     "return_10y": null,
     "return_since_inception": 10.89,
     "latest_nav": 12.52,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BJLMDG-GR": {
     "name": "Bajaj Finserv Large & Mid Cap Growth Direct Plan",
@@ -10518,15 +8798,7 @@
     "return_10y": null,
     "return_since_inception": 11.24,
     "latest_nav": 12.403,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "ITLMG1-GR": {
     "name": "ITI Large & Mid Cap Growth Direct Plan",
@@ -10566,15 +8838,7 @@
     "return_10y": null,
     "return_since_inception": -5.1,
     "latest_nav": 9.3326,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HOHLMDG-GR": {
     "name": "Helios Large & Midcap Growth Direct Plan",
@@ -10614,15 +8878,7 @@
     "return_10y": null,
     "return_since_inception": 7.86,
     "latest_nav": 10.92,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SALMDG-GR": {
     "name": "Samco Large & Mid Cap Growth Direct Plan",
@@ -10662,15 +8918,7 @@
     "return_10y": null,
     "return_since_inception": -8.64,
     "latest_nav": 9.31,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "JMLMDG-GR": {
     "name": "JM Large & Midcap Growth Direct Plan",
@@ -10710,15 +8958,7 @@
     "return_10y": null,
     "return_since_inception": -0.93,
     "latest_nav": 9.9624,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "452-GR": {
     "name": "Templeton India Value Growth Direct Plan",
@@ -10759,15 +8999,7 @@
     "return_10y": 16.93,
     "return_since_inception": 15.18,
     "latest_nav": 809.0757,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "8176-GR": {
     "name": "ICICI Prudential Value Growth Direct Plan",
@@ -10808,15 +9040,7 @@
     "return_10y": 17.49,
     "return_since_inception": 18.2,
     "latest_nav": 528.91,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "62T-GR": {
     "name": "HDFC Value Growth Direct Plan",
@@ -10857,15 +9081,7 @@
     "return_10y": 16.43,
     "return_since_inception": 16.09,
     "latest_nav": 839.192,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BADG-GR": {
     "name": "JM Value Growth Direct Plan",
@@ -10906,15 +9122,7 @@
     "return_10y": 18.46,
     "return_since_inception": 15.92,
     "latest_nav": 102.324,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "D215-GR": {
     "name": "Bandhan Value Growth Direct Plan",
@@ -10955,15 +9163,7 @@
     "return_10y": 18.16,
     "return_since_inception": 16.65,
     "latest_nav": 167.306,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SEAG-GR": {
     "name": "Nippon India Value Growth Direct Plan",
@@ -11004,15 +9204,7 @@
     "return_10y": 18.07,
     "return_since_inception": 16.11,
     "latest_nav": 247.0176,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BS296GZ-GR": {
     "name": "Aditya Birla Sun Life Value Growth Direct Plan",
@@ -11053,15 +9245,7 @@
     "return_10y": 14.6,
     "return_since_inception": 16.73,
     "latest_nav": 141.3117,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TAEPEGZ-GR": {
     "name": "Tata Value Growth Direct Plan",
@@ -11102,15 +9286,7 @@
     "return_10y": 17.59,
     "return_since_inception": 16.85,
     "latest_nav": 395.63,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "LCLVG1-GR": {
     "name": "LIC MF Value Growth Direct Plan",
@@ -11151,15 +9327,7 @@
     "return_10y": null,
     "return_since_inception": 14.93,
     "latest_nav": 26.8613,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "INVDDG-GR": {
     "name": "Groww Value Growth Direct Plan",
@@ -11200,15 +9368,7 @@
     "return_10y": 13.15,
     "return_since_inception": 11.62,
     "latest_nav": 31.6479,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UTOPD2-GR": {
     "name": "UTI Value Growth Direct Plan",
@@ -11249,15 +9409,7 @@
     "return_10y": 15.73,
     "return_since_inception": 14.04,
     "latest_nav": 183.1756,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HSFIVGD-GR": {
     "name": "HSBC Value Growth Direct Plan",
@@ -11298,15 +9450,7 @@
     "return_10y": null,
     "return_since_inception": 21.53,
     "latest_nav": 125.8269,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UNVDGD-GR": {
     "name": "Union Value Growth Direct Plan",
@@ -11347,15 +9491,7 @@
     "return_10y": null,
     "return_since_inception": 16.51,
     "latest_nav": 30.44,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "DS875-GR": {
     "name": "DSP Value Growth Direct Plan",
@@ -11396,15 +9532,7 @@
     "return_10y": null,
     "return_since_inception": 18.33,
     "latest_nav": 24.06,
-    "latest_nav_date": "2026-02-27",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-02-27"
   },
   "ITVFG1-GR": {
     "name": "ITI Value Growth Direct Plan",
@@ -11445,15 +9573,7 @@
     "return_10y": null,
     "return_since_inception": 13.68,
     "latest_nav": 18.2762,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CAVFDG-GR": {
     "name": "Canara Robeco Value Growth Direct Plan",
@@ -11494,15 +9614,7 @@
     "return_10y": null,
     "return_since_inception": 15.55,
     "latest_nav": 19.12,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "AXVFDG-GR": {
     "name": "Axis Value Growth Direct Plan",
@@ -11543,15 +9655,7 @@
     "return_10y": null,
     "return_since_inception": 17.21,
     "latest_nav": 20.19,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "AXNVDG-GR": {
     "name": "Axis Nifty500 Value 50 Index Growth Direct Plan",
@@ -11591,15 +9695,7 @@
     "return_10y": null,
     "return_since_inception": 13.05,
     "latest_nav": 11.8132,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QUVFDG-GR": {
     "name": "Quant Value Growth Direct Plan",
@@ -11640,15 +9736,7 @@
     "return_10y": null,
     "return_since_inception": 18.32,
     "latest_nav": 20.5304,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BPVFDG-GR": {
     "name": "Baroda BNP Paribas Value Growth Direct Plan",
@@ -11688,15 +9776,7 @@
     "return_10y": null,
     "return_since_inception": 14.01,
     "latest_nav": 14.3417,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMVFDG-GR": {
     "name": "Mahindra Manulife Value Growth Direct Plan",
@@ -11736,15 +9816,7 @@
     "return_10y": null,
     "return_since_inception": 19.79,
     "latest_nav": 12.0834,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "KO124D-GR": {
     "name": "Kotak Contra Growth Direct Plan",
@@ -11785,15 +9857,7 @@
     "return_10y": 18.79,
     "return_since_inception": 16.76,
     "latest_nav": 181.382,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SBD036G-GR": {
     "name": "SBI Contra Growth Direct Plan",
@@ -11834,15 +9898,7 @@
     "return_10y": 18.11,
     "return_since_inception": 16.07,
     "latest_nav": 423.2978,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RGCFD1-GR": {
     "name": "Invesco India Contra Growth Direct Plan",
@@ -11883,15 +9939,7 @@
     "return_10y": 18.11,
     "return_since_inception": 17.92,
     "latest_nav": 153.71,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "423-GR": {
     "name": "Franklin India Aggressive Hybrid Growth Direct Plan",
@@ -11932,15 +9980,7 @@
     "return_10y": 13.23,
     "return_since_inception": 13.93,
     "latest_nav": 306.8988,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "8017-GR": {
     "name": "ICICI Prudential Equity & Debt Growth Direct Plan",
@@ -11981,15 +10021,7 @@
     "return_10y": 17.6,
     "return_since_inception": 17.02,
     "latest_nav": 448.13,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SUSBZG-GR": {
     "name": "Sundaram Aggressive Hybrid Growth Direct Plan",
@@ -12030,15 +10062,7 @@
     "return_10y": null,
     "return_since_inception": 9.84,
     "latest_nav": 184.1646,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "KO04GD-GR": {
     "name": "Kotak Aggressive Hybrid Growth Direct Plan",
@@ -12079,15 +10103,7 @@
     "return_10y": 15.44,
     "return_since_inception": 13.38,
     "latest_nav": 74.548,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PREGT-GR": {
     "name": "HDFC Hybrid Equity Growth Direct Plan",
@@ -12128,15 +10144,7 @@
     "return_10y": 13.43,
     "return_since_inception": 11.88,
     "latest_nav": 126.928,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BFDG-GR": {
     "name": "JM Aggressive Hybrid Growth Direct Plan",
@@ -12177,15 +10185,7 @@
     "return_10y": 13.79,
     "return_since_inception": 13.48,
     "latest_nav": 132.7326,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "JMBFDA-GR": {
     "name": "JM Aggressive Hybrid Annual Bonus Principal Units Growth Direct Plan",
@@ -12226,15 +10226,7 @@
     "return_10y": 13.83,
     "return_since_inception": 12.07,
     "latest_nav": 132.9498,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "IDD311-GR": {
     "name": "Bandhan Aggressive Hybrid Growth Direct Plan",
@@ -12275,15 +10267,7 @@
     "return_10y": null,
     "return_since_inception": 12.8,
     "latest_nav": 30.195,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SBD24G-GR": {
     "name": "SBI Equity Hybrid Growth Direct Plan",
@@ -12324,15 +10308,7 @@
     "return_10y": 13.64,
     "return_since_inception": 14.4,
     "latest_nav": 334.7454,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SHAG-GR": {
     "name": "Nippon India Aggressive Hybrid Growth Direct Plan",
@@ -12373,15 +10349,7 @@
     "return_10y": 11.91,
     "return_since_inception": 12.31,
     "latest_nav": 119.1971,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RGEBD1-GR": {
     "name": "Invesco India Aggressive Hybrid Growth Direct Plan",
@@ -12422,15 +10390,7 @@
     "return_10y": null,
     "return_since_inception": 12.13,
     "latest_nav": 24.1077,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BSAGZ-GR": {
     "name": "Aditya Birla Sun Life Equity Hybrid 95 Growth Direct Plan",
@@ -12471,15 +10431,7 @@
     "return_10y": 12.12,
     "return_since_inception": 12.77,
     "latest_nav": 1706.08,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BPSEDG-GR": {
     "name": "Baroda BNP Paribas Aggressive Hybrid Growth Direct Plan",
@@ -12520,15 +10472,7 @@
     "return_10y": null,
     "return_since_inception": 13.66,
     "latest_nav": 31.9902,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TABFGZ-GR": {
     "name": "Tata Aggressive Hybrid Growth Direct Plan",
@@ -12569,15 +10513,7 @@
     "return_10y": 11.9,
     "return_since_inception": 12.88,
     "latest_nav": 491.4189,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HSHEHG-GR": {
     "name": "HSBC Equity Hybrid Growth Direct Plan",
@@ -12618,15 +10554,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 14.57,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "HSFCEGD-GR": {
     "name": "HSBC Aggressive Hybrid Growth Direct Plan",
@@ -12667,15 +10595,7 @@
     "return_10y": null,
     "return_since_inception": 14.12,
     "latest_nav": 63.263,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PRIOD1-GR": {
     "name": "PGIM India Aggressive Hybrid Equity Growth Direct Plan",
@@ -12716,15 +10636,7 @@
     "return_10y": null,
     "return_since_inception": 10.91,
     "latest_nav": 151.26,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "101D-GR": {
     "name": "Shriram Aggressive Hybrid Growth Direct Plan",
@@ -12765,15 +10677,7 @@
     "return_10y": 11.51,
     "return_since_inception": 11.15,
     "latest_nav": 36.4187,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "DS727-GR": {
     "name": "DSP Aggressive Hybrid Growth Direct Plan",
@@ -12814,15 +10718,7 @@
     "return_10y": 14.52,
     "return_since_inception": 13.74,
     "latest_nav": 399.471,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "ENDG-GR": {
     "name": "Edelweiss Aggressive Hybrid Growth Direct Plan",
@@ -12863,15 +10759,7 @@
     "return_10y": 14.91,
     "return_since_inception": 14.15,
     "latest_nav": 73.67,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CAGBDG-GR": {
     "name": "Canara Robeco Equity Hybrid Growth Direct Plan",
@@ -12912,15 +10800,7 @@
     "return_10y": 14.78,
     "return_since_inception": 14.15,
     "latest_nav": 411.29,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BAMCDG-GR": {
     "name": "Bank Of India Mid & Small Cap Equity & Debt Growth Direct Plan",
@@ -12961,15 +10841,7 @@
     "return_10y": null,
     "return_since_inception": 15.87,
     "latest_nav": 41.63,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "LCBLG1-GR": {
     "name": "LIC Aggressive Hybrid Growth Direct Plan",
@@ -13010,15 +10882,7 @@
     "return_10y": 11.55,
     "return_since_inception": 10.38,
     "latest_nav": 221.1137,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MAFPFD1-GR": {
     "name": "Mirae Asset Aggressive Hybrid Growth Direct Plan",
@@ -13059,15 +10923,7 @@
     "return_10y": 15.17,
     "return_since_inception": 13.65,
     "latest_nav": 38.818,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UTBAD2-GR": {
     "name": "UTI Aggressive Hybrid Growth Direct Plan",
@@ -13108,15 +10964,7 @@
     "return_10y": 14.01,
     "return_since_inception": 12.94,
     "latest_nav": 438.9514,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "AXEHDG-GR": {
     "name": "Axis Aggressive Hybrid Growth Direct Plan",
@@ -13157,15 +11005,7 @@
     "return_10y": null,
     "return_since_inception": 11.34,
     "latest_nav": 22.5,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "ESEHGDG-GR": {
     "name": "Navi Aggressive Hybrid Growth Direct Plan",
@@ -13206,15 +11046,7 @@
     "return_10y": null,
     "return_since_inception": 11.47,
     "latest_nav": 23.4143,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "INEHG1-GR": {
     "name": "Groww Aggressive Hybrid Growth Direct Plan",
@@ -13255,15 +11087,7 @@
     "return_10y": null,
     "return_since_inception": 12.46,
     "latest_nav": 23.3655,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMHEDG-GR": {
     "name": "Mahindra Manulife Aggressive Hybrid Growth Direct Plan",
@@ -13304,15 +11128,7 @@
     "return_10y": null,
     "return_since_inception": 18.28,
     "latest_nav": 30.3424,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QUBFDG-GR": {
     "name": "Quant Aggressive Hybrid Growth Direct Plan",
@@ -13353,15 +11169,7 @@
     "return_10y": 16.96,
     "return_since_inception": 16.31,
     "latest_nav": 462.8113,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UNHEDG-GR": {
     "name": "Union Aggressive Hybrid Growth Direct Plan",
@@ -13402,15 +11210,7 @@
     "return_10y": null,
     "return_since_inception": 13.25,
     "latest_nav": 19.11,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TTSTHGZ-GR": {
     "name": "Titanium Hybrid Long Short Growth Direct Plan",
@@ -13450,15 +11250,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 6.96,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "BNSDA01-GR": {
     "name": "Arudha Hybrid Long Short Growth Direct Plan",
@@ -13498,15 +11290,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 0.64,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "IPS6002-GR": {
     "name": "Isif Hybrid Long Short Growth Direct Plan",
@@ -13546,15 +11330,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 8.45,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "BSD105-GR": {
     "name": "Aditya Birla Sun Life Balanced Advantage Growth Direct Plan",
@@ -13595,15 +11371,7 @@
     "return_10y": 12.93,
     "return_since_inception": 11.46,
     "latest_nav": 123.37,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "8180-GR": {
     "name": "ICICI Prudential Balanced Advantage Growth Direct Plan",
@@ -13644,15 +11412,7 @@
     "return_10y": 12.9,
     "return_since_inception": 12.86,
     "latest_nav": 85.51,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SUSAZG-GR": {
     "name": "Sundaram Balanced Advantage Growth Direct Plan",
@@ -13693,15 +11453,7 @@
     "return_10y": null,
     "return_since_inception": 9.65,
     "latest_nav": 41.4324,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "KO477D-GR": {
     "name": "Kotak Balanced Advantage Growth Direct Plan",
@@ -13742,15 +11494,7 @@
     "return_10y": null,
     "return_since_inception": 11.35,
     "latest_nav": 22.591,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "GFGT-GR": {
     "name": "HDFC Balanced Advantage Growth Direct Plan",
@@ -13791,15 +11535,7 @@
     "return_10y": 16.96,
     "return_since_inception": 14.55,
     "latest_nav": 566.857,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "IDD299-GR": {
     "name": "Bandhan Balanced Advantage Growth Direct Plan",
@@ -13840,15 +11576,7 @@
     "return_10y": 10.37,
     "return_since_inception": 9.55,
     "latest_nav": 28.324,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "NEAG-GR": {
     "name": "Nippon India Balanced Advantage Growth Direct Plan",
@@ -13889,15 +11617,7 @@
     "return_10y": 13.14,
     "return_since_inception": 12.05,
     "latest_nav": 203.6311,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RGEFD1-GR": {
     "name": "Invesco India Balanced Advantage Growth Direct Plan",
@@ -13938,15 +11658,7 @@
     "return_10y": 11.79,
     "return_since_inception": 12.19,
     "latest_nav": 62.77,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MODEGD-GR": {
     "name": "Motilal Oswal Balance Advantage Growth Direct Plan",
@@ -13987,15 +11699,7 @@
     "return_10y": null,
     "return_since_inception": 7.52,
     "latest_nav": 19.8807,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HDFG-GR": {
     "name": "HSBC Dynamic Asset Allocation Growth Direct Plan",
@@ -14035,15 +11739,7 @@
     "return_10y": null,
     "return_since_inception": null,
     "latest_nav": 12.45,
-    "latest_nav_date": "2026-03-03",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-03"
   },
   "HSFCMGD-GR": {
     "name": "HSBC Balanced Advantage Growth Direct Plan",
@@ -14084,15 +11780,7 @@
     "return_10y": null,
     "return_since_inception": 11.47,
     "latest_nav": 50.412,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UNPFGD-GR": {
     "name": "Union Balanced Advantage Growth Direct Plan",
@@ -14133,15 +11821,7 @@
     "return_10y": null,
     "return_since_inception": 10.17,
     "latest_nav": 22.1,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "DS812-GR": {
     "name": "DSP Dynamic Asset Allocation Growth Direct Plan",
@@ -14182,15 +11862,7 @@
     "return_10y": 10.87,
     "return_since_inception": 10.26,
     "latest_nav": 32.553,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "ARDG-GR": {
     "name": "Edelweiss Balanced Advantage Growth Direct Plan",
@@ -14231,15 +11903,7 @@
     "return_10y": 12.74,
     "return_since_inception": 12.44,
     "latest_nav": 59.14,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BXBA141-GR": {
     "name": "Bank Of India Balanced Advantage Growth Direct Plan",
@@ -14280,15 +11944,7 @@
     "return_10y": 8.5,
     "return_since_inception": 8.94,
     "latest_nav": 27.9371,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "AXDEDG-GR": {
     "name": "Axis Balanced Advantage Growth Direct Plan",
@@ -14329,15 +11985,7 @@
     "return_10y": null,
     "return_since_inception": 10.58,
     "latest_nav": 23.83,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BPDED2-GR": {
     "name": "Baroda BNP Paribas Balanced Advantage Growth Direct Plan",
@@ -14378,15 +12026,7 @@
     "return_10y": null,
     "return_since_inception": 14.78,
     "latest_nav": 27.3519,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TABAFGZ-GR": {
     "name": "Tata Balanced Advantage Growth Direct Plan",
@@ -14427,15 +12067,7 @@
     "return_10y": null,
     "return_since_inception": 12.52,
     "latest_nav": 23.0823,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SH107D-GR": {
     "name": "Shriram Balanced Advantage Growth Direct Plan",
@@ -14476,15 +12108,7 @@
     "return_10y": null,
     "return_since_inception": 10.06,
     "latest_nav": 18.9135,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "ITBFG1-GR": {
     "name": "ITI Balanced Advantage Growth Direct Plan",
@@ -14525,15 +12149,7 @@
     "return_10y": null,
     "return_since_inception": 7.91,
     "latest_nav": 16.082,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PRBLG1-GR": {
     "name": "PGIM India Balanced Advantage Growth Direct Plan",
@@ -14574,15 +12190,7 @@
     "return_10y": null,
     "return_since_inception": 9.97,
     "latest_nav": 16.45,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SBD638G-GR": {
     "name": "SBI Balanced Advantage Growth Direct Plan",
@@ -14623,15 +12231,7 @@
     "return_10y": null,
     "return_since_inception": 11.91,
     "latest_nav": 16.6489,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "NJBADG-GR": {
     "name": "NJ Balanced Advantage Growth Direct Plan",
@@ -14672,15 +12272,7 @@
     "return_10y": null,
     "return_since_inception": 8.27,
     "latest_nav": 14.12,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "LCBAG1-GR": {
     "name": "LIC MF Balanced Advantage Growth Direct Plan",
@@ -14721,15 +12313,7 @@
     "return_10y": null,
     "return_since_inception": 8.69,
     "latest_nav": 14.3307,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMBADG-GR": {
     "name": "Mahindra Manulife Balanced Advantage Growth Direct Plan",
@@ -14770,15 +12354,7 @@
     "return_10y": null,
     "return_since_inception": 11.18,
     "latest_nav": 15.5533,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MABAD1-GR": {
     "name": "Mirae Asset Balanced Advantage Growth Direct Plan",
@@ -14819,15 +12395,7 @@
     "return_10y": null,
     "return_since_inception": 12.4,
     "latest_nav": 15.179,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "FR972-GR": {
     "name": "Franklin India Balanced Advantage Growth Direct Plan",
@@ -14868,15 +12436,7 @@
     "return_10y": null,
     "return_since_inception": 12.64,
     "latest_nav": 15.1428,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "YED104G-GR": {
     "name": "Whiteoak Capital Balanced Advantage Growth Direct Plan",
@@ -14916,15 +12476,7 @@
     "return_10y": null,
     "return_since_inception": 14.26,
     "latest_nav": 14.942,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QUDADG-GR": {
     "name": "Quant Dynamic Asset Allocation Growth Direct Plan",
@@ -14964,15 +12516,7 @@
     "return_10y": null,
     "return_since_inception": 19.35,
     "latest_nav": 16.6727,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UTFBG1-GR": {
     "name": "UTI Balanced Advantage Growth Direct Plan",
@@ -15012,15 +12556,7 @@
     "return_10y": null,
     "return_since_inception": 11.28,
     "latest_nav": 13.0584,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BJBFDG-GR": {
     "name": "Bajaj Finserv Balanced Advantage Growth Direct Plan",
@@ -15060,15 +12596,7 @@
     "return_10y": null,
     "return_since_inception": 8.18,
     "latest_nav": 11.912,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SADADG-GR": {
     "name": "Samco Dynamic Asset Allocation Growth Direct Plan",
@@ -15108,15 +12636,7 @@
     "return_10y": null,
     "return_since_inception": 2.06,
     "latest_nav": 10.48,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PPDAFGZ-GR": {
     "name": "Parag Parikh Dynamic Asset Allocation Growth Direct Plan",
@@ -15156,15 +12676,7 @@
     "return_10y": null,
     "return_since_inception": 8.19,
     "latest_nav": 11.6878,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HOHBADG-GR": {
     "name": "Helios Balanced Advantage Growth Direct Plan",
@@ -15204,15 +12716,7 @@
     "return_10y": null,
     "return_since_inception": 7.96,
     "latest_nav": 11.73,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CABADG-GR": {
     "name": "Canara Robeco Balanced Advantage Growth Direct Plan",
@@ -15252,15 +12756,7 @@
     "return_10y": null,
     "return_since_inception": 2.47,
     "latest_nav": 10.38,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UFDAFDG-GR": {
     "name": "Unifi Dynamic Asset Allocation Growth Direct Plan",
@@ -15300,15 +12796,7 @@
     "return_10y": null,
     "return_since_inception": 8.07,
     "latest_nav": 10.8124,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "INMAG1-GR": {
     "name": "Groww Multi Asset Allocation Growth Direct Plan",
@@ -15348,15 +12836,7 @@
     "return_10y": null,
     "return_since_inception": 4.99,
     "latest_nav": 10.5147,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "WEBADG-GR": {
     "name": "The Wealth Company Balanced Advantage Growth Direct Plan",
@@ -15396,15 +12876,7 @@
     "return_10y": null,
     "return_since_inception": -1.02,
     "latest_nav": 9.8743,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "8004-GR": {
     "name": "ICICI Prudential Multi Asset Growth Direct Plan",
@@ -15445,15 +12917,7 @@
     "return_10y": 18.18,
     "return_since_inception": 16.75,
     "latest_nav": 902.2894,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MYG5T-GR": {
     "name": "HDFC Multi Asset Allocation Growth Direct Plan",
@@ -15494,15 +12958,7 @@
     "return_10y": 12.81,
     "return_since_inception": 12.09,
     "latest_nav": 85.979,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SBD101G-GR": {
     "name": "SBI Multi Asset Allocation Growth Direct Plan",
@@ -15543,15 +12999,7 @@
     "return_10y": 13.16,
     "return_since_inception": 12.92,
     "latest_nav": 74.9096,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UTW2D2-GR": {
     "name": "UTI Multi Asset Allocation Growth Direct Plan",
@@ -15592,15 +13040,7 @@
     "return_10y": 12.91,
     "return_since_inception": 10.51,
     "latest_nav": 88.443,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TPDG-GR": {
     "name": "Axis Multi Asset Allocation Growth Direct Plan",
@@ -15641,15 +13081,7 @@
     "return_10y": 13.11,
     "return_since_inception": 11.47,
     "latest_nav": 53.1257,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QUGLDG-GR": {
     "name": "Quant Multi Asset Allocation Growth Direct Plan",
@@ -15690,15 +13122,7 @@
     "return_10y": 19.22,
     "return_since_inception": 16.18,
     "latest_nav": 175.4709,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "TAMAGZ-GR": {
     "name": "Tata Multi Asset Allocation Growth Direct Plan",
@@ -15738,15 +13162,7 @@
     "return_10y": null,
     "return_since_inception": 19.54,
     "latest_nav": 27.7196,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RLMFAG-GR": {
     "name": "Nippon India Multi Asset Allocation Growth Direct Plan",
@@ -15786,15 +13202,7 @@
     "return_10y": null,
     "return_since_inception": 19.61,
     "latest_nav": 26.5702,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BPMADG-GR": {
     "name": "Baroda BNP Paribas Multi Asset Growth Direct Plan",
@@ -15834,15 +13242,7 @@
     "return_10y": null,
     "return_since_inception": 18.23,
     "latest_nav": 16.9979,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BS117Y-GR": {
     "name": "Aditya Birla Sun Life Multi Asset Allocation Growth Direct Plan",
@@ -15882,15 +13282,7 @@
     "return_10y": null,
     "return_since_inception": 20.04,
     "latest_nav": 17.5301,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "YED105G-GR": {
     "name": "Whiteoak Capital Multi Asset Allocation Growth Direct Plan",
@@ -15930,15 +13322,7 @@
     "return_10y": null,
     "return_since_inception": 18.79,
     "latest_nav": 16.197,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "EDMAD1-GR": {
     "name": "Edelweiss Multi Asset Allocation Growth Direct Plan",
@@ -15978,15 +13362,7 @@
     "return_10y": null,
     "return_since_inception": 7.74,
     "latest_nav": 12.2271,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SH109D-GR": {
     "name": "Shriram Multi Asset Allocation Growth Direct Plan",
@@ -16026,15 +13402,7 @@
     "return_10y": null,
     "return_since_inception": 14.7,
     "latest_nav": 14.0563,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "KO1197D-GR": {
     "name": "Kotak Multi Asset Allocation Growth Direct Plan",
@@ -16074,15 +13442,7 @@
     "return_10y": null,
     "return_since_inception": 23.44,
     "latest_nav": 16.674,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "DS896-GR": {
     "name": "DSP Multi Asset Allocation Growth Direct Plan",
@@ -16109,7 +13469,7 @@
     "investment_objective": "The investment objective of the Scheme is to seek to generate long term capital appreciation by investing in multi asset classes including equity and equity related securities, debt and money market instruments, commodity ETFs, exchange traded commodity derivatives and overseas securities. There is no assurance that the investment objective of the Scheme will be realized.",
     "portfolio_turnover": 1.13,
     "aum": 77311,
-    "comparison": "[{\"code\":\"QUGLDG-GR\",\"info_ratio\":1.53},{\"code\":\"DS896-GR\",\"info_ratio\":2.9},{\"code\":\"RLMFAG-GR\",\"info_ratio\":2.1},{\"code\":\"SBD101G-GR\",\"info_ratio\":2.02},{\"code\":\"UTW2D2-GR\",\"info_ratio\":1.03}]",
+    "comparison": "[{\"code\":\"DS896-GR\",\"info_ratio\":2.96},{\"code\":\"QUGLDG-GR\",\"info_ratio\":1.53},{\"code\":\"RLMFAG-GR\",\"info_ratio\":2.1},{\"code\":\"SBD101G-GR\",\"info_ratio\":2.02},{\"code\":\"UTW2D2-GR\",\"info_ratio\":1.03}]",
     "return_1d": 0,
     "return_1w": 0.56,
     "return_1m": 1.65,
@@ -16122,15 +13482,7 @@
     "return_10y": null,
     "return_since_inception": 23.73,
     "latest_nav": 16.7484,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SUMUDG-GR": {
     "name": "Sundaram Multi Asset Allocation Growth Direct Plan",
@@ -16170,15 +13522,7 @@
     "return_10y": null,
     "return_since_inception": 17.59,
     "latest_nav": 14.0543,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "IDD391-GR": {
     "name": "Bandhan Multi Asset Allocation Growth Direct Plan",
@@ -16218,15 +13562,7 @@
     "return_10y": null,
     "return_since_inception": 19.01,
     "latest_nav": 14.3802,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MAMAD1-GR": {
     "name": "Mirae Asset Multi Asset Allocation Growth Direct Plan",
@@ -16266,15 +13602,7 @@
     "return_10y": null,
     "return_since_inception": 17.36,
     "latest_nav": 13.984,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BAMADG-GR": {
     "name": "Bank Of India Multi Asset Allocation Growth Direct Plan",
@@ -16314,15 +13642,7 @@
     "return_10y": null,
     "return_since_inception": 12.53,
     "latest_nav": 12.6896,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "HSHMADG-GR": {
     "name": "HSBC Multi Asset Allocation Growth Direct Plan",
@@ -16362,15 +13682,7 @@
     "return_10y": null,
     "return_since_inception": 18.72,
     "latest_nav": 14.135,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "QTMUGP-GR": {
     "name": "Quantum Multi Asset Allocation Growth Direct Plan",
@@ -16410,15 +13722,7 @@
     "return_10y": null,
     "return_since_inception": 13.02,
     "latest_nav": 12.75,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "MHMAFDG-GR": {
     "name": "Mahindra Manulife Multi Asset Allocation Growth Direct Plan",
@@ -16458,15 +13762,7 @@
     "return_10y": null,
     "return_since_inception": 18.79,
     "latest_nav": 14.0508,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "BJMADG-GR": {
     "name": "Bajaj Finserv Multi Asset Allocation Growth Direct Plan",
@@ -16506,15 +13802,7 @@
     "return_10y": null,
     "return_since_inception": 15.66,
     "latest_nav": 12.9227,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "UNMADG-GR": {
     "name": "Union Multi Asset Allocation Growth Direct Plan",
@@ -16554,15 +13842,7 @@
     "return_10y": null,
     "return_since_inception": 16.79,
     "latest_nav": 12.64,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "RGMLD1-GR": {
     "name": "Invesco India Multi Asset Allocation Growth Direct Plan",
@@ -16602,15 +13882,7 @@
     "return_10y": null,
     "return_since_inception": 23.19,
     "latest_nav": 12.7,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "SAMADG-GR": {
     "name": "Samco Multi Asset Allocation Growth Direct Plan",
@@ -16637,7 +13909,7 @@
     "investment_objective": "The investment objective of the scheme is to generate long term capital appreciation by investing in a diversified portfolio of equity and equity related instruments, debt and money market instruments, Exchange Traded Commodity Derivatives / Units of Gold ETFs, Silver ETF & units of REITs/InvITs. There is no assurance that the investment objective of the Scheme will be achieved.",
     "portfolio_turnover": 11.9,
     "aum": 4113,
-    "comparison": "[{\"code\":\"QUGLDG-GR\",\"info_ratio\":1.53},{\"code\":\"RLMFAG-GR\",\"info_ratio\":2.1},{\"code\":\"SBD101G-GR\",\"info_ratio\":2.02},{\"code\":\"SAMADG-GR\",\"info_ratio\":1.96},{\"code\":\"UTW2D2-GR\",\"info_ratio\":1.03}]",
+    "comparison": "[{\"code\":\"QUGLDG-GR\",\"info_ratio\":1.53},{\"code\":\"RLMFAG-GR\",\"info_ratio\":2.1},{\"code\":\"SBD101G-GR\",\"info_ratio\":2.02},{\"code\":\"SAMADG-GR\",\"info_ratio\":1.91},{\"code\":\"UTW2D2-GR\",\"info_ratio\":1.03}]",
     "return_1d": 0,
     "return_1w": -0.4,
     "return_1m": 1.7,
@@ -16650,15 +13922,7 @@
     "return_10y": null,
     "return_since_inception": 21.33,
     "latest_nav": 12.58,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "LCMAG1-GR": {
     "name": "LIC MF Multi Asset Allocation Growth Direct Plan",
@@ -16698,15 +13962,7 @@
     "return_10y": null,
     "return_since_inception": 23.38,
     "latest_nav": 12.4239,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "CAMADG-GR": {
     "name": "Canara Robeco Multi Asset Allocation Growth Direct Plan",
@@ -16746,15 +14002,7 @@
     "return_10y": null,
     "return_since_inception": 11.99,
     "latest_nav": 11.21,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "FR1002-GR": {
     "name": "Franklin India Multi Asset Allocation Growth Direct Plan",
@@ -16794,15 +14042,7 @@
     "return_10y": null,
     "return_since_inception": 12.73,
     "latest_nav": 11.2728,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "IIMAFDG-GR": {
     "name": "360 One Multi Asset Allocation Growth Direct Plan",
@@ -16842,15 +14082,7 @@
     "return_10y": null,
     "return_since_inception": 24.22,
     "latest_nav": 12.4346,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "PRMUG1-GR": {
     "name": "PGIM India Multi Asset Allocation Growth Direct Plan",
@@ -16890,15 +14122,7 @@
     "return_10y": null,
     "return_since_inception": 6.91,
     "latest_nav": 10.68,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   },
   "WEMADG-GR": {
     "name": "The Wealth Company Multi Asset Allocation Growth Direct Plan",
@@ -16938,14 +14162,6 @@
     "return_10y": null,
     "return_since_inception": 5.58,
     "latest_nav": 10.6062,
-    "latest_nav_date": "2026-03-02",
-    "atlas_score": null,
-    "score_perf": null,
-    "score_crisil": null,
-    "score_aum": null,
-    "score_rep": null,
-    "alpha_1y": null,
-    "alpha_3y": null,
-    "alpha_5y": null
+    "latest_nav_date": "2026-03-02"
   }
 }
