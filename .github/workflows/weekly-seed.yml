@@ -32,6 +32,12 @@ jobs:
       - name: Execute Master Fund Scraper (Full Run)
         run: npm run seed --workspace=@mf-atlas/scraper
 
+      - name: Calculate Atlas Scores
+        run: npm run calc:scores --workspace=@mf-atlas/scraper
+
+      - name: Calculate Category Averages
+        run: npm run calc:averages --workspace=@mf-atlas/scraper
+
       - name: Commit and Push Data to CDN
         run: |
           git config --global user.name "MF Atlas Bot"
