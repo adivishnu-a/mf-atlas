@@ -1,7 +1,7 @@
 [
   {
     "category": "Large Cap Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -2.77,
     "return_1m": 0.24,
@@ -15,7 +15,7 @@
   },
   {
     "category": "Mid Cap Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -1.76,
     "return_1m": 1.77,
@@ -29,7 +29,7 @@
   },
   {
     "category": "Small Cap Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -2.87,
     "return_1m": 0.92,
@@ -43,7 +43,7 @@
   },
   {
     "category": "Flexi Cap Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -2.53,
     "return_1m": 0.39,
@@ -57,7 +57,7 @@
   },
   {
     "category": "Multi Cap Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -2.55,
     "return_1m": 0.77,
@@ -71,7 +71,7 @@
   },
   {
     "category": "Large & Mid Cap fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -2.25,
     "return_1m": 1.08,
@@ -85,7 +85,7 @@
   },
   {
     "category": "Value Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": -0.04,
     "return_1w": -2.11,
     "return_1m": 1.04,
@@ -99,7 +99,7 @@
   },
   {
     "category": "Contra Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -2.39,
     "return_1m": 0.08,
@@ -113,7 +113,7 @@
   },
   {
     "category": "Aggressive Hybrid Fund",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -2.06,
     "return_1m": 0.39,
@@ -127,7 +127,7 @@
   },
   {
     "category": "Dynamic Asset Allocation or Balanced Advantage",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -1.51,
     "return_1m": 0.38,
@@ -141,7 +141,7 @@
   },
   {
     "category": "Multi Asset Allocation",
-    "latest_date": "2026-03-03",
+    "latest_date": "2026-03-04",
     "return_1d": 0,
     "return_1w": -0.36,
     "return_1m": 2.8,
