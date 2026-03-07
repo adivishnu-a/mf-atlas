@@ -142,15 +142,15 @@
   {
     "category": "Multi Asset Allocation",
     "latest_date": "2026-03-07",
-    "return_1d": -0.64,
-    "return_1w": -1.77,
-    "return_1m": -1.14,
-    "return_3m": 2.83,
-    "return_6m": 8.89,
-    "return_1y": 21.65,
-    "return_2y": 14.77,
-    "return_3y": 19.55,
-    "return_5y": 17.13,
+    "return_1d": -0.66,
+    "return_1w": -1.78,
+    "return_1m": -1.16,
+    "return_3m": 2.84,
+    "return_6m": 8.85,
+    "return_1y": 21.6,
+    "return_2y": 14.74,
+    "return_3y": 19.53,
+    "return_5y": 17.11,
     "return_10y": 14.58
   }
 ]
