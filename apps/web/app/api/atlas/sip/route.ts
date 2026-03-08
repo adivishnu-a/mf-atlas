@@ -1,6 +1,7 @@
 import { NextRequest, NextResponse } from "next/server";
 import path from "path";
-import { getFundHistory, simulateSIP, SIPConfig } from "@mf-atlas/engine";
+import fs from "fs";
+import { simulateSIP, SIPConfig } from "@mf-atlas/engine";
 
 export async function POST(req: NextRequest) {
   try {
@@ -14,20 +15,24 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    // Resolve the data directory (apps/web runs from monorepo/apps/web)
-    // The data folder is at the root of the monorepo: monorepo/data/funds
-    const dataDir = path.join(process.cwd(), "../../data/funds");
+    const dataPath = path.join(process.cwd(), "../../data", `${isin}.json`);
 
-    const history = getFundHistory(isin, dataDir);
-
-    if (!history) {
+    if (!fs.existsSync(dataPath)) {
       return NextResponse.json(
         { error: `Fund history not found for ISIN: ${isin}` },
         { status: 404 },
       );
     }
 
-    const result = simulateSIP(history.data, config);
+    const rawData = fs.readFileSync(dataPath, "utf-8");
+    const parsedData = JSON.parse(rawData);
+
+    parsedData.sort(
+      (a: any, b: any) =>
+        new Date(b.date).getTime() - new Date(a.date).getTime(),
+    );
+
+    const result = simulateSIP(parsedData, config);
 
     if (!result) {
       return NextResponse.json(
@@ -36,7 +41,30 @@ export async function POST(req: NextRequest) {
       );
     }
 
-    return NextResponse.json(result);
+    let currentUnits = 0;
+    const series = result.cashflows.map((cf) => {
+      const navPoint = parsedData.find((p: any) => p.date === cf.date);
+      if (navPoint) {
+        const unitsBought = Math.abs(cf.amount) / navPoint.close;
+        currentUnits += unitsBought;
+        return {
+          date: cf.date,
+          totalValue: parseFloat((currentUnits * navPoint.close).toFixed(2)),
+        };
+      }
+      return { date: cf.date, totalValue: 0 };
+    });
+
+    const clientResponse = {
+      summary: {
+        totalInvested: result.totalInvested,
+        totalValue: result.finalValue,
+        xirr: result.xirr || 0,
+      },
+      series: series,
+    };
+
+    return NextResponse.json(clientResponse);
   } catch (error) {
     console.error("SIP API Error:", error);
     return NextResponse.json(

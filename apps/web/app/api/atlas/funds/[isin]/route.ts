@@ -4,10 +4,10 @@ import { eq } from "drizzle-orm"; // Monorepo node_modules will resolve this
 
 export async function GET(
   request: NextRequest,
-  { params }: { params: { isin: string } },
+  { params }: { params: Promise<{ isin: string }> },
 ) {
   try {
-    const isin = params.isin;
+    const { isin } = await params;
 
     if (!isin) {
       return NextResponse.json({ error: "ISIN is required" }, { status: 400 });

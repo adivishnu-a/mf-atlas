@@ -14,14 +14,21 @@
     "@auth/drizzle-adapter": "^1.11.1",
     "@mf-atlas/db": "^1.0.0",
     "@mf-atlas/engine": "^1.0.0",
+    "@radix-ui/react-select": "^2.2.6",
+    "@radix-ui/react-slot": "^1.2.4",
     "@repo/ui": "*",
-    "drizzle-orm": "^0.31.4",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
+    "date-fns": "^4.1.0",
+    "drizzle-orm": "^0.45.1",
     "lucide-react": "^0.576.0",
     "next": "16.1.5",
     "next-auth": "^5.0.0-beta.30",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
-    "recharts": "^3.7.0"
+    "recharts": "^3.7.0",
+    "tailwind-merge": "^3.5.0",
+    "tailwindcss-animate": "^1.0.7"
   },
   "devDependencies": {
     "@repo/eslint-config": "*",
@@ -29,7 +36,10 @@
     "@types/node": "^22.15.3",
     "@types/react": "19.2.2",
     "@types/react-dom": "19.2.2",
+    "autoprefixer": "^10.4.27",
     "eslint": "^9.39.1",
+    "postcss": "^8.5.8",
+    "tailwindcss": "^3.4.19",
     "typescript": "5.9.2"
   }
 }

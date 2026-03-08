@@ -1,41 +1,25 @@
-import fs from "fs";
-import path from "path";
-
-/**
- * Standardized interface corresponding to parsed AMFI/Investing.com histories
- */
 export interface NavPoint {
   date: string; // YYYY-MM-DD
   close: number;
 }
 
-/**
- * Validated response containing absolute file arrays
- */
 export interface FundHistory {
   isin: string;
   data: NavPoint[];
 }
 
-/**
- * Retrieves the full historical NAV series for a unique fund ISIN.
- * Works seamlessly inside Node.js Back-Ends (Next.js server/cron).
- *
- * @param isin ISIN tracking code
- * @param dataDir Path pointing to the monorepo's `data/funds` dir
- * @returns Sorted array of NavPoints (Newest to Oldest) or null if unresolvable.
- */
-export function getFundHistory(
+export async function getFundHistory(
   isin: string,
-  dataDir: string,
-): FundHistory | null {
+): Promise<FundHistory | null> {
   try {
-    const filePath = path.join(dataDir, `${isin}.json`);
-    if (!fs.existsSync(filePath)) {
+    const remoteUrl = `https://raw.githubusercontent.com/adivishnu-a/mf-atlas/data-branch/data/funds/${isin}.json`;
+    const res = await fetch(remoteUrl);
+
+    if (!res.ok) {
       return null;
     }
 
-    const rawData = fs.readFileSync(filePath, "utf-8");
+    const rawData = await res.text();
     const parsedData = JSON.parse(rawData) as NavPoint[];
 
     // Enforce descending sort (newest array[0], oldest array[length-1])
