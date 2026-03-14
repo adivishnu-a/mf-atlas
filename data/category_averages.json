@@ -44,16 +44,16 @@
   {
     "category": "Flexi Cap Fund",
     "latest_date": "2026-03-14",
-    "return_1d": -2.19,
-    "return_1w": -4.6,
-    "return_1m": -8.08,
-    "return_3m": -9.41,
-    "return_6m": -8.4,
-    "return_1y": 6.66,
-    "return_2y": 6.42,
-    "return_3y": 15.73,
-    "return_5y": 13.07,
-    "return_10y": 15.03
+    "return_1d": -2.22,
+    "return_1w": -4.62,
+    "return_1m": -8.12,
+    "return_3m": -9.46,
+    "return_6m": -8.46,
+    "return_1y": 6.6,
+    "return_2y": 6.41,
+    "return_3y": 15.7,
+    "return_5y": 13.04,
+    "return_10y": 15.01
   },
   {
     "category": "Multi Cap Fund",
@@ -142,15 +142,15 @@
   {
     "category": "Multi Asset Allocation",
     "latest_date": "2026-03-14",
-    "return_1d": -1.42,
-    "return_1w": -2.57,
-    "return_1m": -3.86,
-    "return_3m": -0.73,
-    "return_6m": 5.37,
-    "return_1y": 18.9,
-    "return_2y": 14.15,
-    "return_3y": 18.98,
-    "return_5y": 16.36,
+    "return_1d": -1.46,
+    "return_1w": -2.61,
+    "return_1m": -3.89,
+    "return_3m": -0.81,
+    "return_6m": 5.28,
+    "return_1y": 18.8,
+    "return_2y": 14.16,
+    "return_3y": 18.87,
+    "return_5y": 16.29,
     "return_10y": 14.07
   }
 ]
