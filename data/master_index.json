@@ -43,9 +43,9 @@
     "score_crisil": 50,
     "score_aum": 80.1,
     "score_rep": 50,
-    "alpha_1y": -0.04,
-    "alpha_3y": 3.96,
-    "alpha_5y": 1.19
+    "alpha_1y": 3.11,
+    "alpha_3y": 4.24,
+    "alpha_5y": 1.8
   },
   "419-GR": {
     "name": "Franklin India Large Cap Growth Direct Plan",
@@ -92,9 +92,9 @@
     "score_crisil": 40,
     "score_aum": 95.16,
     "score_rep": 50,
-    "alpha_1y": -0.44,
-    "alpha_3y": 2.77,
-    "alpha_5y": 0.8
+    "alpha_1y": 2.71,
+    "alpha_3y": 3.05,
+    "alpha_5y": 1.41
   },
   "8042-GR": {
     "name": "ICICI Prudential Large Cap Growth Direct Plan",
@@ -141,9 +141,9 @@
     "score_crisil": 100,
     "score_aum": 97.25,
     "score_rep": 86.9,
-    "alpha_1y": -0.74,
-    "alpha_3y": 5.55,
-    "alpha_5y": 4.84
+    "alpha_1y": 2.41,
+    "alpha_3y": 5.83,
+    "alpha_5y": 5.45
   },
   "KO13D-GR": {
     "name": "Kotak Large Cap Growth Direct Plan",
@@ -190,9 +190,9 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 50.33,
-    "alpha_1y": 0.17,
-    "alpha_3y": 3.87,
-    "alpha_5y": 2.68
+    "alpha_1y": 3.32,
+    "alpha_3y": 4.15,
+    "alpha_5y": 3.29
   },
   "44T-GR": {
     "name": "HDFC Large Cap Growth Direct Plan",
@@ -239,9 +239,9 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 95.46,
-    "alpha_1y": -3.08,
-    "alpha_3y": 2.95,
-    "alpha_5y": 3.87
+    "alpha_1y": 0.07,
+    "alpha_3y": 3.23,
+    "alpha_5y": 4.48
   },
   "JMEFDG-GR": {
     "name": "JM Large Cap Growth Direct Plan",
@@ -288,9 +288,9 @@
     "score_crisil": 100,
     "score_aum": 80.89,
     "score_rep": 50,
-    "alpha_1y": -0.8,
-    "alpha_3y": 4.29,
-    "alpha_5y": 2.65
+    "alpha_1y": 2.35,
+    "alpha_3y": 4.57,
+    "alpha_5y": 3.26
   },
   "D207-GR": {
     "name": "Bandhan Large Cap Growth Direct Plan",
@@ -337,9 +337,9 @@
     "score_crisil": 100,
     "score_aum": 84.05,
     "score_rep": 50,
-    "alpha_1y": 1.5,
-    "alpha_3y": 5.73,
-    "alpha_5y": 3.24
+    "alpha_1y": 4.65,
+    "alpha_3y": 6.01,
+    "alpha_5y": 3.85
   },
   "SBD103G-GR": {
     "name": "SBI Large Cap Growth Direct Plan",
@@ -386,9 +386,9 @@
     "score_crisil": 80,
     "score_aum": 99.48,
     "score_rep": 79.46,
-    "alpha_1y": 0.77,
-    "alpha_3y": 2.47,
-    "alpha_5y": 2.01
+    "alpha_1y": 3.92,
+    "alpha_3y": 2.75,
+    "alpha_5y": 2.62
   },
   "EAAB-GR": {
     "name": "Nippon India Large Cap Bonus Bonus Growth Direct Plan",
@@ -435,9 +435,9 @@
     "score_crisil": 100,
     "score_aum": 99.86,
     "score_rep": 100,
-    "alpha_1y": 1,
-    "alpha_3y": 6.9,
-    "alpha_5y": 7.24
+    "alpha_1y": 4.15,
+    "alpha_3y": 7.18,
+    "alpha_5y": 7.85
   },
   "EAAG-GR": {
     "name": "Nippon India Large Cap Growth Direct Plan",
@@ -484,9 +484,9 @@
     "score_crisil": 100,
     "score_aum": 99.86,
     "score_rep": 100,
-    "alpha_1y": 1,
-    "alpha_3y": 6.9,
-    "alpha_5y": 7.24
+    "alpha_1y": 4.15,
+    "alpha_3y": 7.18,
+    "alpha_5y": 7.85
   },
   "RGBLD1-GR": {
     "name": "Invesco India Largecap Growth Direct Plan",
@@ -533,9 +533,9 @@
     "score_crisil": 100,
     "score_aum": 83.4,
     "score_rep": 50,
-    "alpha_1y": 2.05,
-    "alpha_3y": 6.9,
-    "alpha_5y": 4.66
+    "alpha_1y": 5.2,
+    "alpha_3y": 7.18,
+    "alpha_5y": 5.27
   },
   "BS92Z-GR": {
     "name": "Aditya Birla Sun Life Large Cap Growth Direct Plan",
@@ -582,9 +582,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -1.94,
-    "alpha_3y": 3.24,
-    "alpha_5y": 2.38
+    "alpha_1y": 1.21,
+    "alpha_3y": 3.52,
+    "alpha_5y": 2.99
   },
   "BPLCDG-GR": {
     "name": "Baroda BNP Paribas Large Cap Growth Direct Plan",
@@ -630,8 +630,8 @@
     "score_crisil": 50,
     "score_aum": 85.28,
     "score_rep": 50,
-    "alpha_1y": -0.61,
-    "alpha_3y": 4.56,
+    "alpha_1y": 2.54,
+    "alpha_3y": 4.84,
     "alpha_5y": null
   },
   "TAPEFZ-GR": {
@@ -679,9 +679,9 @@
     "score_crisil": 80,
     "score_aum": 85.57,
     "score_rep": 50,
-    "alpha_1y": -0.24,
-    "alpha_3y": 3.56,
-    "alpha_5y": 2.83
+    "alpha_1y": 2.91,
+    "alpha_3y": 3.84,
+    "alpha_5y": 3.44
   },
   "HEFG-GR": {
     "name": "HSBC Large Cap Growth Direct Plan",
@@ -728,9 +728,9 @@
     "score_crisil": 80,
     "score_aum": 83.79,
     "score_rep": 50,
-    "alpha_1y": 1.11,
-    "alpha_3y": 3.7,
-    "alpha_5y": 1.78
+    "alpha_1y": 4.26,
+    "alpha_3y": 3.98,
+    "alpha_5y": 2.39
   },
   "UNFLFGD-GR": {
     "name": "Union Largecap Growth Direct Plan",
@@ -777,9 +777,9 @@
     "score_crisil": 60,
     "score_aum": 80.91,
     "score_rep": 50,
-    "alpha_1y": -1.47,
-    "alpha_3y": 1.5,
-    "alpha_5y": 0.85
+    "alpha_1y": 1.68,
+    "alpha_3y": 1.78,
+    "alpha_5y": 1.46
   },
   "PRFED1-GR": {
     "name": "PGIM India Large Cap Growth Direct Plan",
@@ -826,9 +826,9 @@
     "score_crisil": 40,
     "score_aum": 81.14,
     "score_rep": 50,
-    "alpha_1y": -3.08,
-    "alpha_3y": -0.04,
-    "alpha_5y": -0.46
+    "alpha_1y": 0.07,
+    "alpha_3y": 0.24,
+    "alpha_5y": 0.15
   },
   "INBCG1-GR": {
     "name": "Groww Large Cap Growth Direct Plan",
@@ -875,9 +875,9 @@
     "score_crisil": 80,
     "score_aum": 80.26,
     "score_rep": 50,
-    "alpha_1y": 2.75,
-    "alpha_3y": 3.57,
-    "alpha_5y": 1.92
+    "alpha_1y": 5.9,
+    "alpha_3y": 3.85,
+    "alpha_5y": 2.53
   },
   "DS776-GR": {
     "name": "DSP Large Cap Growth Direct Plan",
@@ -924,9 +924,9 @@
     "score_crisil": 60,
     "score_aum": 94.54,
     "score_rep": 50,
-    "alpha_1y": -3.57,
-    "alpha_3y": 5.8,
-    "alpha_5y": 2.48
+    "alpha_1y": -0.42,
+    "alpha_3y": 6.08,
+    "alpha_5y": 3.09
   },
   "EGDG-GR": {
     "name": "Edelweiss Large Cap Growth Direct Plan",
@@ -973,9 +973,9 @@
     "score_crisil": 100,
     "score_aum": 82.95,
     "score_rep": 50,
-    "alpha_1y": -0.38,
-    "alpha_3y": 3.81,
-    "alpha_5y": 3.03
+    "alpha_1y": 2.77,
+    "alpha_3y": 4.09,
+    "alpha_5y": 3.64
   },
   "CALCDG-GR": {
     "name": "Canara Robeco Large Cap Growth Direct Plan",
@@ -1022,9 +1022,9 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -2.84,
-    "alpha_3y": 3.45,
-    "alpha_5y": 1.97
+    "alpha_1y": 0.31,
+    "alpha_3y": 3.73,
+    "alpha_5y": 2.58
   },
   "MAFIOD1-GR": {
     "name": "Mirae Asset Large Cap Growth Direct Plan",
@@ -1071,9 +1071,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -1.07,
-    "alpha_3y": 1.43,
-    "alpha_5y": 0.92
+    "alpha_1y": 2.08,
+    "alpha_3y": 1.71,
+    "alpha_5y": 1.53
   },
   "UTMRD2-GR": {
     "name": "UTI Large Cap Growth Direct Plan",
@@ -1120,9 +1120,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -3.84,
-    "alpha_3y": 0.93,
-    "alpha_5y": 0.09
+    "alpha_1y": -0.69,
+    "alpha_3y": 1.21,
+    "alpha_5y": 0.7
   },
   "AXEFDG-GR": {
     "name": "Axis Large Cap Growth Direct Plan",
@@ -1169,9 +1169,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -4.25,
-    "alpha_3y": 0.79,
-    "alpha_5y": -1.44
+    "alpha_1y": -1.1,
+    "alpha_3y": 1.07,
+    "alpha_5y": -0.83
   },
   "MHMPBDG-GR": {
     "name": "Mahindra Manulife Large Cap Growth Direct Plan",
@@ -1218,9 +1218,9 @@
     "score_crisil": 80,
     "score_aum": 81.47,
     "score_rep": 50,
-    "alpha_1y": -3.11,
-    "alpha_3y": 3.28,
-    "alpha_5y": 2.26
+    "alpha_1y": 0.04,
+    "alpha_3y": 3.56,
+    "alpha_5y": 2.87
   },
   "SUBCDG-GR": {
     "name": "Sundaram Large Cap Growth Direct Plan",
@@ -1267,9 +1267,9 @@
     "score_crisil": 80,
     "score_aum": 86.49,
     "score_rep": 50,
-    "alpha_1y": -2.3,
-    "alpha_3y": 1.38,
-    "alpha_5y": 1.45
+    "alpha_1y": 0.85,
+    "alpha_3y": 1.66,
+    "alpha_5y": 2.06
   },
   "ITLCG1-GR": {
     "name": "ITI Large Cap Growth Direct Plan",
@@ -1316,9 +1316,9 @@
     "score_crisil": 40,
     "score_aum": 81.01,
     "score_rep": 50,
-    "alpha_1y": -2.72,
-    "alpha_3y": 3.04,
-    "alpha_5y": 0.77
+    "alpha_1y": 0.43,
+    "alpha_3y": 3.32,
+    "alpha_5y": 1.38
   },
   "BABCDG-GR": {
     "name": "Bank Of India Large Cap Growth Direct Plan",
@@ -1365,8 +1365,8 @@
     "score_crisil": 80,
     "score_aum": 80.42,
     "score_rep": 50,
-    "alpha_1y": 5.96,
-    "alpha_3y": 6.19,
+    "alpha_1y": 9.11,
+    "alpha_3y": 6.47,
     "alpha_5y": null
   },
   "QULCDG-GR": {
@@ -1414,8 +1414,8 @@
     "score_crisil": 80,
     "score_aum": 86.05,
     "score_rep": 50,
-    "alpha_1y": 1.7,
-    "alpha_3y": 6.17,
+    "alpha_1y": 4.85,
+    "alpha_3y": 6.45,
     "alpha_5y": null
   },
   "YED103G-GR": {
@@ -1463,8 +1463,8 @@
     "score_crisil": 80,
     "score_aum": 82.3,
     "score_rep": 50,
-    "alpha_1y": 1.11,
-    "alpha_3y": 6.63,
+    "alpha_1y": 4.26,
+    "alpha_3y": 6.91,
     "alpha_5y": null
   },
   "MOLCGD-GR": {
@@ -1511,7 +1511,7 @@
     "score_crisil": 50,
     "score_aum": 86.48,
     "score_rep": 50,
-    "alpha_1y": -1.11,
+    "alpha_1y": 2.04,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -1559,7 +1559,7 @@
     "score_crisil": 50,
     "score_aum": 83.08,
     "score_rep": 50,
-    "alpha_1y": 1.3,
+    "alpha_1y": 4.45,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -1607,7 +1607,7 @@
     "score_crisil": 50,
     "score_aum": 80.24,
     "score_rep": 50,
-    "alpha_1y": -11.93,
+    "alpha_1y": -8.78,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -1751,9 +1751,9 @@
     "score_crisil": 50,
     "score_aum": 80.25,
     "score_rep": 50,
-    "alpha_1y": -11.18,
-    "alpha_3y": -7.71,
-    "alpha_5y": -5.96
+    "alpha_1y": -7.17,
+    "alpha_3y": -7.01,
+    "alpha_5y": -5.48
   },
   "417-GR": {
     "name": "Franklin India Mid Cap Growth Direct Plan",
@@ -1800,9 +1800,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -10.7,
-    "alpha_3y": -1.65,
-    "alpha_5y": -2.57
+    "alpha_1y": -6.69,
+    "alpha_3y": -0.95,
+    "alpha_5y": -2.09
   },
   "8182-GR": {
     "name": "ICICI Prudential Midcap Growth Direct Plan",
@@ -1849,9 +1849,9 @@
     "score_crisil": 80,
     "score_aum": 94.56,
     "score_rep": 86.9,
-    "alpha_1y": 10.07,
-    "alpha_3y": 3.62,
-    "alpha_5y": 1.88
+    "alpha_1y": 14.08,
+    "alpha_3y": 4.32,
+    "alpha_5y": 2.36
   },
   "KO123D-GR": {
     "name": "Kotak Midcap Growth Direct Plan",
@@ -1898,9 +1898,9 @@
     "score_crisil": 80,
     "score_aum": 98.83,
     "score_rep": 50.33,
-    "alpha_1y": -0.26,
-    "alpha_3y": -0.69,
-    "alpha_5y": 0.2
+    "alpha_1y": 3.75,
+    "alpha_3y": 0.01,
+    "alpha_5y": 0.68
   },
   "MHEBYDG-GR": {
     "name": "Mahindra Manulife Mid Cap Growth Direct Plan",
@@ -1947,9 +1947,9 @@
     "score_crisil": 100,
     "score_aum": 88.88,
     "score_rep": 50,
-    "alpha_1y": -2.21,
-    "alpha_3y": 2.69,
-    "alpha_5y": 2.48
+    "alpha_1y": 1.8,
+    "alpha_3y": 3.39,
+    "alpha_5y": 2.96
   },
   "MCOGT-GR": {
     "name": "HDFC Mid Cap Growth Direct Plan",
@@ -1996,9 +1996,9 @@
     "score_crisil": 100,
     "score_aum": 95.57,
     "score_rep": 95.46,
-    "alpha_1y": -1.08,
-    "alpha_3y": 1.95,
-    "alpha_5y": 2.92
+    "alpha_1y": 2.93,
+    "alpha_3y": 2.65,
+    "alpha_5y": 3.4
   },
   "SBD091G-GR": {
     "name": "SBI Midcap Growth Direct Plan",
@@ -2045,9 +2045,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 79.46,
-    "alpha_1y": -12.12,
-    "alpha_3y": -6.55,
-    "alpha_5y": -2.34
+    "alpha_1y": -8.11,
+    "alpha_3y": -5.85,
+    "alpha_5y": -1.86
   },
   "GFAB-GR": {
     "name": "Nippon India Mid Cap Bonus Bonus Growth Direct Plan",
@@ -2094,9 +2094,9 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 100,
-    "alpha_1y": -1.64,
-    "alpha_3y": 3.26,
-    "alpha_5y": 3.54
+    "alpha_1y": 2.37,
+    "alpha_3y": 3.96,
+    "alpha_5y": 4.02
   },
   "GFAG-GR": {
     "name": "Nippon India Mid Cap Growth Direct Plan",
@@ -2143,9 +2143,9 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 100,
-    "alpha_1y": -1.64,
-    "alpha_3y": 3.26,
-    "alpha_5y": 3.54
+    "alpha_1y": 2.37,
+    "alpha_3y": 3.96,
+    "alpha_5y": 4.02
   },
   "RGMCD1-GR": {
     "name": "Invesco India Midcap Growth Direct Plan",
@@ -2192,9 +2192,9 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -0.82,
-    "alpha_3y": 4.15,
-    "alpha_5y": 2.69
+    "alpha_1y": 3.19,
+    "alpha_3y": 4.85,
+    "alpha_5y": 3.17
   },
   "BS251GZ-GR": {
     "name": "Aditya Birla Sun Life Midcap Growth Direct Plan",
@@ -2241,9 +2241,9 @@
     "score_crisil": 40,
     "score_aum": 92.26,
     "score_rep": 50,
-    "alpha_1y": -6.14,
-    "alpha_3y": -2.14,
-    "alpha_5y": -1.49
+    "alpha_1y": -2.13,
+    "alpha_3y": -1.44,
+    "alpha_5y": -1.01
   },
   "MOFMGD-GR": {
     "name": "Motilal Oswal Midcap Growth Direct Plan",
@@ -2290,9 +2290,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -13.32,
-    "alpha_3y": 0.17,
-    "alpha_5y": 5.34
+    "alpha_1y": -9.31,
+    "alpha_3y": 0.87,
+    "alpha_5y": 5.82
   },
   "BPMCDG-GR": {
     "name": "Baroda BNP Paribas Mid Cap Growth Direct Plan",
@@ -2338,8 +2338,8 @@
     "score_crisil": 50,
     "score_aum": 84.68,
     "score_rep": 50,
-    "alpha_1y": -0.83,
-    "alpha_3y": -0.23,
+    "alpha_1y": 3.18,
+    "alpha_3y": 0.47,
     "alpha_5y": null
   },
   "TAGROGZ-GR": {
@@ -2387,9 +2387,9 @@
     "score_crisil": 80,
     "score_aum": 91.01,
     "score_rep": 50,
-    "alpha_1y": -2.21,
-    "alpha_3y": -0.2,
-    "alpha_5y": -0.63
+    "alpha_1y": 1.8,
+    "alpha_3y": 0.5,
+    "alpha_5y": -0.15
   },
   "LCIMG1-GR": {
     "name": "LIC Mid Cap Growth Direct Plan",
@@ -2436,7 +2436,7 @@
     "score_crisil": 40,
     "score_aum": 80.67,
     "score_rep": 50,
-    "alpha_1y": -8,
+    "alpha_1y": -3.99,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -2485,9 +2485,9 @@
     "score_crisil": 40,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -9.68,
-    "alpha_3y": -8.22,
-    "alpha_5y": -3.56
+    "alpha_1y": -5.67,
+    "alpha_3y": -7.52,
+    "alpha_5y": -3.08
   },
   "DS782-GR": {
     "name": "DSP Midcap Growth Direct Plan",
@@ -2534,9 +2534,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -1.76,
-    "alpha_3y": -2.12,
-    "alpha_5y": -4.79
+    "alpha_1y": 2.25,
+    "alpha_3y": -1.42,
+    "alpha_5y": -4.31
   },
   "UTMCD2-GR": {
     "name": "UTI Mid Cap Growth Direct Plan",
@@ -2583,9 +2583,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -6.1,
-    "alpha_3y": -5.13,
-    "alpha_5y": -3.67
+    "alpha_1y": -2.09,
+    "alpha_3y": -4.43,
+    "alpha_5y": -3.19
   },
   "EDMSD1-GR": {
     "name": "Edelweiss Mid Cap Growth Direct Plan",
@@ -2632,9 +2632,9 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -2.17,
-    "alpha_3y": 3.64,
-    "alpha_5y": 3.02
+    "alpha_1y": 1.84,
+    "alpha_3y": 4.34,
+    "alpha_5y": 3.5
   },
   "MCDG-GR": {
     "name": "Axis Mid Cap Growth Direct Plan",
@@ -2681,9 +2681,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -3.7,
-    "alpha_3y": -2.36,
-    "alpha_5y": -2.49
+    "alpha_1y": 0.31,
+    "alpha_3y": -1.66,
+    "alpha_5y": -2.01
   },
   "SU04PD-GR": {
     "name": "Sundaram Mid Cap Growth Direct Plan",
@@ -2730,9 +2730,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -2.44,
-    "alpha_3y": 2.05,
-    "alpha_5y": 1.02
+    "alpha_1y": 1.57,
+    "alpha_3y": 2.75,
+    "alpha_5y": 1.5
   },
   "HS17D-GR": {
     "name": "HSBC Midcap Growth Direct Plan",
@@ -2779,8 +2779,8 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": 5.76,
-    "alpha_3y": 3.61,
+    "alpha_1y": 9.77,
+    "alpha_3y": 4.31,
     "alpha_5y": null
   },
   "HSHMFG-GR": {
@@ -2876,9 +2876,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": 0.56,
-    "alpha_3y": -1.55,
-    "alpha_5y": -0.82
+    "alpha_1y": 4.57,
+    "alpha_3y": -0.85,
+    "alpha_5y": -0.34
   },
   "QUOFDG-GR": {
     "name": "Quant Mid Cap Growth Direct Plan",
@@ -2925,9 +2925,9 @@
     "score_crisil": 60,
     "score_aum": 94.68,
     "score_rep": 50,
-    "alpha_1y": -15.4,
-    "alpha_3y": -5.74,
-    "alpha_5y": 0.43
+    "alpha_1y": -11.39,
+    "alpha_3y": -5.04,
+    "alpha_5y": 0.91
   },
   "UNMFDG-GR": {
     "name": "Union Midcap Growth Direct Plan",
@@ -2974,9 +2974,9 @@
     "score_crisil": 80,
     "score_aum": 83.3,
     "score_rep": 50,
-    "alpha_1y": -0.08,
-    "alpha_3y": -0.82,
-    "alpha_5y": 0.05
+    "alpha_1y": 3.93,
+    "alpha_3y": -0.12,
+    "alpha_5y": 0.53
   },
   "ITMDG1-GR": {
     "name": "ITI Mid Cap Growth Direct Plan",
@@ -3023,9 +3023,9 @@
     "score_crisil": 80,
     "score_aum": 82.65,
     "score_rep": 50,
-    "alpha_1y": -3.1,
-    "alpha_3y": 2.47,
-    "alpha_5y": -0.81
+    "alpha_1y": 0.91,
+    "alpha_3y": 3.17,
+    "alpha_5y": -0.33
   },
   "IDD361-GR": {
     "name": "Bandhan Midcap Growth Direct Plan",
@@ -3072,8 +3072,8 @@
     "score_crisil": 60,
     "score_aum": 84.02,
     "score_rep": 50,
-    "alpha_1y": -2.71,
-    "alpha_3y": -1.26,
+    "alpha_1y": 1.3,
+    "alpha_3y": -0.56,
     "alpha_5y": null
   },
   "YED101G-GR": {
@@ -3121,8 +3121,8 @@
     "score_crisil": 100,
     "score_aum": 89.39,
     "score_rep": 50,
-    "alpha_1y": 3.12,
-    "alpha_3y": 4.45,
+    "alpha_1y": 7.13,
+    "alpha_3y": 5.15,
     "alpha_5y": null
   },
   "JMMDDG-GR": {
@@ -3170,8 +3170,8 @@
     "score_crisil": 80,
     "score_aum": 82.27,
     "score_rep": 50,
-    "alpha_1y": -7.89,
-    "alpha_3y": 1.48,
+    "alpha_1y": -3.88,
+    "alpha_3y": 2.18,
     "alpha_5y": null
   },
   "CAMDDG-GR": {
@@ -3219,8 +3219,8 @@
     "score_crisil": 60,
     "score_aum": 88.39,
     "score_rep": 50,
-    "alpha_1y": 0.3,
-    "alpha_3y": -1.62,
+    "alpha_1y": 4.31,
+    "alpha_3y": -0.92,
     "alpha_5y": null
   },
   "HOHMCDG-GR": {
@@ -3267,7 +3267,7 @@
     "score_crisil": 50,
     "score_aum": 82.46,
     "score_rep": 50,
-    "alpha_1y": 0.61,
+    "alpha_1y": 4.62,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -5165,9 +5165,9 @@
     "score_crisil": 50,
     "score_aum": 80.69,
     "score_rep": 50,
-    "alpha_1y": -5.86,
-    "alpha_3y": -1.82,
-    "alpha_5y": -1.9
+    "alpha_1y": -2.41,
+    "alpha_3y": -1.44,
+    "alpha_5y": -1.33
   },
   "418-GR": {
     "name": "Franklin India Flexi Cap Growth Direct Plan",
@@ -5214,9 +5214,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -5.12,
-    "alpha_3y": 2.67,
-    "alpha_5y": 3.2
+    "alpha_1y": -1.67,
+    "alpha_3y": 3.05,
+    "alpha_5y": 3.77
   },
   "FR1006-GR": {
     "name": "Franklin India Multi Factor Growth Direct Plan",
@@ -5311,9 +5311,9 @@
     "score_crisil": 80,
     "score_aum": 99.31,
     "score_rep": 50.33,
-    "alpha_1y": 1.21,
-    "alpha_3y": 1.78,
-    "alpha_5y": 1.14
+    "alpha_1y": 4.66,
+    "alpha_3y": 2.16,
+    "alpha_5y": 1.71
   },
   "02T-GR": {
     "name": "HDFC Flexicap Growth Direct Plan",
@@ -5360,9 +5360,9 @@
     "score_crisil": 100,
     "score_aum": 94.95,
     "score_rep": 95.46,
-    "alpha_1y": -1.44,
-    "alpha_3y": 5.79,
-    "alpha_5y": 7.7
+    "alpha_1y": 2.01,
+    "alpha_3y": 6.17,
+    "alpha_5y": 8.27
   },
   "MSDG-GR": {
     "name": "JM Flexicap Growth Direct Plan",
@@ -5409,9 +5409,9 @@
     "score_crisil": 80,
     "score_aum": 90.32,
     "score_rep": 50,
-    "alpha_1y": -8.57,
-    "alpha_3y": 4.68,
-    "alpha_5y": 4.74
+    "alpha_1y": -5.12,
+    "alpha_3y": 5.06,
+    "alpha_5y": 5.31
   },
   "D203-GR": {
     "name": "Bandhan Flexi Cap Growth Direct Plan",
@@ -5458,9 +5458,9 @@
     "score_crisil": 60,
     "score_aum": 94.85,
     "score_rep": 50,
-    "alpha_1y": -1.32,
-    "alpha_3y": 0.87,
-    "alpha_5y": 0.31
+    "alpha_1y": 2.13,
+    "alpha_3y": 1.25,
+    "alpha_5y": 0.88
   },
   "SBD099G-GR": {
     "name": "SBI Flexicap Growth Direct Plan",
@@ -5507,9 +5507,9 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 79.46,
-    "alpha_1y": -3.27,
-    "alpha_3y": -2.09,
-    "alpha_5y": -1.04
+    "alpha_1y": 0.18,
+    "alpha_3y": -1.71,
+    "alpha_5y": -0.47
   },
   "BS51Z-GR": {
     "name": "Aditya Birla Sun Life Flexi Cap Growth Direct Plan",
@@ -5556,9 +5556,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": 2.33,
-    "alpha_3y": 3.63,
-    "alpha_5y": 1.73
+    "alpha_1y": 5.78,
+    "alpha_3y": 4.01,
+    "alpha_5y": 2.3
   },
   "CPGD-GR": {
     "name": "Motilal Oswal Flexi Cap Growth Direct Plan",
@@ -5605,9 +5605,9 @@
     "score_crisil": 40,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -6.99,
-    "alpha_3y": 6.48,
-    "alpha_5y": -0.23
+    "alpha_1y": -3.54,
+    "alpha_3y": 6.86,
+    "alpha_5y": 0.34
   },
   "MOFPGD-GR": {
     "name": "Motilal Oswal Diversified Equity Flexicap Passive FoF Growth Direct Plan",
@@ -5702,9 +5702,9 @@
     "score_crisil": 60,
     "score_aum": 87.4,
     "score_rep": 50,
-    "alpha_1y": -4.07,
-    "alpha_3y": 1.81,
-    "alpha_5y": 0.28
+    "alpha_1y": -0.62,
+    "alpha_3y": 2.19,
+    "alpha_5y": 0.85
   },
   "HEOIG-GR": {
     "name": "HSBC Flexi Cap Growth Direct Plan",
@@ -5751,9 +5751,9 @@
     "score_crisil": 80,
     "score_aum": 90.56,
     "score_rep": 50,
-    "alpha_1y": -0.11,
-    "alpha_3y": 3.65,
-    "alpha_5y": 2.75
+    "alpha_1y": 3.34,
+    "alpha_3y": 4.03,
+    "alpha_5y": 3.32
   },
   "UNEFGD-GR": {
     "name": "Union Flexicap Growth Direct Plan",
@@ -5800,9 +5800,9 @@
     "score_crisil": 60,
     "score_aum": 84.7,
     "score_rep": 50,
-    "alpha_1y": -2.06,
-    "alpha_3y": 0.55,
-    "alpha_5y": 1.09
+    "alpha_1y": 1.39,
+    "alpha_3y": 0.93,
+    "alpha_5y": 1.66
   },
   "PRDEG1-GR": {
     "name": "PGIM India Flexi Cap Growth Direct Plan",
@@ -5849,9 +5849,9 @@
     "score_crisil": 60,
     "score_aum": 92.01,
     "score_rep": 50,
-    "alpha_1y": -2.73,
-    "alpha_3y": -1.44,
-    "alpha_5y": -0.41
+    "alpha_1y": 0.72,
+    "alpha_3y": -1.06,
+    "alpha_5y": 0.16
   },
   "SH103D-GR": {
     "name": "Shriram Flexi Cap Growth Direct Plan",
@@ -5898,9 +5898,9 @@
     "score_crisil": 40,
     "score_aum": 80.26,
     "score_rep": 50,
-    "alpha_1y": -6.38,
-    "alpha_3y": -3.41,
-    "alpha_5y": -2.21
+    "alpha_1y": -2.93,
+    "alpha_3y": -3.03,
+    "alpha_5y": -1.64
   },
   "DS767-GR": {
     "name": "DSP Flexi Cap Growth Direct Plan",
@@ -5947,9 +5947,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -4.31,
-    "alpha_3y": 1.81,
-    "alpha_5y": 0.62
+    "alpha_1y": -0.86,
+    "alpha_3y": 2.19,
+    "alpha_5y": 1.19
   },
   "CADVDG-GR": {
     "name": "Canara Robeco Flexi Cap Growth Direct Plan",
@@ -5996,9 +5996,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -1.68,
-    "alpha_3y": 0.22,
-    "alpha_5y": 0.55
+    "alpha_1y": 1.77,
+    "alpha_3y": 0.6,
+    "alpha_5y": 1.12
   },
   "UTEQD2-GR": {
     "name": "UTI Flexi Cap Growth Direct Plan",
@@ -6045,9 +6045,9 @@
     "score_crisil": 40,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -11,
-    "alpha_3y": -5.26,
-    "alpha_5y": -5.72
+    "alpha_1y": -7.55,
+    "alpha_3y": -4.88,
+    "alpha_5y": -5.15
   },
   "EDERD1-GR": {
     "name": "Edelweiss Flexi Cap Growth Direct Plan",
@@ -6094,9 +6094,9 @@
     "score_crisil": 80,
     "score_aum": 86.41,
     "score_rep": 50,
-    "alpha_1y": 0.82,
-    "alpha_3y": 4.38,
-    "alpha_5y": 3.89
+    "alpha_1y": 4.27,
+    "alpha_3y": 4.76,
+    "alpha_5y": 4.46
   },
   "AXMLDG-GR": {
     "name": "Axis Flexi Cap Growth Direct Plan",
@@ -6143,9 +6143,9 @@
     "score_crisil": 40,
     "score_aum": 100,
     "score_rep": 50,
-    "alpha_1y": -2.59,
-    "alpha_3y": 0.57,
-    "alpha_5y": -1.22
+    "alpha_1y": 0.86,
+    "alpha_3y": 0.95,
+    "alpha_5y": -0.65
   },
   "PP001ZG-GR": {
     "name": "Parag Parikh Flexi Cap Growth Direct Plan",
@@ -6192,9 +6192,9 @@
     "score_crisil": 100,
     "score_aum": 91.57,
     "score_rep": 50,
-    "alpha_1y": -2.13,
-    "alpha_3y": 3.89,
-    "alpha_5y": 3.93
+    "alpha_1y": 1.32,
+    "alpha_3y": 4.27,
+    "alpha_5y": 4.5
   },
   "ESMFGD-GR": {
     "name": "Navi Flexi Cap Growth Direct Plan",
@@ -6241,9 +6241,9 @@
     "score_crisil": 60,
     "score_aum": 80.52,
     "score_rep": 50,
-    "alpha_1y": 4.09,
-    "alpha_3y": 0.23,
-    "alpha_5y": 1.28
+    "alpha_1y": 7.54,
+    "alpha_3y": 0.61,
+    "alpha_5y": 1.85
   },
   "QUPEDG-GR": {
     "name": "Quant Flexi Cap Growth Direct Plan",
@@ -6290,9 +6290,9 @@
     "score_crisil": 100,
     "score_aum": 92.71,
     "score_rep": 50,
-    "alpha_1y": -0.6,
-    "alpha_3y": 4.14,
-    "alpha_5y": 6.86
+    "alpha_1y": 2.85,
+    "alpha_3y": 4.52,
+    "alpha_5y": 7.43
   },
   "BAMPDG-GR": {
     "name": "Bank Of India Flexi Cap Growth Direct Plan",
@@ -6339,9 +6339,9 @@
     "score_crisil": 100,
     "score_aum": 84.37,
     "score_rep": 50,
-    "alpha_1y": 5.37,
-    "alpha_3y": 8.49,
-    "alpha_5y": 7.16
+    "alpha_1y": 8.82,
+    "alpha_3y": 8.87,
+    "alpha_5y": 7.73
   },
   "IC9645-GR": {
     "name": "ICICI Prudential Flexicap Growth Direct Plan",
@@ -6388,8 +6388,8 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 86.9,
-    "alpha_1y": 2.16,
-    "alpha_3y": 4.25,
+    "alpha_1y": 5.61,
+    "alpha_3y": 4.63,
     "alpha_5y": null
   },
   "RLLCAG-GR": {
@@ -6437,8 +6437,8 @@
     "score_crisil": 60,
     "score_aum": 98.6,
     "score_rep": 100,
-    "alpha_1y": -3.35,
-    "alpha_3y": 1.04,
+    "alpha_1y": 0.1,
+    "alpha_3y": 1.42,
     "alpha_5y": null
   },
   "MHMFCDG-GR": {
@@ -6486,8 +6486,8 @@
     "score_crisil": 60,
     "score_aum": 83.11,
     "score_rep": 50,
-    "alpha_1y": -3.96,
-    "alpha_3y": 0.69,
+    "alpha_1y": -0.51,
+    "alpha_3y": 1.07,
     "alpha_5y": null
   },
   "SAFCDG-GR": {
@@ -6535,8 +6535,8 @@
     "score_crisil": 20,
     "score_aum": 80.6,
     "score_rep": 50,
-    "alpha_1y": -8.08,
-    "alpha_3y": -12.36,
+    "alpha_1y": -4.63,
+    "alpha_3y": -11.98,
     "alpha_5y": null
   },
   "RGF9D1-GR": {
@@ -6584,8 +6584,8 @@
     "score_crisil": 100,
     "score_aum": 89.36,
     "score_rep": 50,
-    "alpha_1y": -3.51,
-    "alpha_3y": 5.69,
+    "alpha_1y": -0.06,
+    "alpha_3y": 6.07,
     "alpha_5y": null
   },
   "YE1038-GR": {
@@ -6633,8 +6633,8 @@
     "score_crisil": 80,
     "score_aum": 94.57,
     "score_rep": 50,
-    "alpha_1y": -0.89,
-    "alpha_3y": 4.71,
+    "alpha_1y": 2.56,
+    "alpha_3y": 5.09,
     "alpha_5y": null
   },
   "BPFXDG-GR": {
@@ -6682,8 +6682,8 @@
     "score_crisil": 60,
     "score_aum": 82.45,
     "score_rep": 50,
-    "alpha_1y": -2.64,
-    "alpha_3y": 1.51,
+    "alpha_1y": 0.81,
+    "alpha_3y": 1.89,
     "alpha_5y": null
   },
   "SUFCDG-GR": {
@@ -6731,8 +6731,8 @@
     "score_crisil": 60,
     "score_aum": 84.12,
     "score_rep": 50,
-    "alpha_1y": -2.73,
-    "alpha_3y": -0.02,
+    "alpha_1y": 0.72,
+    "alpha_3y": 0.36,
     "alpha_5y": null
   },
   "ITFCG1-GR": {
@@ -6780,8 +6780,8 @@
     "score_crisil": 100,
     "score_aum": 82.53,
     "score_rep": 50,
-    "alpha_1y": 2.38,
-    "alpha_3y": 6.89,
+    "alpha_1y": 5.83,
+    "alpha_3y": 7.27,
     "alpha_5y": null
   },
   "MAFCD1-GR": {
@@ -6829,8 +6829,8 @@
     "score_crisil": 60,
     "score_aum": 87.31,
     "score_rep": 50,
-    "alpha_1y": 3.18,
-    "alpha_3y": 2.2,
+    "alpha_1y": 6.63,
+    "alpha_3y": 2.58,
     "alpha_5y": null
   },
   "IIIFCDG-GR": {
@@ -6877,7 +6877,7 @@
     "score_crisil": 50,
     "score_aum": 84.02,
     "score_rep": 50,
-    "alpha_1y": -2.99,
+    "alpha_1y": 0.46,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -6925,7 +6925,7 @@
     "score_crisil": 50,
     "score_aum": 93,
     "score_rep": 50,
-    "alpha_1y": 3.37,
+    "alpha_1y": 6.82,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -6973,7 +6973,7 @@
     "score_crisil": 50,
     "score_aum": 84.99,
     "score_rep": 50,
-    "alpha_1y": -7.05,
+    "alpha_1y": -3.6,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -7021,7 +7021,7 @@
     "score_crisil": 50,
     "score_aum": 92.42,
     "score_rep": 50,
-    "alpha_1y": 1.06,
+    "alpha_1y": 4.51,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -7069,7 +7069,7 @@
     "score_crisil": 50,
     "score_aum": 82.21,
     "score_rep": 50,
-    "alpha_1y": -2.76,
+    "alpha_1y": 0.69,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -7406,9 +7406,9 @@
     "score_crisil": 80,
     "score_aum": 100,
     "score_rep": 86.9,
-    "alpha_1y": -0.23,
-    "alpha_3y": 5.79,
-    "alpha_5y": 5.22
+    "alpha_1y": 3.22,
+    "alpha_3y": 6.17,
+    "alpha_5y": 5.79
   },
   "SUMGZG-GR": {
     "name": "Sundaram Multi Cap Growth Direct Plan",
@@ -7455,8 +7455,8 @@
     "score_crisil": 80,
     "score_aum": 85.65,
     "score_rep": 50,
-    "alpha_1y": -3.1,
-    "alpha_3y": 2.15,
+    "alpha_1y": 0.35,
+    "alpha_3y": 2.53,
     "alpha_5y": null
   },
   "MHMBYDG-GR": {
@@ -7504,9 +7504,9 @@
     "score_crisil": 80,
     "score_aum": 92.35,
     "score_rep": 50,
-    "alpha_1y": 2.45,
-    "alpha_3y": 6.75,
-    "alpha_5y": 6.56
+    "alpha_1y": 5.9,
+    "alpha_3y": 7.13,
+    "alpha_5y": 7.13
   },
   "EOAB-GR": {
     "name": "Nippon India Multi Cap Bonus Bonus Growth Direct Plan",
@@ -7553,9 +7553,9 @@
     "score_crisil": 80,
     "score_aum": 99.92,
     "score_rep": 100,
-    "alpha_1y": -0.05,
-    "alpha_3y": 6.25,
-    "alpha_5y": 8.84
+    "alpha_1y": 3.4,
+    "alpha_3y": 6.63,
+    "alpha_5y": 9.41
   },
   "EOAG-GR": {
     "name": "Nippon India Multi Cap Growth Direct Plan",
@@ -7602,9 +7602,9 @@
     "score_crisil": 80,
     "score_aum": 99.92,
     "score_rep": 100,
-    "alpha_1y": -0.05,
-    "alpha_3y": 6.25,
-    "alpha_5y": 8.84
+    "alpha_1y": 3.4,
+    "alpha_3y": 6.63,
+    "alpha_5y": 9.41
   },
   "RGMSD1-GR": {
     "name": "Invesco India Multicap Growth Direct Plan",
@@ -7651,9 +7651,9 @@
     "score_crisil": 40,
     "score_aum": 88,
     "score_rep": 50,
-    "alpha_1y": -8.03,
-    "alpha_3y": 1.85,
-    "alpha_5y": 2.32
+    "alpha_1y": -4.58,
+    "alpha_3y": 2.23,
+    "alpha_5y": 2.89
   },
   "BO107-GR": {
     "name": "Baroda BNP Paribas Multi Cap Growth Direct Plan",
@@ -7700,9 +7700,9 @@
     "score_crisil": 60,
     "score_aum": 86.19,
     "score_rep": 50,
-    "alpha_1y": -3.35,
-    "alpha_3y": 3.64,
-    "alpha_5y": 4.19
+    "alpha_1y": 0.1,
+    "alpha_3y": 4.02,
+    "alpha_5y": 4.76
   },
   "ITMCD1-GR": {
     "name": "ITI Multi Cap Growth Direct Plan",
@@ -7749,9 +7749,9 @@
     "score_crisil": 60,
     "score_aum": 82.67,
     "score_rep": 50,
-    "alpha_1y": 4.02,
-    "alpha_3y": 6.02,
-    "alpha_5y": 1.56
+    "alpha_1y": 7.47,
+    "alpha_3y": 6.4,
+    "alpha_5y": 2.13
   },
   "QUGFDG-GR": {
     "name": "Quant Multi Cap Growth Direct Plan",
@@ -7798,9 +7798,9 @@
     "score_crisil": 80,
     "score_aum": 94.55,
     "score_rep": 50,
-    "alpha_1y": -5.57,
-    "alpha_3y": -1.78,
-    "alpha_5y": 1.8
+    "alpha_1y": -2.12,
+    "alpha_3y": -1.4,
+    "alpha_5y": 2.37
   },
   "BS71Y-GR": {
     "name": "Aditya Birla Sun Life Multi Cap Growth Direct Plan",
@@ -7847,8 +7847,8 @@
     "score_crisil": 60,
     "score_aum": 93.17,
     "score_rep": 50,
-    "alpha_1y": 0.21,
-    "alpha_3y": 2.66,
+    "alpha_1y": 3.66,
+    "alpha_3y": 3.04,
     "alpha_5y": null
   },
   "KO1155D-GR": {
@@ -7896,8 +7896,8 @@
     "score_crisil": 100,
     "score_aum": 100,
     "score_rep": 50.33,
-    "alpha_1y": 2.49,
-    "alpha_3y": 8.9,
+    "alpha_1y": 5.94,
+    "alpha_3y": 9.28,
     "alpha_5y": null
   },
   "IDD357-GR": {
@@ -7945,8 +7945,8 @@
     "score_crisil": 60,
     "score_aum": 85.7,
     "score_rep": 50,
-    "alpha_1y": -2.84,
-    "alpha_3y": 2.13,
+    "alpha_1y": 0.61,
+    "alpha_3y": 2.51,
     "alpha_5y": null
   },
   "HDHMCDG-GR": {
@@ -7994,8 +7994,8 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 95.46,
-    "alpha_1y": -2.24,
-    "alpha_3y": 3.94,
+    "alpha_1y": 1.21,
+    "alpha_3y": 4.32,
     "alpha_5y": null
   },
   "AXMTDG-GR": {
@@ -8043,8 +8043,8 @@
     "score_crisil": 100,
     "score_aum": 98.72,
     "score_rep": 50,
-    "alpha_1y": -0.03,
-    "alpha_3y": 7.95,
+    "alpha_1y": 3.42,
+    "alpha_3y": 8.33,
     "alpha_5y": null
   },
   "SBD652G-GR": {
@@ -8092,8 +8092,8 @@
     "score_crisil": 60,
     "score_aum": 100,
     "score_rep": 79.46,
-    "alpha_1y": -6.78,
-    "alpha_3y": 2.24,
+    "alpha_1y": -3.33,
+    "alpha_3y": 2.62,
     "alpha_5y": null
   },
   "LCMKG1-GR": {
@@ -8141,8 +8141,8 @@
     "score_crisil": 80,
     "score_aum": 83.66,
     "score_rep": 50,
-    "alpha_1y": 0.67,
-    "alpha_3y": 5.71,
+    "alpha_1y": 4.12,
+    "alpha_3y": 6.09,
     "alpha_5y": null
   },
   "UNMCDG-GR": {
@@ -8190,8 +8190,8 @@
     "score_crisil": 60,
     "score_aum": 82.64,
     "score_rep": 50,
-    "alpha_1y": 3.23,
-    "alpha_3y": 4.14,
+    "alpha_1y": 6.68,
+    "alpha_3y": 4.52,
     "alpha_5y": null
   },
   "HSHMCDG-GR": {
@@ -8239,8 +8239,8 @@
     "score_crisil": 100,
     "score_aum": 90.6,
     "score_rep": 50,
-    "alpha_1y": 0.96,
-    "alpha_3y": 8.32,
+    "alpha_1y": 4.41,
+    "alpha_3y": 8.7,
     "alpha_5y": null
   },
   "TAMLGZ-GR": {
@@ -8288,8 +8288,8 @@
     "score_crisil": 20,
     "score_aum": 86.34,
     "score_rep": 50,
-    "alpha_1y": 4.66,
-    "alpha_3y": -0.22,
+    "alpha_1y": 8.11,
+    "alpha_3y": 0.16,
     "alpha_5y": null
   },
   "BAMLDG-GR": {
@@ -8336,8 +8336,8 @@
     "score_crisil": 50,
     "score_aum": 82.02,
     "score_rep": 50,
-    "alpha_1y": 5.37,
-    "alpha_3y": 7.61,
+    "alpha_1y": 8.82,
+    "alpha_3y": 7.99,
     "alpha_5y": null
   },
   "CAMFDG-GR": {
@@ -8384,7 +8384,7 @@
     "score_crisil": 50,
     "score_aum": 90.27,
     "score_rep": 50,
-    "alpha_1y": -0.57,
+    "alpha_1y": 2.88,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8432,7 +8432,7 @@
     "score_crisil": 50,
     "score_aum": 89.49,
     "score_rep": 50,
-    "alpha_1y": 1.92,
+    "alpha_1y": 5.37,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8480,7 +8480,7 @@
     "score_crisil": 50,
     "score_aum": 86.22,
     "score_rep": 50,
-    "alpha_1y": 3.09,
+    "alpha_1y": 6.54,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8528,7 +8528,7 @@
     "score_crisil": 50,
     "score_aum": 86.28,
     "score_rep": 50,
-    "alpha_1y": 0.75,
+    "alpha_1y": 4.2,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8576,7 +8576,7 @@
     "score_crisil": 50,
     "score_aum": 85.27,
     "score_rep": 50,
-    "alpha_1y": -2.62,
+    "alpha_1y": 0.83,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8624,7 +8624,7 @@
     "score_crisil": 50,
     "score_aum": 87.88,
     "score_rep": 50,
-    "alpha_1y": -9.89,
+    "alpha_1y": -6.44,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8672,7 +8672,7 @@
     "score_crisil": 50,
     "score_aum": 89.73,
     "score_rep": 50,
-    "alpha_1y": -0.69,
+    "alpha_1y": 2.76,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8720,7 +8720,7 @@
     "score_crisil": 50,
     "score_aum": 80.81,
     "score_rep": 50,
-    "alpha_1y": 1.04,
+    "alpha_1y": 4.49,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8768,7 +8768,7 @@
     "score_crisil": 50,
     "score_aum": 80.53,
     "score_rep": 50,
-    "alpha_1y": -15.46,
+    "alpha_1y": -12.01,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8816,7 +8816,7 @@
     "score_crisil": 50,
     "score_aum": 80.75,
     "score_rep": 50,
-    "alpha_1y": 11.13,
+    "alpha_1y": 14.58,
     "alpha_3y": null,
     "alpha_5y": null
   },
@@ -8864,7 +8864,7 @@
     "score_crisil": 50,
     "score_aum": 82.32,
     "score_rep": 50,
-    "alpha_1y": -1.16,
+    "alpha_1y": 2.29,
     "alpha_3y": null,
     "alpha_5y": null
   },
